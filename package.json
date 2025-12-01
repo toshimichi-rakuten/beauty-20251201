@@ -1,0 +1,22 @@
+{
+  "name": "beauty-html-master",
+  "version": "1.0.0",
+  "description": "楽天ビューティーのHTMLマスターファイル",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "builder:dev": "vite --host",
+    "builder:build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "builder": {
+    "framework": "vite",
+    "assets": {
+      "outputDir": "dist"
+    }
+  }
+}

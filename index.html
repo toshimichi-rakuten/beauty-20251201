@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>楽天ビューティー - HTMLマスター</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      color: white;
+      text-align: center;
+      margin-bottom: 40px;
+      font-size: 2.5rem;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    }
+
+    .search-box {
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    .search-box input {
+      width: 100%;
+      max-width: 600px;
+      padding: 15px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 50px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      outline: none;
+    }
+
+    .search-box input:focus {
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+
+    .page-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
+
+    .page-card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .page-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    }
+
+    .page-card h2 {
+      color: #667eea;
+      font-size: 1.3rem;
+      margin-bottom: 8px;
+      word-break: break-all;
+    }
+
+    .page-card p {
+      color: #666;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 4px 12px;
+      background: #667eea;
+      color: white;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      margin-top: 12px;
+    }
+
+    .no-results {
+      text-align: center;
+      color: white;
+      font-size: 1.2rem;
+      margin-top: 60px;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.8rem;
+      }
+
+      .page-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎨 楽天ビューティー HTMLマスター</h1>
+
+    <div class="search-box">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="ページを検索... (例: eagles, kerastase, app)"
+        autocomplete="off"
+      >
+    </div>
+
+    <div class="page-grid" id="pageGrid"></div>
+    <div class="no-results" id="noResults" style="display: none;">
+      検索結果が見つかりませんでした
+    </div>
+  </div>
+
+  <script type="module">
+    // すべてのページ情報
+    const pages = [
+      { name: '10thAnniv', path: '10thAnniv/index-bundled.html', desc: '10周年記念ページ' },
+      { name: '_tokushu', path: '_tokushu/index-bundled.html', desc: '特集ページ' },
+      { name: 'anniversary', path: 'anniversary/index-bundled.html', desc: 'アニバーサリーページ' },
+      { name: 'app2x', path: 'app2x/index-bundled.html', desc: 'アプリ2倍キャンペーン' },
+      { name: 'area-all', path: 'area-all/index-bundled.html', desc: '全エリア一覧' },
+      { name: 'area-app3x', path: 'area-app3x/index-bundled.html', desc: 'エリアアプリ3倍' },
+      { name: 'area-haircare', path: 'area-haircare/index-bundled.html', desc: 'エリアヘアケア' },
+      { name: 'area-otocoupon', path: 'area-otocoupon/index-bundled.html', desc: 'エリアお得クーポン' },
+      { name: 'area-otocoupon02', path: 'area-otocoupon02/index-bundled.html', desc: 'エリアお得クーポン02' },
+      { name: 'area-otocoupon03', path: 'area-otocoupon03/index-bundled.html', desc: 'エリアお得クーポン03' },
+      { name: 'beautyaward', path: 'beautyaward/index-bundled.html', desc: 'ビューティーアワード' },
+      { name: 'bigsale', path: 'bigsale/index-bundled.html', desc: 'ビッグセール' },
+      { name: 'bonus_point_202505', path: 'bonus_point_202505/index-bundled.html', desc: 'ボーナスポイント2025年5月' },
+      { name: 'braun', path: 'braun/index-bundled.html', desc: 'ブラウンキャンペーン' },
+      { name: 'eagles', path: 'eagles/index-bundled.html', desc: 'イーグルスコラボ' },
+      { name: 'eagles2024', path: 'eagles2024/index-bundled.html', desc: 'イーグルス2024' },
+      { name: 'eagles2025', path: 'eagles2025/index-bundled.html', desc: 'イーグルス2025' },
+      { name: 'employee', path: 'employee/index-bundled.html', desc: '従業員向けページ' },
+      { name: 'favorite', path: 'favorite/index-bundled.html', desc: 'お気に入り' },
+      { name: 'fukuoka-haircare', path: 'fukuoka-haircare/index-bundled.html', desc: '福岡ヘアケア' },
+      { name: 'fukuoka', path: 'fukuoka/index-bundled.html', desc: '福岡エリア' },
+      { name: 'gakuwari', path: 'gakuwari/index-bundled.html', desc: '学割キャンペーン' },
+      { name: 'girlsaward_questionnaire202309', path: 'girlsaward_questionnaire202309/index-bundled.html', desc: 'ガールズアワードアンケート' },
+      { name: 'headbath', path: 'headbath/index-bundled.html', desc: 'ヘッドバス' },
+      { name: 'hiroshima', path: 'hiroshima/index-bundled.html', desc: '広島エリア' },
+      { name: 'inclusive-salon', path: 'inclusive-salon/index-bundled.html', desc: 'インクルーシブサロン' },
+      { name: 'instagram', path: 'instagram/index-bundled.html', desc: 'Instagramキャンペーン' },
+      { name: 'kerastase-ichiba', path: 'kerastase-ichiba/index-bundled.html', desc: 'ケラスターゼ市場' },
+      { name: 'kerastase', path: 'kerastase/index-bundled.html', desc: 'ケラスターゼ' },
+      { name: 'kerastase_questionaire', path: 'kerastase_questionaire/index-bundled.html', desc: 'ケラスターゼアンケート' },
+      { name: 'kobe', path: 'kobe/index-bundled.html', desc: '神戸エリア' },
+      { name: 'kobe_haircare', path: 'kobe_haircare/index-bundled.html', desc: '神戸ヘアケア' },
+      { name: 'kobe_vissel', path: 'kobe_vissel/index-bundled.html', desc: 'ヴィッセル神戸コラボ' },
+      { name: 'lgbtq-friendly', path: 'lgbtq-friendly/index-bundled.html', desc: 'LGBTQフレンドリー' },
+      { name: 'mama_grpcpn', path: 'mama_grpcpn/index-bundled.html', desc: 'ママグループクーポン' },
+      { name: 'mobile_app', path: 'mobile_app/index-bundled.html', desc: 'モバイルアプリ' },
+      { name: 'mobile_thanksfestival', path: 'mobile_thanksfestival/index-bundled.html', desc: 'モバイル感謝祭' },
+      { name: 'newapp', path: 'newapp/index-bundled.html', desc: '新アプリ' },
+      { name: 'otocoupon', path: 'otocoupon/index-bundled.html', desc: 'お得クーポン' },
+      { name: 'point-zakuzaku', path: 'point-zakuzaku/index-bundled.html', desc: 'ポイントざくざく' },
+      { name: 'premiere', path: 'premiere/index-bundled.html', desc: 'プレミアページ' },
+      { name: 'present', path: 'present/index-bundled.html', desc: 'プレゼントキャンペーン' },
+      { name: 'rakutenian-salon-referral', path: 'rakutenian-salon-referral/index-bundled.html', desc: '楽天社員サロン紹介' },
+      { name: 'referral_program', path: 'referral_program/index-bundled.html', desc: '紹介プログラム' },
+      { name: 'refresh_sp', path: 'refresh_sp/index-bundled.html', desc: 'リフレッシュSP' },
+      { name: 'repeat_coupon', path: 'repeat_coupon/index-bundled.html', desc: 'リピートクーポン' },
+      { name: 'repeat_coupon_202505', path: 'repeat_coupon_202505/index-bundled.html', desc: 'リピートクーポン2025年5月' },
+      { name: 'repeater', path: 'repeater/index-bundled.html', desc: 'リピーター向け' },
+      { name: 'review', path: 'review/index-bundled.html', desc: 'レビューページ' },
+      { name: 'rinx202503', path: 'rinx202503/index-bundled.html', desc: 'RINX 2025年3月' },
+      { name: 'saitama', path: 'saitama/index-bundled.html', desc: '埼玉エリア' },
+      { name: 'saitama-haircare', path: 'saitama-haircare/index-bundled.html', desc: '埼玉ヘアケア' },
+      { name: 'salon-otocoupon02', path: 'salon-otocoupon02/index-bundled.html', desc: 'サロンお得クーポン02' },
+      { name: 'sapporo', path: 'sapporo/index-bundled.html', desc: '札幌エリア' },
+      { name: 'sbc', path: 'sbc/index-bundled.html', desc: 'SBC' },
+      { name: 'sendai', path: 'sendai/index-bundled.html', desc: '仙台エリア' },
+      { name: 'sendai_haircare', path: 'sendai_haircare/index-bundled.html', desc: '仙台ヘアケア' },
+      { name: 'shiseido-ultist', path: 'shiseido-ultist/index-bundled.html', desc: '資生堂ウルティスト' },
+      { name: 'slim_202404', path: 'slim_202404/index-bundled.html', desc: 'スリム2024年4月' },
+      { name: 'slim_202411', path: 'slim_202411/index-bundled.html', desc: 'スリム2024年11月' },
+      { name: 'spu', path: 'spu/index-bundled.html', desc: 'SPUキャンペーン' },
+      { name: 'supersale', path: 'supersale/index-bundled.html', desc: 'スーパーセール' },
+      { name: 'svenson202403', path: 'svenson202403/index-bundled.html', desc: 'スヴェンソン2024年3月' },
+      { name: 'svenson202409', path: 'svenson202409/index-bundled.html', desc: 'スヴェンソン2024年9月' },
+      { name: 'svenson202502', path: 'svenson202502/index-bundled.html', desc: 'スヴェンソン2025年2月' },
+      { name: 'today_tomorrow', path: 'today_tomorrow/index-bundled.html', desc: '今日・明日予約' },
+      { name: 'tokyo', path: 'tokyo/index-bundled.html', desc: '東京エリア' },
+      { name: 'tokyo-pay', path: 'tokyo-pay/index-bundled.html', desc: '東京ペイ' },
+      { name: 'x', path: 'x/index-bundled.html', desc: 'Xキャンペーン' },
+      { name: 'x-otocoupon', path: 'x-otocoupon/index-bundled.html', desc: 'Xお得クーポン' }
+    ];
+
+    let currentPages = [...pages];
+
+    function renderPages(pagesToRender) {
+      const grid = document.getElementById('pageGrid');
+      const noResults = document.getElementById('noResults');
+
+      if (pagesToRender.length === 0) {
+        grid.style.display = 'none';
+        noResults.style.display = 'block';
+        return;
+      }
+
+      grid.style.display = 'grid';
+      noResults.style.display = 'none';
+
+      grid.innerHTML = pagesToRender.map(page => `
+        <a href="${page.path}" class="page-card">
+          <h2>${page.name}</h2>
+          <p>${page.desc}</p>
+          <span class="badge">HTMLページ</span>
+        </a>
+      `).join('');
+    }
+
+    // 検索機能
+    const searchInput = document.getElementById('searchInput');
+    searchInput.addEventListener('input', (e) => {
+      const query = e.target.value.toLowerCase();
+      const filtered = pages.filter(page =>
+        page.name.toLowerCase().includes(query) ||
+        page.desc.toLowerCase().includes(query)
+      );
+      renderPages(filtered);
+    });
+
+    // 初期表示
+    renderPages(pages);
+  </script>
+</body>
+</html>
