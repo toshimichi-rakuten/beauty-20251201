@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "ALGERNON 【アルジャーノン】",
+    "salonId": "s4000053102",
+    "area": "品川・大森・蒲田",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "ヒロ銀座BARBER SHOP 秋葉原店",
+    "salonId": "s2000048499",
+    "area": "上野・日本橋・浅草",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "little 新宿",
+    "salonId": "s3010011553",
+    "area": "新宿",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "little 池袋",
+    "salonId": "s5010014825",
+    "area": "池袋",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "hair salon natural",
+    "salonId": "s6000020395",
+    "area": "品川・大森・蒲田",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "HIROGINZA東京駅八重洲口店",
+    "salonId": "s8000041025",
+    "area": "銀座・新橋・有楽町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "little 錦糸町",
+    "salonId": "s0000045534",
+    "area": "錦糸町・小岩・青砥",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "OAK 学芸大学",
+    "salonId": "s9000045058",
+    "area": "自由が丘・学芸大学",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "LAVIE NEW STANDARD BARBER 秋葉原神田店　理容室",
+    "salonId": "s1000046437",
+    "area": "上野・日本橋・浅草",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "ヒロ銀座ヘアーサロン 五反田店",
+    "salonId": "s6000021363",
+    "area": "目黒・戸越・武蔵小山",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "little 銀座",
+    "salonId": "s3010011557",
+    "area": "銀座・新橋・有楽町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "Euphoria GINZA GRANDE 銀座",
+    "salonId": "s2010008268",
+    "area": "銀座・新橋・有楽町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "ALGERNON 【アルジャーノン】",
+    "salonId": "s4000053102",
+    "area": "品川・大森・蒲田",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

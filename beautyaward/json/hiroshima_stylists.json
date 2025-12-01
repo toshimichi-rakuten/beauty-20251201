@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "中岡 英人",
+    "id": "stf0143692",
+    "status": "open",
+    "salon": "oluolu 〜hair〜",
+    "salonId": "s9000042504",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "正木 信之",
+    "id": "stf0203850",
+    "status": "open",
+    "salon": "hair salon girasol",
+    "salonId": "s2000049842",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "玉谷 雄一郎",
+    "id": "stf0094065",
+    "status": "open",
+    "salon": "XYZ HAIR design",
+    "salonId": "s6000024463",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "大田 裕士",
+    "id": "stf0223297",
+    "status": "open",
+    "salon": "NUNO hairsalon&atelier",
+    "salonId": "s3000052306",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "大下 翔平",
+    "id": "stf0219057",
+    "status": "open",
+    "salon": "CLEO hair international パセーラ店",
+    "salonId": "s1000048046",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "仙田 淳美",
+    "id": "stf0234769",
+    "status": "open",
+    "salon": "【全席半個室サロン】Natural 広島店",
+    "salonId": "s1000047158",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "中平 愛子",
+    "id": "stf0187357",
+    "status": "open",
+    "salon": "Atelier pono",
+    "salonId": "s1000048012",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "谷口 徹",
+    "id": "stf0185884",
+    "status": "open",
+    "salon": "KORERO hair",
+    "salonId": "s1000047777",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "新堂 浩二",
+    "id": "stf0207197",
+    "status": "open",
+    "salon": "STELLA hair",
+    "salonId": "s3000050529",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "YASU （北谷 安博）",
+    "id": "stf0187712",
+    "status": "open",
+    "salon": "CLEO hair international 八丁堀店",
+    "salonId": "s1000048047",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

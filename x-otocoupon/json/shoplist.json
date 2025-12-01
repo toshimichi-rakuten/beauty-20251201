@@ -1,0 +1,98 @@
+[
+  {
+    "area": "東京都",
+    "shop_id": "s4000053221",
+    "shop_name": "WISTERIA ANNEX 銀座【ウィステリア アネックス】",
+    "station": "銀座",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053222",
+    "shop_name": "WISTERIA PLUS1 銀座一丁目【ウィステリア プラスワン】",
+    "station": "銀座一丁目",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s6000023156",
+    "shop_name": "ROMA【ローマ】銀座店",
+    "station": "銀座",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s9000042497",
+    "shop_name": "newi 池袋",
+    "station": "池袋",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053617",
+    "shop_name": "tip・top池袋店",
+    "station": "池袋",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053625",
+    "shop_name": "tip・top目白店",
+    "station": "目白",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000054926",
+    "shop_name": "cielo by siesta",
+    "station": "池袋",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000052846",
+    "shop_name": "Arlel",
+    "station": "池袋",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0000045424",
+    "shop_name": "siesta by amble luxe",
+    "station": "池袋",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053857",
+    "shop_name": "髪質改善カラーReana.豊洲 美容院【リアナ】",
+    "station": "豊洲",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000054463",
+    "shop_name": "ECLART GINZA 銀座店【エクラートギンザ】",
+    "station": "日比谷駅",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000052787",
+    "shop_name": "NERIE 銀座",
+    "station": "銀座一丁目駅",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  }
+]

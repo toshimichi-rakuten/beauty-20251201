@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "Cloe 仙台",
+    "salonId": "s9000044216",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "mod's hair 仙台長町店",
+    "salonId": "s9000041640",
+    "area": "長町・南仙台・富沢",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "hair dressing flora",
+    "salonId": "s9000044863",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "elm 仙台 錦町",
+    "salonId": "s2000049866",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "Cherie 仙台 髪質改善",
+    "salonId": "s0000046142",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "L.E.M 泉中央店",
+    "salonId": "s1000047511",
+    "area": "泉中央・八乙女・北仙台",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "hair make Tag 仙台青葉区",
+    "salonId": "s0000045632",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "Louer hairmake",
+    "salonId": "s2000048402",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "bellus",
+    "salonId": "s8000037642",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "【全席半個室サロン】Natural 仙台西口店",
+    "salonId": "s0000045393",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "mau 仙台店",
+    "salonId": "s9000045068",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "Tear Drive by Salt",
+    "salonId": "s5000016399",
+    "area": "泉中央・八乙女・北仙台",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "仙台 美容室 loki 髪質改善 個室サロン4月 OPEN",
+    "salonId": "s4000053381",
+    "area": "仙台駅周辺・一番町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "Vista by MODE K's",
+    "salonId": "s0000045164",
+    "area": "灘区・東灘区・岡本",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "HAIR BRAND Link 【リンク】トアロード店",
+    "salonId": "s7000033673",
+    "area": "元町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "AINM with tetote 御影店",
+    "salonId": "s7000034273",
+    "area": "灘区・東灘区・岡本",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "Kelly's Green",
+    "salonId": "s5010014654",
+    "area": "三宮",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "soil 垂水",
+    "salonId": "s9000041470",
+    "area": "須磨区・垂水区・西区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "ELLYLONDON 垂水店",
+    "salonId": "s1000046297",
+    "area": "須磨区・垂水区・西区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "INCE HAIR 垂水",
+    "salonId": "s1000047869",
+    "area": "須磨区・垂水区・西区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "ELLYLONDON 三宮Part2店",
+    "salonId": "s1000046294",
+    "area": "三宮",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "床屋にもう",
+    "salonId": "s1000047247",
+    "area": "三宮",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "La fith hair lino 三宮店",
+    "salonId": "s0000046000",
+    "area": "三宮",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "DUNO hair",
+    "salonId": "s8000037770",
+    "area": "三宮",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "Tetote 三宮本店",
+    "salonId": "s3010011700",
+    "area": "三宮",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "ambiente",
+    "salonId": "s4000053395",
+    "area": "元町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "area": "宮城県",
+    "shop_id": "s3000052205",
+    "shop_name": "Lydia",
+    "station": "仙台市地下鉄南北線 勾当台公園駅 徒歩10分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000052344",
+    "shop_name": "S.feel柳生店",
+    "station": "JR各線　南仙台駅　徒歩27分",
+    "select1": "宮城県",
+    "select2": "長町・南仙台・富沢"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000052425",
+    "shop_name": "ESQUISSE",
+    "station": "東北・北海道新幹線 仙台駅 徒歩5分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000050712",
+    "shop_name": "HAIR CARE ONE beauty 仙台中央店",
+    "station": "仙台市地下鉄南北線 仙台駅 徒歩5分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000052123",
+    "shop_name": "hair care&design Suzy",
+    "station": "仙台市地下鉄南北線 北四番丁駅 徒歩7分",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000052921",
+    "shop_name": "u'i by first北四番丁",
+    "station": "仙台市地下鉄南北線 北四番丁駅 徒歩1分\\r\\n北四番丁駅改札を左に曲がり、〈北2出口〉から外へ",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000052867",
+    "shop_name": "Ley hair/spa/eyelash",
+    "station": "仙台市地下鉄南北線 長町南駅 徒歩6分\\r\\n",
+    "select1": "宮城県",
+    "select2": "長町・南仙台・富沢"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s0010001668",
+    "shop_name": "afumty",
+    "station": "仙台市営南北線 泉中央駅 徒歩8分　ツルハドラックさんの隣のマンション。永大ハウス工業さんの向かい。",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s8000037670",
+    "shop_name": "NAGOMI",
+    "station": "JR東北本線 東仙台駅 徒歩30分（車で11分）",
+    "select1": "宮城県",
+    "select2": "若林区・宮城野区"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s8000037671",
+    "shop_name": "NAGOMI NO HiTOTOKi",
+    "station": "JR仙山線・仙台市地下鉄南北線 北仙台駅 徒歩7分",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000050925",
+    "shop_name": "NINE HAIR",
+    "station": "仙台市地下鉄南北線 勾当台公園駅 徒歩3分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000047838",
+    "shop_name": "Noele hair atelier",
+    "station": "仙台市地下鉄南北線 勾当台公園駅 徒歩4分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000047169",
+    "shop_name": "EHACO hair&spa",
+    "station": "仙台市地下鉄南北線 五橋駅 徒歩3分",
+    "select1": "宮城県",
+    "select2": "若林区・宮城野区"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s2000048545",
+    "shop_name": "Healing&barber Rete-Lu 理容室｜若林区",
+    "station": "仙台市地下鉄東西線 薬師堂(宮城)駅 徒歩15分",
+    "select1": "宮城県",
+    "select2": "若林区・宮城野区"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s5000016399",
+    "shop_name": "Tear Drive by Salt",
+    "station": "仙台市地下鉄南北線 泉中央駅 徒歩5分ラーメンとパン屋さんの2階",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s2000049113",
+    "shop_name": "ACT仙台 deuxieme",
+    "station": "仙台市地下鉄南北線 勾当台公園駅 徒歩4分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000051767",
+    "shop_name": "Creation HAIR MAKE",
+    "station": "仙台市地下鉄南北線 広瀬通駅 徒歩5分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s9000044825",
+    "shop_name": "concierge 仙台市泉区",
+    "station": "仙台市地下鉄南北線 泉中央駅 徒歩31分(車で10分）",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s2000048857",
+    "shop_name": "kinari",
+    "station": "JR仙石線 仙台駅 徒歩10分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000047719",
+    "shop_name": "【メンズヘアサロン】LES GARCONS 仙台店",
+    "station": "JR仙石線 あおば通駅 徒歩1分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000051907",
+    "shop_name": "PEAR+L",
+    "station": "各線 三宮駅 徒歩7分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000051869",
+    "shop_name": "理容 ナガオ",
+    "station": "JR神戸線・阪神本線 元町(ＪＲ)駅 徒歩2?3分",
+    "select1": "兵庫県",
+    "select2": "元町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000051906",
+    "shop_name": "shiro.kobe",
+    "station": "《元町駅東口》北側に出て線路沿いを三ノ宮方面へ、セブンイレブン手前を左へ。アディダスを過ぎた２つ目の路地を右へ。2軒目3階です★",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000051937",
+    "shop_name": "CRAFT OF HAIR Alive",
+    "station": "JR神戸線 舞子駅 徒歩20分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052111",
+    "shop_name": "4H＋",
+    "station": "JR神戸線 六甲道駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "灘区・東灘区・岡本"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052160",
+    "shop_name": "CIPHER Hair Creation",
+    "station": "JR神戸線 甲南山手駅 徒歩2分",
+    "select1": "兵庫県",
+    "select2": "灘区・東灘区・岡本"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052168",
+    "shop_name": "VIVOA",
+    "station": "JR神戸線 新長田駅 徒歩9分",
+    "select1": "兵庫県",
+    "select2": "神戸・兵庫区・長田区・北区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052164",
+    "shop_name": "美容室gran",
+    "station": "JR神戸線 元町(ＪＲ)駅 徒歩8分",
+    "select1": "兵庫県",
+    "select2": "元町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052125",
+    "shop_name": "Quiche",
+    "station": "JR神戸線 舞子駅 徒歩20分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052122",
+    "shop_name": "ano 'ano",
+    "station": "JR東海道・山陽本線 垂水駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052485",
+    "shop_name": "MEN'S WILL by SVENSON 神戸スタジオ",
+    "station": "JR東海道・山陽本線 三ノ宮駅 徒歩2分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052547",
+    "shop_name": "tetote 六甲道店 Aujua灘/東灘エリア認定サロン",
+    "station": "◆JR六甲道駅の北側、左手のマクドナルド方面に歩き、セブンイレブンの道を北に進むと商店街があります。商店街をさらに北に進むと、左手にコープさん、その向かいにふくちぁん餃子があり、そのビルの２Fです。",
+    "select1": "兵庫県",
+    "select2": "灘区・東灘区・岡本"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s4000053235",
+    "shop_name": "Lond one元町三宮",
+    "station": "JR東海道本線・阪神本線 元町(ＪＲ)駅 徒歩3分",
+    "select1": "兵庫県",
+    "select2": "元町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s2000049815",
+    "shop_name": "LADiX",
+    "station": "神戸市営地下鉄西神・山手線 三ノ宮駅 徒歩1分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s1000046261",
+    "shop_name": "Fumi 垂水本店",
+    "station": "JR神戸線・山陽電鉄本線 垂水駅 徒歩3分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s1000046262",
+    "shop_name": "Fumi 西神店",
+    "station": "神戸市営地下鉄西神・山手線 西神中央駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s1000046263",
+    "shop_name": "GIGI",
+    "station": "JR神戸線・山陽電鉄本線 垂水駅 徒歩3分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000050541",
+    "shop_name": "Ate",
+    "station": "神戸市営地下鉄西神・山手線 西神南駅 徒歩3分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052311",
+    "shop_name": "美容室BLOOM",
+    "station": "JR函館本線・快速エアポート 手稲駅 徒歩25分",
+    "select1": "北海道",
+    "select2": "西区・手稲区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052365",
+    "shop_name": "pesca ROOM59【ペスカ】",
+    "station": "JR各線 札幌(ＪＲ)駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "札幌駅周辺"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052631",
+    "shop_name": "HYKE",
+    "station": "札幌市営地下鉄南北線 南平岸駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "豊平区・南区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052662",
+    "shop_name": "SEED LUXBE by chouchou",
+    "station": "札幌市営地下鉄 各線 大通駅 23番出口（ル・トロワ直結）　徒歩1分",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052778",
+    "shop_name": "H.I.BARBER'S CLUB",
+    "station": "札幌市営地下鉄東西線 発寒南駅 徒歩32分（車で10分）",
+    "select1": "北海道",
+    "select2": "西区・手稲区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047622",
+    "shop_name": "hair care & poco Eau Nouvelle",
+    "station": "札幌市営地下鉄南北線 すすきの駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "すすきの・市電沿線"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047836",
+    "shop_name": "Dali 円山店",
+    "station": "札幌市営地下鉄東西線 西２８丁目駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "円山周辺"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000048072",
+    "shop_name": "ouca ～桜夏～",
+    "station": "札幌市営地下鉄各線 大通駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047837",
+    "shop_name": "Dali 新さっぽろ店",
+    "station": "札幌市営地下鉄東西線 新さっぽろ駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047760",
+    "shop_name": "gerbera",
+    "station": "札幌市営地下鉄南北線 北２４条駅 徒歩3分",
+    "select1": "北海道",
+    "select2": "北区・東区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047835",
+    "shop_name": "Dali 発寒南店",
+    "station": "札幌市営地下鉄東西線 発寒南駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "西区・手稲区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000048185",
+    "shop_name": "HELLO'S カテプリ新さっぽろ店",
+    "station": "札幌市営地下鉄東西線 新さっぽろ駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000048188",
+    "shop_name": "髪質整形(R) VARIEホテル日航札幌店",
+    "station": "札幌市営地下鉄南北線 さっぽろ(札幌市営)駅 徒歩2分",
+    "select1": "北海道",
+    "select2": "札幌駅周辺"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052765",
+    "shop_name": "LIQUIDROOM",
+    "station": "JR函館本線 手稲駅 徒歩15分（車で6分）",
+    "select1": "北海道",
+    "select2": "西区・手稲区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000050986",
+    "shop_name": "CREATION",
+    "station": "地下鉄各線 大通駅 徒歩4分",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s9010001242",
+    "shop_name": "artfield",
+    "station": "札幌市営南北線 すすきの駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047816",
+    "shop_name": "Lien",
+    "station": "札幌市営地下鉄東西線 西２８丁目駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "円山周辺"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000051532",
+    "shop_name": "peeps hair",
+    "station": "札幌市営地下鉄南北線 真駒内駅 徒歩12分",
+    "select1": "北海道",
+    "select2": "豊平区・南区"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000049811",
+    "shop_name": "anruru",
+    "station": "札幌市営地下鉄東西線 円山公園駅 徒歩4分",
+    "select1": "北海道",
+    "select2": "円山周辺"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s4000053094",
+    "shop_name": "ANTE ROOM.",
+    "station": "札幌市営地下鉄東西線 新さっぽろ駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s1000047770",
+    "shop_name": "Salon Hollywood",
+    "station": "広島電鉄２号線 八丁堀(広島)駅 徒歩4分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000052588",
+    "shop_name": "Maal hair",
+    "station": "広電　各線 袋町駅 徒歩2分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000052808",
+    "shop_name": "JAM's hair&spa五日市店 Smart Salon",
+    "station": "JR山陽本線 五日市駅 徒歩1分",
+    "select1": "広島県",
+    "select2": "西広島・井口・五日市"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000052857",
+    "shop_name": "hair nicole",
+    "station": "JR山陽本線 西広島駅 徒歩5分",
+    "select1": "広島県",
+    "select2": "西広島・井口・五日市"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s4000053029",
+    "shop_name": "Kaila hair",
+    "station": "広電本線 天満町駅 徒歩2分",
+    "select1": "広島県",
+    "select2": "横川・十日市・舟入"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s4000053090",
+    "shop_name": "fue’",
+    "station": "広電１系統 袋町駅 徒歩3分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000050855",
+    "shop_name": "EMEN",
+    "station": "広島電鉄白島線 女学院前駅 徒歩1分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s4000053350",
+    "shop_name": "HARUKI MINATO japan HIROSHIMA",
+    "station": "アストラムライン 本通駅 徒歩3分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s9010001006",
+    "shop_name": "BONDS",
+    "station": "広島電鉄２系統 銀山町駅 徒歩3分（幟町交番前にサロンはあります。）",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s9000042992",
+    "shop_name": "coquelicot",
+    "station": "広島電鉄 袋町駅 徒歩5分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s1000048108",
+    "shop_name": "Hair Salon Picotin",
+    "station": "広島電鉄宇品線 鷹野橋電停 徒歩1分、広島電鉄各線 舟入幸町駅 徒歩17分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s9000041861",
+    "shop_name": "smileonnylon",
+    "station": "広島電鉄１号線 八丁堀(広島)駅 徒歩3分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s1000048047",
+    "shop_name": "CLEO hair international 八丁堀店",
+    "station": "各線 八丁堀(広島)駅 徒歩1分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000050852",
+    "shop_name": "ture by LARANJE 横川店",
+    "station": "JR山陽本線 横川（広島）駅 徒歩1分　ローソン2F",
+    "select1": "広島県",
+    "select2": "横川・十日市・舟入"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000050641",
+    "shop_name": "Hairsβ",
+    "station": "アストラムライン 大原(広島)駅 徒歩3分",
+    "select1": "広島県",
+    "select2": "安佐南区・安佐北区"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s2000049288",
+    "shop_name": "en\"ppy",
+    "station": "JR山陽本線 西広島駅 徒歩3分",
+    "select1": "広島県",
+    "select2": "西広島・井口・五日市"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000052905",
+    "shop_name": "CIEL 紙屋町店",
+    "station": "広島電鉄本線・広島電鉄宇品線 紙屋町東駅 徒歩2分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000050529",
+    "shop_name": "STELLA hair",
+    "station": "広電２系統宮島線 楽々園駅 徒歩2分",
+    "select1": "広島県",
+    "select2": "西広島・井口・五日市"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000050640",
+    "shop_name": "One Hair",
+    "station": "アストラムライン 上安駅 徒歩4分",
+    "select1": "広島県",
+    "select2": "安佐南区・安佐北区"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000050890",
+    "shop_name": "CARELY",
+    "station": "広島電鉄各線 紙屋町西駅 徒歩1分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052681",
+    "shop_name": "MEN’S HAIR GARDEN FLOW",
+    "station": "福岡市地下鉄空港線 姪浜駅 徒歩3分",
+    "select1": "福岡県",
+    "select2": "西新・藤崎・姪浜・九大学研都市"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052622",
+    "shop_name": "髪質改善＆オーガニックカラー＆ヘナサロン 3A",
+    "station": "西鉄天神大牟田線 高宮(福岡)駅 徒歩5分",
+    "select1": "福岡県",
+    "select2": "平尾・高宮・大橋"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052584",
+    "shop_name": "grazie",
+    "station": "福岡市地下鉄七隈線 野芥駅 徒歩7分",
+    "select1": "福岡県",
+    "select2": "七隈・野芥・次郎丸"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052832",
+    "shop_name": "LadA",
+    "station": "福岡市地下鉄七隈線 渡辺通駅 徒歩10分",
+    "select1": "福岡県",
+    "select2": "平尾・高宮・大橋"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052831",
+    "shop_name": "atelier.fem",
+    "station": "福岡市地下鉄空港線 赤坂(福岡)駅 徒歩4分",
+    "select1": "福岡県",
+    "select2": "警固・赤坂・大濠"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052445",
+    "shop_name": "Daisy",
+    "station": "西鉄天神大牟田線 西鉄福岡(天神)駅 徒歩5分",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052446",
+    "shop_name": "Daisy duex",
+    "station": "福岡市地下鉄空港線 天神駅 徒歩3分",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052875",
+    "shop_name": "nico hair design",
+    "station": "福岡市地下鉄空港線 西新駅 徒歩5分",
+    "select1": "福岡県",
+    "select2": "西新・藤崎・姪浜・九大学研都市"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052735",
+    "shop_name": "Musiiik",
+    "station": "西鉄天神大牟田線 薬院駅 徒歩5分",
+    "select1": "福岡県",
+    "select2": "渡辺通・薬院"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052677",
+    "shop_name": "Bilien",
+    "station": "JR鹿児島本線 箱崎駅 徒歩0分",
+    "select1": "福岡県",
+    "select2": "吉塚・箱崎・香椎"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052881",
+    "shop_name": "Lei hair ＆ relax",
+    "station": "福岡市地下鉄空港線・福岡市地下鉄箱崎線 赤坂(福岡)駅 徒歩3分",
+    "select1": "福岡県",
+    "select2": "警固・赤坂・大濠"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000052948",
+    "shop_name": "501HAIRstudio",
+    "station": "福岡市地下鉄空港線 天神駅 徒歩7分（西鉄バス 今泉一丁目・天神警固神社・三越 徒歩7分）",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052505",
+    "shop_name": "ase. 荒江店",
+    "station": "福岡市地下鉄空港線 西新駅 徒歩20分\\r\\n荒江団地前バス停より徒歩1分",
+    "select1": "福岡県",
+    "select2": "西新・藤崎・姪浜・九大学研都市"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052335",
+    "shop_name": "gray hair beauty",
+    "station": "福岡市地下鉄七隈線 別府(福岡)駅 徒歩6分",
+    "select1": "福岡県",
+    "select2": "六本松・別府・桜坂"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000051868",
+    "shop_name": "Lilu",
+    "station": "JR各線 博多駅 徒歩7分",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s7000033108",
+    "shop_name": "NOUS HAIR DESIGN",
+    "station": "【当日予約OK】西鉄天神大牟田線 薬院駅 徒歩8分",
+    "select1": "福岡県",
+    "select2": "警固・赤坂・大濠"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000051130",
+    "shop_name": "_WHITE 天神店",
+    "station": "西鉄天神大牟田線 西鉄福岡(天神)駅 徒歩6分",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000050663",
+    "shop_name": "縮毛矯正＆ヘッドスパ専門店 doa hair design",
+    "station": "福岡市地下鉄空港線 天神駅 徒歩11分　もつ鍋の越後屋さんと、ラーメン屋我々さんが入っている\\r\\n今泉スクエアというビルの3階です。\\r\\nエレベーターの看板はサロンモールと書いてあります",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000050053",
+    "shop_name": "atelier REGO ～Hair～",
+    "station": "福岡市地下鉄七隈線 野芥駅 徒歩10分",
+    "select1": "福岡県",
+    "select2": "七隈・野芥・次郎丸"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000050068",
+    "shop_name": "個室型美容室 Clan 井尻店",
+    "station": "西鉄天神大牟田線 井尻駅 徒歩3分",
+    "select1": "福岡県",
+    "select2": "平尾・高宮・大橋"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s4000052934",
+    "shop_name": "ZELE/AVEDA 浦和パルコ店",
+    "station": "JR京浜東北線 浦和駅 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1010005856",
+    "shop_name": "VIEWREX PARCO",
+    "station": "JR京浜東北線 北浦和駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s5010013195",
+    "shop_name": "Lau Blossom与野店【オーガニックカラー/髪質改善】",
+    "station": "JR京浜東北線 与野駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s6000023212",
+    "shop_name": "aluss with AKROS omotesando",
+    "station": "JR京浜東北線 浦和駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000049329",
+    "shop_name": "Stir maison 大宮",
+    "station": "JR各線 大宮(埼玉)駅 徒歩３０秒",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000047090",
+    "shop_name": "ailes大宮店【髪質改善/ヘッドスパ/縮毛矯正】",
+    "station": "各線 大宮駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s8000036831",
+    "shop_name": "MIMURO【髪質改善/レイヤーカット】",
+    "station": "京浜東北線 浦和駅北口 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s9000044948",
+    "shop_name": "ベルジュバンスサロン カットハウスティエム",
+    "station": "JR武蔵野線 西浦和駅 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000049805",
+    "shop_name": "メーキングヘアークラフト 北与野",
+    "station": "JR埼京線 北与野駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000049833",
+    "shop_name": "appri by Rien 浦和1号店",
+    "station": "JR浦和駅 西口徒歩3分　【ULTOWA髪質改善/ブリーチ/インナーカラー/酸性ストレート】",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000046867",
+    "shop_name": "髪質改善&spa ANEW from Lucy",
+    "station": "JR京浜東北線、JR埼京線 大宮駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000049847",
+    "shop_name": "メンズ/インナーカラーHAIR SALON M 大宮",
+    "station": "大宮駅東口徒歩3分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000047139",
+    "shop_name": "hair and spa palm",
+    "station": "JR京浜東北線 与野駅 徒歩4分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000047138",
+    "shop_name": "hair and spa palm 東大宮店",
+    "station": "各線 東大宮駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000047096",
+    "shop_name": "oli-oli",
+    "station": "JR京浜東北線 大宮駅 徒歩7分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s7000031749",
+    "shop_name": "Qs",
+    "station": "各線 大宮駅西口 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s4000053347",
+    "shop_name": "HARUKI MINATO Japan OMIYA",
+    "station": "JR埼京線・高崎線 ・湘南新宿ライン・京浜東北線・川越線大宮(埼玉)駅 徒歩7分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000047105",
+    "shop_name": "Smile hair 浦和店",
+    "station": "JR京浜東北線 浦和駅 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s4000053217",
+    "shop_name": "side B",
+    "station": "各線 大宮(埼玉)駅 徒歩7分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s3000051260",
+    "shop_name": "GLROW",
+    "station": "各線 大宮(埼玉)駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  }
+]

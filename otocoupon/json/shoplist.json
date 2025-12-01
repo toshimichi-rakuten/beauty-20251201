@@ -1,0 +1,130 @@
+[
+  {
+    "area": "大阪府",
+    "shop_id": "s0000045532",
+    "shop_name": "FIGARO -UMEDA-",
+    "station": "大阪梅田",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s3000050205",
+    "shop_name": "BLEACHi心斎橋店",
+    "station": "心斎橋",
+    "select1": "大阪府",
+    "select2": "心斎橋・南船場・アメ村"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000048544",
+    "shop_name": "ii+U 銀座 【アイユー ギンザ】",
+    "station": "銀座",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4010012643",
+    "shop_name": "+ONE",
+    "station": "自由が丘(東京)",
+    "select1": "東京都",
+    "select2": "自由が丘・学芸大学"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s8000040841",
+    "shop_name": "HAIR&MAKE SeeK NEXT立川",
+    "station": "立川",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s5010015718",
+    "shop_name": "アーバンクラフト久米川店",
+    "station": "八坂(東京)",
+    "select1": "東京都",
+    "select2": "田無・小平・久米川"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000052794",
+    "shop_name": "ROCCO 3rd",
+    "station": "八王子",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000033364",
+    "shop_name": "KINGDOM 青山本店【キングダム青山】",
+    "station": "表参道",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000055775",
+    "shop_name": "Rocks hair gallery【ロックスヘアーギャラリー】",
+    "station": "神田(東京)",
+    "select1": "東京都",
+    "select2": "上野・日本橋・浅草"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s9000042842",
+    "shop_name": "K:R鶴川",
+    "station": "鶴川",
+    "select1": "東京都",
+    "select2": "町田"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000048743",
+    "shop_name": "Lond vallee 渋谷店",
+    "station": "渋谷",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053288",
+    "shop_name": "Hair Design Collet Neo 池袋",
+    "station": "池袋",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053494",
+    "shop_name": "SOHO NEW YORK GINZA",
+    "station": "銀座",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053183",
+    "shop_name": "PISM GINZA 【ピズム ギンザ】",
+    "station": "東銀座",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000051471",
+    "shop_name": "INCEPTION  GINZA 銀座",
+    "station": "銀座",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000052787",
+    "shop_name": "NERIE 銀座",
+    "station": "銀座一丁目",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  }
+]

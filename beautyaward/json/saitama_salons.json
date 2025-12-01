@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "ヘアーサロン3rd",
+    "salonId": "s8000040770",
+    "area": "大宮・与野",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "Luana 浦和",
+    "salonId": "s9000044994",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "Smile hair 武蔵浦和店",
+    "salonId": "s1000047108",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "hair garden Rold",
+    "salonId": "s1000047109",
+    "area": "大宮・与野",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "Smile hair 沼影店",
+    "salonId": "s3000050722",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "Sails セイルズ 浦和",
+    "salonId": "s7000033665",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "little 大宮",
+    "salonId": "s5000017054",
+    "area": "大宮・与野",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "COVER HAIR&SPA bliss 浦和",
+    "salonId": "s5000018482",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "HAIR LOUNGE SEPIA~mens only salon~",
+    "salonId": "s2010007191",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "ヒロ銀座BARBER SHOP 大宮店",
+    "salonId": "s1000046558",
+    "area": "大宮・与野",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "Emerge 大宮西口店",
+    "salonId": "s2000048775",
+    "area": "大宮・与野",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "COVER HAIR bliss 北浦和",
+    "salonId": "s5000018483",
+    "area": "浦和",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "KAREN & ECLART",
+    "salonId": "s3000052780",
+    "area": "大宮・与野",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

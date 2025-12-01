@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "島松 武市",
+    "id": "stf0095722",
+    "status": "open",
+    "salon": "MENS ONLYSALON SHIFT(メンズサロン)",
+    "salonId": "s6000025051",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "川島 瑞歩",
+    "id": "stf0125497",
+    "status": "open",
+    "salon": "a mark",
+    "salonId": "s5010015445",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "弥永 浩一郎",
+    "id": "stf0177247",
+    "status": "open",
+    "salon": "cocute",
+    "salonId": "s1000046936",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "下川 翔平",
+    "id": "stf0188037",
+    "status": "open",
+    "salon": "tocca hair&treatment 博多駅 博多口店",
+    "salonId": "s5000016482",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "板谷 信孝",
+    "id": "stf0191861",
+    "status": "open",
+    "salon": "MENS ONLYSALON SHIFT(メンズサロン)",
+    "salonId": "s6000025051",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "畑島 亮",
+    "id": "stf0195924",
+    "status": "open",
+    "salon": "Men's Only RAD HAIR DESIGN",
+    "salonId": "s2000048871",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "山田 勇真",
+    "id": "stf0208824",
+    "status": "open",
+    "salon": "【ショート・ボブ専門店】ease et motion",
+    "salonId": "s3000050227",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "中川原 ナオ",
+    "id": "stf0109674",
+    "status": "open",
+    "salon": "elf",
+    "salonId": "s2010009217",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "土谷 庄之介",
+    "id": "stf0043700",
+    "status": "open",
+    "salon": "a mark",
+    "salonId": "s5010015445",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "高木 一幸",
+    "id": "stf0120393",
+    "status": "open",
+    "salon": "elf",
+    "salonId": "s2010009217",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

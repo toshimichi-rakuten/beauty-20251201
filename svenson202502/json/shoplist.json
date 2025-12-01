@@ -1,0 +1,194 @@
+[
+  {
+    "area": "北海道",
+    "shop_id": "s0030001510",
+    "shop_name": "MEN'S WILL by SVENSON 札幌スタジオ",
+    "station": "札幌市営地下鉄南北線 大通駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "岩手県",
+    "shop_id": "s0030001514",
+    "shop_name": "MEN'S WILL by SVENSON 盛岡スタジオ",
+    "station": "JR東北本線 盛岡駅 徒歩7分",
+    "select1": "岩手県",
+    "select2": "盛岡"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s0030001526",
+    "shop_name": "MEN'S WILL by SVENSON 仙台スタジオ",
+    "station": "JR仙石線 あおば通駅 徒歩1分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "群馬県",
+    "shop_id": "s0030001528",
+    "shop_name": "MEN'S WILL by SVENSON 高崎スタジオ",
+    "station": "JR高崎線 高崎駅 徒歩5分",
+    "select1": "群馬県",
+    "select2": "高崎"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s0030001529",
+    "shop_name": "MEN'S WILL by SVENSON 大宮スタジオ",
+    "station": "JR埼京線 大宮駅西口 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "千葉県",
+    "shop_id": "s0030001530",
+    "shop_name": "MEN'S WILL by SVENSON 千葉スタジオ",
+    "station": "JR総武線 千葉駅 徒歩5分",
+    "select1": "千葉県",
+    "select2": "千葉・千葉中央・西千葉"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0030001531",
+    "shop_name": "MEN'S WILL by SVENSON 渋谷スタジオ",
+    "station": "JR山手線 渋谷駅　宮益坂口　徒歩3分",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0030001532",
+    "shop_name": "MEN'S WILL by SVENSON 新宿スタジオ",
+    "station": "JR山手線 新宿駅西口 徒歩10分",
+    "select1": "東京都",
+    "select2": "新宿"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0030001533",
+    "shop_name": "MEN'S WILL by SVENSON 池袋スポット",
+    "station": "JR山手線 池袋駅東口より 徒歩5分",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0030001534",
+    "shop_name": "MEN'S WILL by SVENSON 上野スポット",
+    "station": "東京メトロ千代田線 湯島駅 徒歩30秒ほど",
+    "select1": "東京都",
+    "select2": "上野・日本橋・浅草"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0030001536",
+    "shop_name": "MEN'S WILL by SVENSON 八王子スタジオ",
+    "station": "JR中央線 八王子駅 徒歩6分",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s0030001537",
+    "shop_name": "MEN'S WILL by SVENSON 横浜スポット",
+    "station": "JR横浜線 横浜駅西口 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s0030001538",
+    "shop_name": "MEN'S WILL by SVENSON 湘南藤沢スタジオ",
+    "station": "小田急江ノ島線 藤沢駅 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "藤沢・湘南台・江ノ島"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s0030001544",
+    "shop_name": "MEN'S WILL by SVENSON 名古屋スタジオ",
+    "station": "名古屋市営地下鉄桜通線 国際センター(愛知)駅 徒歩2分",
+    "select1": "愛知県",
+    "select2": "名駅周辺・中村公園・西区"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s0030001547",
+    "shop_name": "MEN'S WILL by SVENSON 大阪スポット",
+    "station": "大阪市営御堂筋線 淀屋橋駅 13番出口から徒歩8分　御堂筋をお横断していただき右手本町側に向かい野村証券を左折　しばらく進みますとミニストップの向かいのビルになります。",
+    "select1": "大阪府",
+    "select2": "淀屋橋・本町・肥後橋"
+  },
+  {
+    "area": "京都府",
+    "shop_id": "s3000052486",
+    "shop_name": "MEN'S WILL by SVENSON 京都スタジオ",
+    "station": "阪急京都本線 烏丸駅 徒歩2分",
+    "select1": "京都府",
+    "select2": "京都駅・烏丸五条"
+  },
+  {
+    "area": "栃木県",
+    "shop_id": "s3000052487",
+    "shop_name": "MEN'S WILL by SVENSON 宇都宮スタジオ",
+    "station": "各線 宇都宮駅 徒歩8分",
+    "select1": "栃木県",
+    "select2": "宇都宮"
+  },
+  {
+    "area": "岡山県",
+    "shop_id": "s3000052488",
+    "shop_name": "MEN'S WILL by SVENSON 岡山スタジオ",
+    "station": "各線 岡山駅 徒歩4分",
+    "select1": "岡山県",
+    "select2": "岡山・玉野"
+  },
+  {
+    "area": "静岡県",
+    "shop_id": "s3000052489",
+    "shop_name": "MEN'S WILL by SVENSON 沼津スタジオ",
+    "station": "JR東海道本線・御殿場線 沼津駅 徒歩8分",
+    "select1": "静岡県",
+    "select2": "沼津・富士・御殿場"
+  },
+  {
+    "area": "静岡県",
+    "shop_id": "s3000052490",
+    "shop_name": "MEN'S WILL by SVENSON 浜松スタジオ",
+    "station": "JR東海道本線 浜松駅 徒歩5分",
+    "select1": "静岡県",
+    "select2": "浜松"
+  },
+  {
+    "area": "静岡県",
+    "shop_id": "s3000052491",
+    "shop_name": "MEN'S WILL by SVENSON 静岡スタジオ",
+    "station": "JR東海道本線 静岡駅 徒歩15分",
+    "select1": "静岡県",
+    "select2": "静岡・清水"
+  },
+  {
+    "area": "石川県",
+    "shop_id": "s3000052483",
+    "shop_name": "MEN'S WILL by SVENSON 金沢スタジオ",
+    "station": "JR各線　金沢駅　徒歩1分",
+    "select1": "石川県",
+    "select2": "金沢・野々市"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s3000052484",
+    "shop_name": "MEN'S WILL by SVENSON 広島スタジオ",
+    "station": "広電本線 胡町駅 徒歩1分",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000052485",
+    "shop_name": "MEN'S WILL by SVENSON 神戸スタジオ",
+    "station": "JR東海道・山陽本線 三ノ宮駅 徒歩2分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  }
+]

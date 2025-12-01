@@ -1,0 +1,906 @@
+[
+  {
+    "area": "北海道",
+    "shop_id": "s4000055330",
+    "shop_name": "ROW札幌",
+    "station": "大通駅",
+    "select1": "北海道",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s8000040818",
+    "shop_name": "カイロプラクティックリズム",
+    "station": "野幌駅",
+    "select1": "北海道",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s4000053535",
+    "shop_name": "ベストフィード",
+    "station": "ひばりが丘(北海道)駅",
+    "select1": "北海道",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000048597",
+    "shop_name": "【全室個室サロン】N° sopo 札幌",
+    "station": "大通駅",
+    "select1": "北海道",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000048599",
+    "shop_name": "N° il duca 札幌駅前店",
+    "station": "さっぽろ(札幌市営)駅",
+    "select1": "北海道",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000048600",
+    "shop_name": "N° jemica 札幌店",
+    "station": "さっぽろ(札幌市営)駅",
+    "select1": "北海道",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s2000048598",
+    "shop_name": "newi hau’oli 札幌駅前店",
+    "station": "さっぽろ(札幌市営)駅",
+    "select1": "北海道",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s8000037642",
+    "shop_name": "bellus",
+    "station": "青葉通一番町駅",
+    "select1": "宮城県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000049995",
+    "shop_name": "サロンソレイユ",
+    "station": "仙台駅",
+    "select1": "宮城県",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "秋田県",
+    "shop_id": "s3000050115",
+    "shop_name": "N° 秋田",
+    "station": "秋田駅",
+    "select1": "秋田県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "秋田県",
+    "shop_id": "s2000049896",
+    "shop_name": "newi hair&treatment 秋田",
+    "station": "秋田駅",
+    "select1": "秋田県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s3000052882",
+    "shop_name": "newi 所沢",
+    "station": "所沢駅",
+    "select1": "埼玉県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s4000053621",
+    "shop_name": "tip・top 川越店",
+    "station": "川越駅",
+    "select1": "埼玉県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000049557",
+    "shop_name": "ヘアカラー＆まつ毛パーマ専門店 NANAIRO",
+    "station": "蕨駅",
+    "select1": "埼玉県",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000049556",
+    "shop_name": "ヘアカラー＆まつ毛パーマ専門店 NANAIRO",
+    "station": "蕨駅",
+    "select1": "埼玉県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "千葉県",
+    "shop_id": "s0000045693",
+    "shop_name": "NOCKS",
+    "station": "浦安(千葉)駅",
+    "select1": "千葉県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000055304",
+    "shop_name": "筋膜リリース&リンパマッサージ CHILL 渋谷店",
+    "station": "渋谷駅",
+    "select1": "東京都",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000031142",
+    "shop_name": "男の全身脱毛dats!東京新宿店",
+    "station": "新宿御苑前駅",
+    "select1": "東京都",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s6000020446",
+    "shop_name": "スタジオワコー",
+    "station": "御徒町駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s5000017547",
+    "shop_name": "CLARIS",
+    "station": "自由が丘(東京)駅",
+    "select1": "東京都",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000050575",
+    "shop_name": "N° jillva 立川",
+    "station": "立川駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000050574",
+    "shop_name": "newi saLyu 立川",
+    "station": "立川駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000052938",
+    "shop_name": "Dijon 髪質改善×ダブルカラー×縮毛矯正 渋谷 原宿 表参道【ディジョン】",
+    "station": "渋谷駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000032500",
+    "shop_name": "スパッソ クリスタリーナ",
+    "station": "京王八王子駅",
+    "select1": "東京都",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053623",
+    "shop_name": "tip・top 京成小岩店",
+    "station": "京成小岩駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053626",
+    "shop_name": "tip・top 中村橋店",
+    "station": "中村橋駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053617",
+    "shop_name": "tip・top池袋店",
+    "station": "池袋駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053622",
+    "shop_name": "tip・top 清瀬店",
+    "station": "清瀬駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053614",
+    "shop_name": "tip・top 府中店",
+    "station": "府中(東京)駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s9000043928",
+    "shop_name": "あさ式ほぐし整体",
+    "station": "錦糸町駅",
+    "select1": "東京都",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053632",
+    "shop_name": "tip・top つつじヶ丘店",
+    "station": "つつじケ丘駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053624",
+    "shop_name": "tip・top町田店",
+    "station": "町田駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053625",
+    "shop_name": "tip・top目白店",
+    "station": "目白駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053627",
+    "shop_name": "tip・top 成増店",
+    "station": "成増駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053616",
+    "shop_name": "tip・top 保谷店",
+    "station": "保谷駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053873",
+    "shop_name": "メンズ脱毛専門店 555 Men’s Lab",
+    "station": "池尻大橋駅",
+    "select1": "東京都",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053618",
+    "shop_name": "tip・top 井荻店",
+    "station": "井荻駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s1000046591",
+    "shop_name": "eyelash & eyebrow MINE 吉祥寺店",
+    "station": "吉祥寺駅",
+    "select1": "東京都",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0000045884",
+    "shop_name": "メンズ脱毛 R.S.Land",
+    "station": "秋葉原駅",
+    "select1": "東京都",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s8000038948",
+    "shop_name": "iku LEDeyelash&eyebrow 表参道",
+    "station": "表参道駅",
+    "select1": "東京都",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000048755",
+    "shop_name": "newi 赤羽",
+    "station": "赤羽駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000050668",
+    "shop_name": "aruga 大岡山",
+    "station": "大岡山駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s9000042497",
+    "shop_name": "newi 池袋",
+    "station": "池袋駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049693",
+    "shop_name": "newi八王子",
+    "station": "八王子駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049914",
+    "shop_name": "ROW 吉祥寺",
+    "station": "吉祥寺駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000032498",
+    "shop_name": "Eyelash Holic!恵比寿店",
+    "station": "恵比寿駅",
+    "select1": "東京都",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000030953",
+    "shop_name": "美容室 マキシム",
+    "station": "ひばりケ丘(東京)駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000050778",
+    "shop_name": "ROW町田",
+    "station": "町田駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000055441",
+    "shop_name": "energy of grace",
+    "station": "南大沢駅",
+    "select1": "東京都",
+    "select2": "ネイルサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s8000037004",
+    "shop_name": "HAIR&MAKE ALMA 東久留米店",
+    "station": "東久留米駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049850",
+    "shop_name": "newi 国分寺",
+    "station": "国分寺駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s0090001390",
+    "shop_name": "Rings",
+    "station": "南阿佐ケ谷駅",
+    "select1": "東京都",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000052118",
+    "shop_name": "Million Bucks Barbershop 御徒町店",
+    "station": "御徒町駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4010011994",
+    "shop_name": "ヘアールーフ",
+    "station": "曳舟駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3010011362",
+    "shop_name": "LaLa rOomo 新宿店",
+    "station": "新宿駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4010012321",
+    "shop_name": "美容室　コミュニティサロン と和×美髪　巣鴨店",
+    "station": "巣鴨駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049821",
+    "shop_name": "N° deseo 吉祥寺",
+    "station": "吉祥寺駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000028118",
+    "shop_name": "満足（まんぞく）",
+    "station": "銀座一丁目駅",
+    "select1": "東京都",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s4000053075",
+    "shop_name": "髪質改善トリートメント&ヘッドスパ newi 銀座【ネウィ】",
+    "station": "銀座駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049863",
+    "shop_name": "全席個室サロン N° aria 三軒茶屋",
+    "station": "三軒茶屋駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049862",
+    "shop_name": "N° anfeel 渋谷",
+    "station": "渋谷駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s2000049208",
+    "shop_name": "LAIFAI",
+    "station": "代官山駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000051721",
+    "shop_name": "UNE ATTACHE",
+    "station": "吉祥寺駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s9000042209",
+    "shop_name": "PROGRESS 荻窪店",
+    "station": "荻窪駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s7000029874",
+    "shop_name": "せんじゅ整体院",
+    "station": "北千住駅",
+    "select1": "東京都",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s9000043945",
+    "shop_name": "リラックス＆メンテナンス　ecureco エキュレコ",
+    "station": "表参道駅",
+    "select1": "東京都",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000050042",
+    "shop_name": "ROW銀座",
+    "station": "有楽町駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "東京都",
+    "shop_id": "s3000051091",
+    "shop_name": "KUsU",
+    "station": "池尻大橋駅",
+    "select1": "東京都",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s1000046445",
+    "shop_name": "Beaute et sante 川崎駅前",
+    "station": "川崎駅",
+    "select1": "神奈川県",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s0000045174",
+    "shop_name": "Dream Style 川崎駅前",
+    "station": "川崎駅",
+    "select1": "神奈川県",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s7000030468",
+    "shop_name": "Pintu Masuk",
+    "station": "港南台駅",
+    "select1": "神奈川県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s7000030772",
+    "shop_name": "hair&color Plaatje 相模大野",
+    "station": "相模大野駅",
+    "select1": "神奈川県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s8000039288",
+    "shop_name": "Healing&整体space木花咲耶",
+    "station": "溝の口駅",
+    "select1": "神奈川県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s4000054281",
+    "shop_name": "ROW 川崎",
+    "station": "川崎駅",
+    "select1": "神奈川県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s3000052885",
+    "shop_name": "N° +aero 横浜",
+    "station": "横浜駅",
+    "select1": "神奈川県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "神奈川県",
+    "shop_id": "s3000051258",
+    "shop_name": "GOAT_茅ヶ崎",
+    "station": "茅ケ崎駅",
+    "select1": "神奈川県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "福井県",
+    "shop_id": "s4000055338",
+    "shop_name": "田舎家ほぐし処 ひまわり",
+    "station": "南条駅",
+    "select1": "福井県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "長野県",
+    "shop_id": "s8000038596",
+    "shop_name": "カイロプラクティック伊東",
+    "station": "今井駅",
+    "select1": "長野県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "静岡県",
+    "shop_id": "s6000021280",
+    "shop_name": "身心楽リラクゼーション",
+    "station": "静岡駅",
+    "select1": "静岡県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s3000050013",
+    "shop_name": "Total beauty salon Presh",
+    "station": "池下駅",
+    "select1": "愛知県",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s2000049913",
+    "shop_name": "N° rico 名駅",
+    "station": "名古屋駅",
+    "select1": "愛知県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s1000046159",
+    "shop_name": "リリー美容室",
+    "station": "黒川(愛知)駅",
+    "select1": "愛知県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s2000049812",
+    "shop_name": "newi belsia 名駅",
+    "station": "名鉄名古屋駅",
+    "select1": "愛知県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s2000049898",
+    "shop_name": "N° blao 名古屋栄",
+    "station": "栄(名古屋)駅",
+    "select1": "愛知県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "愛知県",
+    "shop_id": "s3000051931",
+    "shop_name": "number ulus 名駅店",
+    "station": "名古屋駅",
+    "select1": "愛知県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "京都府",
+    "shop_id": "s8000038785",
+    "shop_name": "やすらぎ山下整体療院",
+    "station": "鳴滝駅",
+    "select1": "京都府",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "京都府",
+    "shop_id": "s5000017933",
+    "shop_name": "ビューティアム京都",
+    "station": "京都市役所前駅",
+    "select1": "京都府",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "京都府",
+    "shop_id": "s5000017931",
+    "shop_name": "ドクターネイル爪革命 京都出町店",
+    "station": "今出川駅",
+    "select1": "京都府",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s4000053160",
+    "shop_name": "腰ひざ専門よしかわ整体院",
+    "station": "玉造(大阪メトロ)駅",
+    "select1": "大阪府",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s7000032376",
+    "shop_name": "メンズ脱毛ビーグラッド大阪南森町",
+    "station": "大阪天満宮駅",
+    "select1": "大阪府",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s4000055205",
+    "shop_name": "ふんわり眉毛とLEDマツエクの専門店 ぷりゅねる 難波【まつげパーマ/パリジェンヌ】",
+    "station": "難波駅",
+    "select1": "大阪府",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s2000049236",
+    "shop_name": "HAIR&SPA etoile",
+    "station": "桜井(大阪)駅",
+    "select1": "大阪府",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s7000026559",
+    "shop_name": "隠れ家salonいろは",
+    "station": "肥後橋駅",
+    "select1": "大阪府",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s3000050007",
+    "shop_name": "【ヘアケア特化型サロン】newi 京橋【ネウィ】",
+    "station": "京橋(大阪)駅",
+    "select1": "大阪府",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s3000050008",
+    "shop_name": "【全席個室サロン】NUMBER 天王寺【ナンバー】",
+    "station": "天王寺駅",
+    "select1": "大阪府",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s3000050004",
+    "shop_name": "【ヘアケア特化型サロン】newi 梅田",
+    "station": "東梅田駅",
+    "select1": "大阪府",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s3000050003",
+    "shop_name": "【ヘアケア特化型サロン】newi 天王寺",
+    "station": "天王寺駅",
+    "select1": "大阪府",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s4000053052",
+    "shop_name": "Nail＆Eyelash My＋ アメ村心斎橋店",
+    "station": "心斎橋駅",
+    "select1": "大阪府",
+    "select2": "ネイルサロン"
+  },
+  {
+    "area": "大阪府",
+    "shop_id": "s3000052518",
+    "shop_name": "mumu【天王寺/あべの】まつげと眉毛",
+    "station": "天王寺駅",
+    "select1": "大阪府",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s4000055557",
+    "shop_name": "Beauty Design Moana",
+    "station": "三ノ宮駅",
+    "select1": "兵庫県",
+    "select2": "ネイルサロン"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s4000053892",
+    "shop_name": "Beauty Design Moana",
+    "station": "三ノ宮駅",
+    "select1": "兵庫県",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000050768",
+    "shop_name": "aquarelle イオン加古川店",
+    "station": "東加古川駅",
+    "select1": "兵庫県",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000050767",
+    "shop_name": "アイラッシュサロン Rily",
+    "station": "中央市場前駅",
+    "select1": "兵庫県",
+    "select2": "まつげサロン"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s1000047461",
+    "shop_name": "青蝶院南京町店",
+    "station": "元町(ＪＲ)駅",
+    "select1": "兵庫県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "岡山県",
+    "shop_id": "s9000042414",
+    "shop_name": "リリアンナ シェービング＆エステ",
+    "station": "岡山駅",
+    "select1": "岡山県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "岡山県",
+    "shop_id": "s7000030058",
+    "shop_name": "リリアンナ シェービング＆エステ",
+    "station": "岡山駅",
+    "select1": "岡山県",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "徳島県",
+    "shop_id": "s8000039357",
+    "shop_name": "mouf -hair&eyelash-",
+    "station": "吉成駅",
+    "select1": "徳島県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000054206",
+    "shop_name": "Aillio",
+    "station": "博多駅",
+    "select1": "福岡県",
+    "select2": "エステサロン"
+  },
+  {
+    "area": "長崎県",
+    "shop_id": "s8000034963",
+    "shop_name": "Hair Art Little",
+    "station": "本諫早駅",
+    "select1": "長崎県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大分県",
+    "shop_id": "s3000052157",
+    "shop_name": "N°number 大分中央町店",
+    "station": "大分駅",
+    "select1": "大分県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "大分県",
+    "shop_id": "s2000049818",
+    "shop_name": "newi hair&treatment大分中央町店",
+    "station": "大分駅",
+    "select1": "大分県",
+    "select2": "ヘアサロン"
+  },
+  {
+    "area": "沖縄県",
+    "shop_id": "s4000054373",
+    "shop_name": "つくよみのみこと",
+    "station": "牧志駅",
+    "select1": "沖縄県",
+    "select2": "リラクサロン"
+  },
+  {
+    "area": "沖縄県",
+    "shop_id": "s8000039434",
+    "shop_name": "肌質改善&デトックスボディ専門店CELL-セル-",
+    "station": "牧志駅",
+    "select1": "沖縄県",
+    "select2": "エステサロン"
+  }
+]

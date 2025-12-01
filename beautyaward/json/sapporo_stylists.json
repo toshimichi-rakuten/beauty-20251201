@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "小寺 啓介",
+    "id": "stf0228650",
+    "status": "open",
+    "salon": "KESTRA",
+    "salonId": "s3000051350",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "赤間 一仁",
+    "id": "stf0185737",
+    "status": "open",
+    "salon": "hair supreme Lahir",
+    "salonId": "s1000047771",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "川崎 陽",
+    "id": "stf0079428",
+    "status": "open",
+    "salon": "HoLan",
+    "salonId": "s7000026515",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "津田 さとみ",
+    "id": "stf0185736",
+    "status": "open",
+    "salon": "hair supreme Lahir",
+    "salonId": "s1000047771",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "KOSHIRO",
+    "id": "stf0215746",
+    "status": "open",
+    "salon": "'BEBE",
+    "salonId": "s3000051413",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "和田 力",
+    "id": "stf0055356",
+    "status": "open",
+    "salon": "coiffeur SOLEIL",
+    "salonId": "s4010012207",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "石仙 明",
+    "id": "stf0023406",
+    "status": "open",
+    "salon": "HAIRSALON solork",
+    "salonId": "s1010004216",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "坂口 政明",
+    "id": "stf0178849",
+    "status": "open",
+    "salon": "美容室Flare",
+    "salonId": "s8000035745",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "大坂 麻衣",
+    "id": "stf0185997",
+    "status": "open",
+    "salon": "palms.tie",
+    "salonId": "s1000047791",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "渡辺 静",
+    "id": "stf0215322",
+    "status": "open",
+    "salon": "KESTRA",
+    "salonId": "s3000051350",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

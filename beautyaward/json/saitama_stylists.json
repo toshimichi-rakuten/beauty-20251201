@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "玉川 裕人",
+    "id": "stf0104057",
+    "status": "open",
+    "salon": "Sails セイルズ 浦和",
+    "salonId": "s7000033665",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "吉田 武史",
+    "id": "stf0131912",
+    "status": "open",
+    "salon": "ヘアーサロン3rd",
+    "salonId": "s8000040770",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "北林 星諒",
+    "id": "stf0216930",
+    "status": "open",
+    "salon": "Smile hair 武蔵浦和店",
+    "salonId": "s1000047108",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "荒井 大樹",
+    "id": "stf0228441",
+    "status": "open",
+    "salon": "Smile hair 武蔵浦和店",
+    "salonId": "s1000047108",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "栗城 諒太",
+    "id": "stf0191657",
+    "status": "open",
+    "salon": "Luana 浦和",
+    "salonId": "s9000044994",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "茂森 叶人",
+    "id": "stf0210217",
+    "status": "open",
+    "salon": "Smile hair 武蔵浦和店",
+    "salonId": "s1000047108",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "関根 公助",
+    "id": "stf0178891",
+    "status": "open",
+    "salon": "hair garden Rold",
+    "salonId": "s1000047109",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "高橋 稔",
+    "id": "stf0154332",
+    "status": "open",
+    "salon": "Luana 浦和",
+    "salonId": "s9000044994",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "加藤 拓馬",
+    "id": "stf0228439",
+    "status": "open",
+    "salon": "Smile hair 沼影店",
+    "salonId": "s3000050722",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "浦嶋 則晃",
+    "id": "stf0180751",
+    "status": "open",
+    "salon": "Luana 浦和",
+    "salonId": "s9000044994",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

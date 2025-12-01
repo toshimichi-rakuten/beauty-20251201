@@ -1,0 +1,814 @@
+[
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s0000045539",
+    "shop_name": "lorebat.hair下北沢",
+    "station": "下北沢駅徒歩3分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s7000032431",
+    "shop_name": "ヘアカラー専門店THE・ONE",
+    "station": "三軒茶屋駅 徒歩2分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s9000043576",
+    "shop_name": "NEROHAIRSALONNAVY",
+    "station": "渋谷駅東口 徒歩5分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s2000049677",
+    "shop_name": "amerilovehair",
+    "station": "二子玉川駅 徒歩8分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s2010008077",
+    "shop_name": "Troisepis表参道",
+    "station": "表参道駅 徒歩5分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s5010015021",
+    "shop_name": "hairmakePassage千歳船橋店",
+    "station": "千歳船橋駅徒歩3分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s5010014611",
+    "shop_name": "NEROHAIRANDLIFESTORE",
+    "station": "渋谷駅 徒歩8分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s0000045239",
+    "shop_name": "EIGHTshibuya渋谷本店",
+    "station": "渋谷駅 徒歩2分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s5000016914",
+    "shop_name": "Raguna",
+    "station": "駒沢大学駅 徒歩7分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s8010000476",
+    "shop_name": "CLAN",
+    "station": "渋谷駅徒歩5分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s0000045238",
+    "shop_name": "メンズサロンEIGHTMEN渋谷店",
+    "station": "渋谷駅 徒歩2分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s3010010454",
+    "shop_name": "BRAINSbypresence",
+    "station": "下北沢駅西口 徒歩1分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s2000049754",
+    "shop_name": "Sublime",
+    "station": "二子玉川駅 徒歩8分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s7010000064",
+    "shop_name": "CCCCCCC",
+    "station": "三軒茶屋駅 徒歩3分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s2000049352",
+    "shop_name": "Cyahairsalon",
+    "station": "二子玉川駅徒歩3分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s8000039592",
+    "shop_name": "nalu.",
+    "station": "二子玉川駅 徒歩4分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s2000048585",
+    "shop_name": "W(ワット)原宿店",
+    "station": "原宿駅徒歩2分",
+    "select1": "原宿"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s6000023192",
+    "shop_name": "トータルビューティサロンNATURAL渋谷新南口店",
+    "station": "JR山手線 渋谷駅 徒歩8分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s7000026984",
+    "shop_name": "hair＆spaegerieprime",
+    "station": "JR 恵比寿駅 西口 徒歩5分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s8010000436",
+    "shop_name": "PREGO",
+    "station": "渋谷駅徒歩5分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3000050762",
+    "shop_name": "LAIDBACK",
+    "station": "東急東横線 代官山駅 徒歩5分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s3000050884",
+    "shop_name": "VERBshibuya",
+    "station": "JR山手線・JR埼京線 渋谷駅 徒歩3分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s2000049455",
+    "shop_name": "emma三軒茶屋",
+    "station": "東急田園都市線 三軒茶屋駅 徒歩5分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "笹塚・下高井戸・千歳烏山",
+    "shop_id": "s6000021238",
+    "shop_name": "DESIRE下高井戸店",
+    "station": "京王線 下高井戸駅 徒歩1分",
+    "select1": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s6000021219",
+    "shop_name": "IMAJINE経堂店",
+    "station": "小田急小田原線 経堂駅 徒歩1分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "笹塚・下高井戸・千歳烏山",
+    "shop_id": "s7000030380",
+    "shop_name": "Seasons季の香千歳烏山",
+    "station": "京王線 千歳烏山駅 徒歩5分",
+    "select1": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s9000042781",
+    "shop_name": "DUMBO",
+    "station": "小田急小田原線 千歳船橋駅 徒歩3分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s3010009301",
+    "shop_name": "TonukoaRua",
+    "station": "京王井の頭線 下北沢駅 徒歩2分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s9010000805",
+    "shop_name": "SanchaSalon",
+    "station": "東急田園都市線 三軒茶屋駅 南口　徒歩1分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s8000039947",
+    "shop_name": "Feria渋谷(filobyFeria渋谷)",
+    "station": "渋谷駅 徒歩2分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s9000042348",
+    "shop_name": "MOTHER",
+    "station": "京王井の頭線 下北沢駅 徒歩3分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s9000041772",
+    "shop_name": "edge.下北沢",
+    "station": "下北駅東口徒歩3分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s6000022604",
+    "shop_name": "LOAWe",
+    "station": "小田急小田原線 下北沢駅 徒歩2分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s9000043789",
+    "shop_name": "Rene経堂店",
+    "station": "小田急小田原線 経堂駅 徒歩2分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s0000045575",
+    "shop_name": "CHAINON",
+    "station": "小田急小田原線 梅ヶ丘駅 徒歩1分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3010009417",
+    "shop_name": "PALETA",
+    "station": "恵比寿駅徒歩5分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s1000047368",
+    "shop_name": "tulsa",
+    "station": "下北沢駅（南西口） 徒歩1分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s9000042879",
+    "shop_name": "CREARebisu恵比寿店",
+    "station": "JR山手線 恵比寿駅 徒歩4分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "自由が丘・学芸大学",
+    "shop_id": "s9000044913",
+    "shop_name": "&ONE",
+    "station": "東急東横線・大井町線 自由が丘駅 徒歩4分",
+    "select1": "自由が丘・学芸大学"
+  },
+  {
+    "area": "新宿",
+    "shop_id": "s2000049189",
+    "shop_name": "EVEhairlounge",
+    "station": "JR山手線 代々木駅東口 徒歩4分",
+    "select1": "新宿"
+  },
+  {
+    "area": "自由が丘・学芸大学",
+    "shop_id": "s1000047306",
+    "shop_name": "隠れ家美容室ヘアカット専門soyou",
+    "station": "東急大井町線 緑が丘（東京）駅 徒歩1分",
+    "select1": "自由が丘・学芸大学"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s2000049862",
+    "shop_name": "N°anfeel渋谷",
+    "station": "JR各線 渋谷駅 徒歩5分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s3000050260",
+    "shop_name": "AUBEHAIRclair【下北沢店】",
+    "station": "小田急小田原線 下北沢駅 徒歩1分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s3000050268",
+    "shop_name": "AUBEHAIRgran【渋谷2号店】",
+    "station": "JR山手線 渋谷駅 徒歩2分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3000050321",
+    "shop_name": "AUBEHAIRebis【恵比寿店】",
+    "station": "東京メトロ日比谷線 恵比寿駅 徒歩1分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s3000050353",
+    "shop_name": "AUBEHAIRleo【千歳烏山店】",
+    "station": "京王線 千歳烏山駅 徒歩2分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s5010015040",
+    "shop_name": "Reir_下北沢",
+    "station": "各線下北沢駅徒歩1分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s5000015967",
+    "shop_name": "Fuse祖師ヶ谷大蔵店",
+    "station": "小田急小田原線 祖師ヶ谷大蔵駅 徒歩5分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s8000040734",
+    "shop_name": "LUCUA恵比寿",
+    "station": "JR 恵比寿駅 徒歩4分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s2010008243",
+    "shop_name": "canna",
+    "station": "東急東横線 代官山駅 徒歩2分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s3000051062",
+    "shop_name": "CoachHairStudio新代田店",
+    "station": "京王井の頭線 新代田駅 徒歩1分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3000050022",
+    "shop_name": "LAKATOCCA",
+    "station": "恵比寿駅徒歩3分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s2000049869",
+    "shop_name": "Ricco",
+    "station": "東急田園都市線 用賀駅 徒歩5分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s8000036354",
+    "shop_name": "grow恵比寿",
+    "station": "恵比寿駅西口徒歩1分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s7000032660",
+    "shop_name": "Ari・gatedaikanyama",
+    "station": "代官山駅  中央口",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3010010372",
+    "shop_name": "KAZE代官山",
+    "station": "代官山駅7分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s8000034862",
+    "shop_name": "I'llbhair",
+    "station": "小田急線 下北沢駅 徒歩4分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "笹塚・下高井戸・千歳烏山",
+    "shop_id": "s6000021233",
+    "shop_name": "entrir下高井戸店",
+    "station": "京王線 下高井戸駅 徒歩2分",
+    "select1": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s3010009709",
+    "shop_name": "NEROHAIRSALON",
+    "station": "JR山手線 渋谷駅西口 徒歩7分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s6000024731",
+    "shop_name": "LAGOM",
+    "station": "京王井の頭線 下北沢駅 徒歩2分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s2000049252",
+    "shop_name": "RESSUAL",
+    "station": "東京メトロ副都心線 明治神宮前駅 徒歩6分",
+    "select1": "原宿"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s9000043959",
+    "shop_name": "WANDERHairgrooming",
+    "station": "三軒茶屋駅 徒歩5分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s2000049060",
+    "shop_name": "HanaWaebisutokyohairsalon",
+    "station": "JR山手線 恵比寿駅 徒歩5分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s2000048537",
+    "shop_name": "FUGO原宿",
+    "station": "JR山手線 原宿駅 徒歩1分",
+    "select1": "原宿"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s6000020754",
+    "shop_name": "LYONhair＆makeup",
+    "station": "東京メトロ副都心線 明治神宮前駅 徒歩8分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "笹塚・下高井戸・千歳烏山",
+    "shop_id": "s6000021234",
+    "shop_name": "entrir千歳烏山店",
+    "station": "京王線 千歳烏山駅 徒歩4分",
+    "select1": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s1000047235",
+    "shop_name": "Louwe渋谷［髪質改善/メンズ/ヘッドスパ/渋谷］",
+    "station": "JR山手線 渋谷駅 徒歩1分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s1010005773",
+    "shop_name": "BLIKhair&make",
+    "station": "東急田園都市線 三軒茶屋駅 徒歩10分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s3000050291",
+    "shop_name": "aid渋谷",
+    "station": "JR山手線、東急田園都市線 渋谷駅 徒歩3分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s2000049260",
+    "shop_name": "MANOHARU",
+    "station": "東京メトロ各線 表参道駅 徒歩5分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s2000049018",
+    "shop_name": "lemiie【レイヤーカット】",
+    "station": "代官山駅徒歩2分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s6000021235",
+    "shop_name": "entrir代々木上原店",
+    "station": "小田急小田原線 代々木上原駅 徒歩3分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "自由が丘・学芸大学",
+    "shop_id": "s8000036764",
+    "shop_name": "IGOLAGIhairdesign",
+    "station": "東急大井町線 尾山台駅 徒歩4分",
+    "select1": "自由が丘・学芸大学"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s2000049603",
+    "shop_name": "髪質改善&似合わせショートsalonMonde原宿",
+    "station": "JR山手線 原宿駅 徒歩7分",
+    "select1": "原宿"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s2000049895",
+    "shop_name": "Louwe原宿/表参道［髪質改善/メンズ/ヘッドスパ/原宿］",
+    "station": "東京メトロ半蔵門線 表参道駅 徒歩5分",
+    "select1": "原宿"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s0010002315",
+    "shop_name": "HairMakeRoi",
+    "station": "小田急小田原線 千歳船橋駅 徒歩2分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s8010000298",
+    "shop_name": "Tasha",
+    "station": "★表参道駅（B2出口8分）",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s3000050032",
+    "shop_name": "スタジオスロウ",
+    "station": "下北沢駅 徒歩2分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "自由が丘・学芸大学",
+    "shop_id": "s3000050880",
+    "shop_name": "NOV自由が丘",
+    "station": "自由が丘(東京)駅 徒歩4分",
+    "select1": "自由が丘・学芸大学"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s3000051236",
+    "shop_name": "Lowha",
+    "station": "JR山手線 原宿駅 徒歩5分",
+    "select1": "原宿"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s3000051127",
+    "shop_name": "wuggla",
+    "station": "各線 渋谷駅 徒歩5分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "自由が丘・学芸大学",
+    "shop_id": "s5000018353",
+    "shop_name": "東京【髪質改善美容室】curio(キュリオ)尾山台",
+    "station": "東急大井町線 尾山台駅 徒歩30秒",
+    "select1": "自由が丘・学芸大学"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s2000049086",
+    "shop_name": "ANDCHILL渋谷",
+    "station": "各線 渋谷駅 徒歩7分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s8000036219",
+    "shop_name": "giftsunnyside",
+    "station": "明治神宮前駅 徒歩3分",
+    "select1": "原宿"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s8000034535",
+    "shop_name": "SALTWATER恵比寿店",
+    "station": "東急東横線 代官山駅徒歩近く",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3000050292",
+    "shop_name": "aid恵比寿",
+    "station": "恵比寿駅 徒歩3分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "笹塚・下高井戸・千歳烏山",
+    "shop_id": "s3000050667",
+    "shop_name": "mulah",
+    "station": "京王線・京王井の頭線 明大前駅 徒歩2分",
+    "select1": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s3000051292",
+    "shop_name": "Alto",
+    "station": "明治神宮前駅 徒歩5分",
+    "select1": "原宿"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s8000034708",
+    "shop_name": "CALON",
+    "station": "小田急線 経堂駅 徒歩5分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s2000048976",
+    "shop_name": "ARCANA明治神宮前表参道原宿",
+    "station": "東京メトロ副都心線 明治神宮前駅 徒歩4分",
+    "select1": "原宿"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s2000049657",
+    "shop_name": "ZOAclassichair",
+    "station": "東急田園都市線、大井町線 二子玉川駅 徒歩3分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s1010005924",
+    "shop_name": "CandyLaughAir",
+    "station": "東急東横線 代官山駅 徒歩6分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s1010005573",
+    "shop_name": "cooetfuuhairmake",
+    "station": "東京メトロ各線 表参道駅A1出口より徒歩3分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s5000017743",
+    "shop_name": "millci",
+    "station": "JR山手線 原宿駅 徒歩3分",
+    "select1": "原宿"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s2010007488",
+    "shop_name": "JAMPROUD",
+    "station": "京王井の頭線 下北沢駅 徒歩2分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s0010002427",
+    "shop_name": "PARADISO",
+    "station": "恵比寿駅　徒歩1分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s7010000198",
+    "shop_name": "daikanyamaSOU",
+    "station": "東急東横線「代官山」徒歩５分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s1010005428",
+    "shop_name": "stem",
+    "station": "東京メトロ各線 表参道駅 B2出口より徒歩3分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s2010008624",
+    "shop_name": "HEATbyUNCUT＆LOUNGE",
+    "station": "東京メトロ半蔵門線 渋谷駅B1番出口 徒歩3分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s8000037143",
+    "shop_name": "髪質改善M3Daurum下北沢",
+    "station": "下北沢駅1分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "経堂・成城学園・狛江",
+    "shop_id": "s3000050052",
+    "shop_name": "citron",
+    "station": "小田急小田原線 祖師ケ谷大蔵駅 徒歩9分",
+    "select1": "経堂・成城学園・狛江"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s2000049208",
+    "shop_name": "LAIFAI",
+    "station": "東急東横線 代官山駅 徒歩2分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s3000050962",
+    "shop_name": "LOTTACUCCI",
+    "station": "JR山手線 原宿駅 徒歩8分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "渋谷",
+    "shop_id": "s9000041256",
+    "shop_name": "defi",
+    "station": "渋谷駅B1番出口 徒歩5分",
+    "select1": "渋谷"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s3010009639",
+    "shop_name": "visuna",
+    "station": "東急田園都市線 二子玉川駅 徒歩6分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3010010703",
+    "shop_name": "celle",
+    "station": "JR山手線 恵比寿駅 徒歩5分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "笹塚・下高井戸・千歳烏山",
+    "shop_id": "s3010011333",
+    "shop_name": "しゃるめーる美容室",
+    "station": "京王線 千歳烏山駅 南口 徒歩2分",
+    "select1": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3000051181",
+    "shop_name": "lemieuxdePrecious",
+    "station": "恵比寿駅 徒歩1分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s1000047141",
+    "shop_name": "NOVELDAYS",
+    "station": "東京メトロ副都心線 明治神宮前駅 徒歩3分",
+    "select1": "原宿"
+  },
+  {
+    "area": "原宿",
+    "shop_id": "s6000023445",
+    "shop_name": "Allen",
+    "station": "東京メトロ千代田線 明治神宮前駅 徒歩1分",
+    "select1": "原宿"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s9000042391",
+    "shop_name": "sulirhairandnaildesign恵比寿",
+    "station": "JR、東京メトロ日比谷線 恵比寿駅 徒歩1分",
+    "select1": "恵比寿・代官山・中目黒"
+  },
+  {
+    "area": "下北沢・代々木上原",
+    "shop_id": "s8000036158",
+    "shop_name": "RIO東京アトリエ",
+    "station": "小田急、千代田 代々木上原駅 徒歩5分",
+    "select1": "下北沢・代々木上原"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s3000051900",
+    "shop_name": "Louwe三軒茶屋",
+    "station": "東急田園都市線 三軒茶屋駅 徒歩6分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "表参道・青山",
+    "shop_id": "s1000047376",
+    "shop_name": "Louwe 表参道［髪質改善/メンズ/ヘッドスパ/表参道］",
+    "station": "東京メトロ銀座線 表参道駅 徒歩2分",
+    "select1": "表参道・青山"
+  },
+  {
+    "area": "三軒茶屋・用賀・二子玉川",
+    "shop_id": "s6000021237",
+    "shop_name": "Seasons 季の香 三軒茶屋店",
+    "station": "三軒茶屋駅 徒歩2分",
+    "select1": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "area": "恵比寿・代官山・中目黒",
+    "shop_id": "s3000051682",
+    "shop_name": "Ｈ_daikanyamaヘッドスパ＆ヘナ",
+    "station": "代官山駅 徒歩1分",
+    "select1": "恵比寿・代官山・中目黒"
+  }
+]

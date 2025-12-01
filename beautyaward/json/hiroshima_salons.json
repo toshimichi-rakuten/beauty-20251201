@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "CHEVAL BLANC",
+    "salonId": "s2000048557",
+    "area": "広島駅周辺・府中町・安芸区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "flow di:ve",
+    "salonId": "s8000035840",
+    "area": "安佐南区・安佐北区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "【全席半個室サロン】Natural 広島店",
+    "salonId": "s1000047158",
+    "area": "八丁堀・紙屋町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "SALONS HAIR 段原店",
+    "salonId": "s9000043410",
+    "area": "段原・皆実町・宇品",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "Palama",
+    "salonId": "s1000048022",
+    "area": "八丁堀・紙屋町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "oluolu 〜hair〜",
+    "salonId": "s9000042504",
+    "area": "八丁堀・紙屋町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "CLEO hair international パセーラ店",
+    "salonId": "s1000048046",
+    "area": "八丁堀・紙屋町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "SALONS HAIR 庚午橋店",
+    "salonId": "s9000043412",
+    "area": "西広島・井口・五日市",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "THE CUT",
+    "salonId": "s2000049827",
+    "area": "広島駅周辺・府中町・安芸区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "Aust hair Figaro",
+    "salonId": "s1000047831",
+    "area": "八丁堀・紙屋町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "Toruve 横川",
+    "salonId": "s8000038296",
+    "area": "横川・十日市・舟入",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "SALONS HAIR 東原店",
+    "salonId": "s9000043419",
+    "area": "安佐南区・安佐北区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "HARUKI MINATO japan HIROSHIMA",
+    "salonId": "s4000053350",
+    "area": "八丁堀・紙屋町",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

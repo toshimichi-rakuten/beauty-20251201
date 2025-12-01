@@ -1,0 +1,50 @@
+[
+  {
+    "area": "福岡県",
+    "shop_id": "s5000056578",
+    "shop_name": "博多 髪質改善 美容室NAVY【ネイビー】髪質改善 完全完結型個室サロン 【NEW OPEN 4月】",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s4000054822",
+    "shop_name": "髪質改善 完全個室サロン Nelu仙台 美容院【ネル】",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000053072",
+    "shop_name": "博多美容室 Blue 髪質改善 完全完結型個室サロンOPEN",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s4000053381",
+    "shop_name": "仙台 美容室 loki 髪質改善 個室サロン4月 OPEN",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3000051664",
+    "shop_name": "amie 三宮【アミ】",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s2000048758",
+    "shop_name": "L.E.M 仙台店",
+    "station": "青葉通一番町",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  }
+]

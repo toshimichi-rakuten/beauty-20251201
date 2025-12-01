@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "MENS ONLYSALON SHIFT(メンズサロン)",
+    "salonId": "s6000025051",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "a mark",
+    "salonId": "s5010015445",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "little×link 福岡",
+    "salonId": "s5010014830",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "tocca hair&treatment 博多駅 博多口店",
+    "salonId": "s5000016482",
+    "area": "博多・中洲・住吉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "loup",
+    "salonId": "s1000047039",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "little 福岡",
+    "salonId": "s5010014829",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "ivy by CIEL 女性専用サロン",
+    "salonId": "s2000048568",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "ACT JAPAN GRAND CENTRAL",
+    "salonId": "s1000047103",
+    "area": "博多・中洲・住吉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "elf",
+    "salonId": "s2010009217",
+    "area": "西新・藤崎・姪浜・九大学研都市",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "La fith hair coco 博多店",
+    "salonId": "s1000046976",
+    "area": "博多・中洲・住吉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "amie 博多駅前店",
+    "salonId": "s2000048774",
+    "area": "博多・中洲・住吉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "【完全個室サロン】tocca hair&treatment 天神店",
+    "salonId": "s1000046832",
+    "area": "天神・大名・今泉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "博多美容室 Blue 髪質改善 完全完結型個室サロンOPEN",
+    "salonId": "s4000053072",
+    "area": "博多・中洲・住吉",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

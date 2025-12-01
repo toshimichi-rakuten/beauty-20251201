@@ -1,0 +1,322 @@
+[
+  {
+    "area": "北海道",
+    "shop_id": "s5000056076",
+    "shop_name": "amie 札幌大通【アミ】",
+    "station": "大通",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s4000055235",
+    "shop_name": "WE RULE pivot cross",
+    "station": "大通",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s5000016363",
+    "shop_name": "kico",
+    "station": "天神",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s0000045997",
+    "shop_name": "pesca 札幌大通店",
+    "station": "大通",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000053329",
+    "shop_name": "福岡 天神 大名 kchiara",
+    "station": "天神",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000051413",
+    "shop_name": "'BEBE",
+    "station": "大通",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s9000044994",
+    "shop_name": "Luana 浦和",
+    "station": "浦和",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s8000035928",
+    "shop_name": "is 札幌",
+    "station": "大通",
+    "select1": "北海道",
+    "select2": "大通"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s5000018482",
+    "shop_name": "COVER HAIR & SPA bliss 浦和西口店【カバー ヘア アンド スパ ブリス】",
+    "station": "浦和",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s7000032859",
+    "shop_name": "COVER HAIR bliss 大宮西口店【カバー ヘア ブリス】",
+    "station": "大宮(埼玉)",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s0000045996",
+    "shop_name": "pesca 博多駅前店",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s1000047627",
+    "shop_name": "ATENA AVEDA 広島三越店",
+    "station": "胡町",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s5000018483",
+    "shop_name": "COVER HAIR bliss 北浦和西口店【カバー ヘア ブリス】",
+    "station": "北浦和",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s1000047599",
+    "shop_name": "男性専門美容室 growth 博多店",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s1000047600",
+    "shop_name": "男性専門美容室 growth 天神店",
+    "station": "西鉄福岡(天神)",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s8000035387",
+    "shop_name": "Zina 福岡天神 髪質改善&トリートメント&艶髪【ジーナ】",
+    "station": "西鉄福岡(天神)",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052875",
+    "shop_name": "nico hair design",
+    "station": "西新",
+    "select1": "福岡県",
+    "select2": "西新・藤崎・姪浜・九大学研都市"
+  },
+  {
+    "area": "広島県",
+    "shop_id": "s1000047641",
+    "shop_name": "scena",
+    "station": "広電本社前",
+    "select1": "広島県",
+    "select2": "八丁堀・紙屋町"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s1000046628",
+    "shop_name": "ソリューション 北浦和",
+    "station": "北浦和",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s2000048485",
+    "shop_name": "Des.Art",
+    "station": "赤坂(福岡)",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s0000045851",
+    "shop_name": "Flag Hair 西通り店",
+    "station": "天神",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s1000047039",
+    "shop_name": "loup",
+    "station": "西鉄福岡(天神)",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s0000046103",
+    "shop_name": "VIVID 北浦和",
+    "station": "北浦和",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s6000025403",
+    "shop_name": "SUPER CUT 鳥居前店",
+    "station": "円山公園",
+    "select1": "北海道",
+    "select2": "円山周辺"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000054244",
+    "shop_name": "BRAVE福岡 天神店",
+    "station": "天神",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000054272",
+    "shop_name": "髪質改善 個室サロン S.O.L 千早 美容室 7月OPEN",
+    "station": "千早",
+    "select1": "福岡県",
+    "select2": "吉塚・箱崎・香椎"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s8000036539",
+    "shop_name": "@RICH",
+    "station": "大谷地",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000053216",
+    "shop_name": "Lond Bloom 天神大名店",
+    "station": "天神",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s2000048774",
+    "shop_name": "amie 博多駅前店",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s2000048775",
+    "shop_name": "Emerge 大宮西口店",
+    "station": "大宮(埼玉)",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s4000053202",
+    "shop_name": "tocca hair&treatment 大宮店",
+    "station": "大宮(埼玉)",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s3000052333",
+    "shop_name": "髪質改善個室サロン trace by 8 浦和 美容院",
+    "station": "浦和",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s4000053937",
+    "shop_name": "RITA HOMME",
+    "station": "大宮(埼玉)",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000053886",
+    "shop_name": "Eleanor spa&treatment博多ANNEX",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s1000046976",
+    "shop_name": "La fith hair coco 博多店",
+    "station": "博多",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s4000052948",
+    "shop_name": "501 HAIR studio",
+    "station": "天神",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "area": "埼玉県",
+    "shop_id": "s3000050883",
+    "shop_name": "FLORA  treatment&spa 【フローラ】",
+    "station": "大宮(埼玉)",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s1000047650",
+    "shop_name": "epice麻生1号店",
+    "station": "麻生",
+    "select1": "北海道",
+    "select2": "北区・東区"
+  },
+  {
+    "area": "福岡県",
+    "shop_id": "s3000052881",
+    "shop_name": "Lei hair ＆ relax",
+    "station": "赤坂(福岡)",
+    "select1": "福岡県",
+    "select2": "警固・赤坂・大濠"
+  },
+  {
+    "area": "北海道",
+    "shop_id": "s3000052696",
+    "shop_name": "Hapi hair",
+    "station": "北２４条",
+    "select1": "北海道",
+    "select2": "北区・東区"
+  }
+]

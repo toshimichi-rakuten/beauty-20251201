@@ -1,0 +1,290 @@
+[
+  {
+    "area": "兵庫県",
+    "shop_id": "s2000049471",
+    "shop_name": "HAIR MAKE FELIX 板宿店",
+    "station": "板宿",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s0000046005",
+    "shop_name": "Hair Salon Leaf",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s2000049263",
+    "shop_name": "odd. by ageless",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000051131",
+    "shop_name": "Lond Cheri 仙台【ロンドシェリ】",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s1010005123",
+    "shop_name": "Brunette",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s4000053732",
+    "shop_name": "ETOILE【エトワール】",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s2000049815",
+    "shop_name": "LADiX",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000048076",
+    "shop_name": "【シェアサロン】stylist hiro",
+    "station": "広瀬通",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000047339",
+    "shop_name": "hairmake＆design Axe-l",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s1000047670",
+    "shop_name": "Gramercy alex",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s2000049513",
+    "shop_name": "エイジングケア ヘッドスパplanetz",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s2000048402",
+    "shop_name": "Louer hairmake",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3010010405",
+    "shop_name": "グランドソシエ 御影店",
+    "station": "御影(阪神)",
+    "select1": "兵庫県",
+    "select2": "灘区・東灘区・岡本"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s9000044692",
+    "shop_name": "TORANK’S SENDAI",
+    "station": "広瀬通",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s0000045995",
+    "shop_name": "VEGETA",
+    "station": "広瀬通",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s0000045749",
+    "shop_name": "SILEM Branch of merci",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000050573",
+    "shop_name": "Eleanor 仙台店",
+    "station": "広瀬通",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000047689",
+    "shop_name": "tocca hair & treatment 仙台東口",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s0000046041",
+    "shop_name": "tocca hair&treatment　三ノ宮店",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s0000046014",
+    "shop_name": "BOND by tetote 三宮元町 Aujua認定サロン",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s0000045896",
+    "shop_name": "Apiuz Hair 三宮",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s6000023934",
+    "shop_name": "MERCI",
+    "station": "元町(ＪＲ)",
+    "select1": "兵庫県",
+    "select2": "元町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s4000054343",
+    "shop_name": "AROMA hair studio 仙台店",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s9000044658",
+    "shop_name": "W by GRITTERs",
+    "station": "青葉通一番町",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s8000037770",
+    "shop_name": "DUNO hair",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s3000050694",
+    "shop_name": "Peg hair camp【半個室プライベートサロン】",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s2000049113",
+    "shop_name": "ACT仙台 deuxieme",
+    "station": "勾当台公園",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s4010012830",
+    "shop_name": "DERE-DIR face   by NEUTRAL",
+    "station": "住吉(ＪＲ・六甲ライナー)",
+    "select1": "兵庫県",
+    "select2": "灘区・東灘区・岡本"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s7000027737",
+    "shop_name": "Eny Terrace",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s0000046142",
+    "shop_name": "Cherie 仙台 髪質改善",
+    "station": "青葉通一番町",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s1000046327",
+    "shop_name": "pesca 仙台一番町店",
+    "station": "広瀬通",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s0000045887",
+    "shop_name": "ACT 仙台店",
+    "station": "青葉通一番町",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s3010011700",
+    "shop_name": "Tetote 三宮本店",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "宮城県",
+    "shop_id": "s9000044863",
+    "shop_name": "hair dressing flora",
+    "station": "仙台",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s0000046000",
+    "shop_name": "La fith hair lino 三宮店",
+    "station": "神戸三宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "area": "兵庫県",
+    "shop_id": "s5010014654",
+    "shop_name": "Kelly's Green",
+    "station": "三ノ宮",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  }
+]

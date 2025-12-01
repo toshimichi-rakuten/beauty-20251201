@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "大畠 弘敬",
+    "id": "stf0104336",
+    "status": "open",
+    "salon": "HAIR BRAND Link 【リンク】トアロード店",
+    "salonId": "s7000033673",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "山本 竜司",
+    "id": "stf0104333",
+    "status": "open",
+    "salon": "HAIR BRAND Link 【リンク】トアロード店",
+    "salonId": "s7000033673",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "平賀 誠也",
+    "id": "stf0104335",
+    "status": "open",
+    "salon": "HAIR BRAND Link 【リンク】トアロード店",
+    "salonId": "s7000033673",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "庄司 智",
+    "id": "stf0215059",
+    "status": "open",
+    "salon": "Vista by MODE K's",
+    "salonId": "s0000045164",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "三田 菜央",
+    "id": "stf0128109",
+    "status": "open",
+    "salon": "itt hair",
+    "salonId": "s8000038906",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "鈴木 沙織",
+    "id": "stf0214370",
+    "status": "open",
+    "salon": "itt hair",
+    "salonId": "s8000038906",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "MIKI",
+    "id": "stf0135255",
+    "status": "open",
+    "salon": "soil 垂水",
+    "salonId": "s9000041470",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "本田 恵梨香",
+    "id": "stf0191530",
+    "status": "open",
+    "salon": "MERCI",
+    "salonId": "s6000023934",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "田村 真悟",
+    "id": "stf0170989",
+    "status": "open",
+    "salon": "ELLYLONDON 垂水店",
+    "salonId": "s1000046297",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "大田 浩之",
+    "id": "stf0157776",
+    "status": "open",
+    "salon": "Vista by MODE K's",
+    "salonId": "s0000045164",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "奥村",
+    "id": "stf0057534",
+    "status": "open",
+    "salon": "hair salon natural",
+    "salonId": "s6000020395",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "竹内 昌彦",
+    "id": "stf0228888",
+    "status": "open",
+    "salon": "ALGERNON 【アルジャーノン】",
+    "salonId": "s4000053102",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "後藤 文雄",
+    "id": "stf0017804",
+    "status": "open",
+    "salon": "if hair&spa",
+    "salonId": "s2020008111",
+    "salonStatus": "open",
+    "noimage": "on",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "日高 敏明",
+    "id": "stf0021446",
+    "status": "open",
+    "salon": "hair lounge A.R.C",
+    "salonId": "s1010004260",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "SYUNYA",
+    "id": "stf0136352",
+    "status": "open",
+    "salon": "glam  高田馬場店",
+    "salonId": "s8000037330",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "松本 大士",
+    "id": "stf0090491",
+    "status": "open",
+    "salon": "ビリーブ上板橋店",
+    "salonId": "s7000030803",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "島 悠佑",
+    "id": "stf0193814",
+    "status": "open",
+    "salon": "ヒロ銀座BARBER SHOP 秋葉原店",
+    "salonId": "s2000048499",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "HAGA NATSUMI",
+    "id": "stf0194861",
+    "status": "open",
+    "salon": "LAVIE NEW STANDARD BARBER HANARE 新宿",
+    "salonId": "s2000048588",
+    "salonStatus": "open",
+    "noimage": "on",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "INOUE SHOTA",
+    "id": "stf0174276",
+    "status": "open",
+    "salon": "LAVIE NEW STANDARD BARBER 秋葉原神田店　理容室",
+    "salonId": "s1000046437",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "那由多",
+    "id": "stf0143517",
+    "status": "open",
+    "salon": "FUSS美容室",
+    "salonId": "s8000038952",
+    "salonStatus": "open",
+    "noimage": "on",
+    "interview": ""
+  }
+]

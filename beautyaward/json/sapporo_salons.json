@@ -1,0 +1,132 @@
+[
+  {
+    "rank": "gold",
+    "no": 4,
+    "salon": "'BEBE",
+    "salonId": "s3000051413",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 3,
+    "salon": "hair supreme Lahir",
+    "salonId": "s1000047771",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 2,
+    "salon": "Men's Salon bloc",
+    "salonId": "s6000023938",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "gold",
+    "no": 1,
+    "salon": "N° jemica 札幌店",
+    "salonId": "s2000048600",
+    "area": "札幌駅周辺",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 4,
+    "salon": "HoLan",
+    "salonId": "s7000026515",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 3,
+    "salon": "KESTRA",
+    "salonId": "s3000051350",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 2,
+    "salon": "【全席半個室サロン】Natural 札幌店",
+    "salonId": "s0000045838",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "silver",
+    "no": 1,
+    "salon": "N° il duca 札幌駅前店",
+    "salonId": "s2000048599",
+    "area": "札幌駅周辺",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 4,
+    "salon": "完全個室 THIS IS BARBER 3rd",
+    "salonId": "s3000050879",
+    "area": "札幌駅周辺",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 3,
+    "salon": "pesca 南平岸店",
+    "salonId": "s1000047915",
+    "area": "豊平区・南区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 2,
+    "salon": "Ai WilL",
+    "salonId": "s1000047301",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "bronze",
+    "no": 1,
+    "salon": "lico×little 大通",
+    "salonId": "s3010011559",
+    "area": "大通",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": "rookie",
+    "no": 1,
+    "salon": "LIQUIDROOM",
+    "salonId": "s3000052765",
+    "area": "西区・手稲区",
+    "status": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]

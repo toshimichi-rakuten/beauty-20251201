@@ -1,0 +1,3278 @@
+[
+  {
+    "＃": 1,
+    "area": "北海道",
+    "shop_id": "s1000047314",
+    "shop_name": "HELLO'S ステラプレイス店",
+    "station": "JR函館本線 札幌駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "札幌駅周辺"
+  },
+  {
+    "＃": 2,
+    "area": "北海道",
+    "shop_id": "s2000048599",
+    "shop_name": "N° il duca 札幌駅前店",
+    "station": "札幌市営地下鉄南北線 さっぽろ(札幌市営)駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "札幌駅周辺"
+  },
+  {
+    "＃": 3,
+    "area": "北海道",
+    "shop_id": "s2000048600",
+    "shop_name": "N° jemica 札幌店",
+    "station": "札幌市営地下鉄南北線 さっぽろ(札幌市営)駅 徒歩3分",
+    "select1": "北海道",
+    "select2": "札幌駅周辺"
+  },
+  {
+    "＃": 4,
+    "area": "北海道",
+    "shop_id": "s4000053010",
+    "shop_name": "HELLO'S 栄町店",
+    "station": "札幌市営地下鉄東豊線 栄町(札幌)駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "北区・東区"
+  },
+  {
+    "＃": 5,
+    "area": "北海道",
+    "shop_id": "s4000053014",
+    "shop_name": "friend's 環状通東店",
+    "station": "札幌市営地下鉄東豊線 環状通東駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "北区・東区"
+  },
+  {
+    "＃": 6,
+    "area": "北海道",
+    "shop_id": "s3000051840",
+    "shop_name": "CLAIR",
+    "station": "地下鉄東豊線　月寒中央駅　徒歩3分",
+    "select1": "北海道",
+    "select2": "豊平区・南区"
+  },
+  {
+    "＃": 7,
+    "area": "北海道",
+    "shop_id": "s4000053025",
+    "shop_name": "ARTE LIFE DESIGN",
+    "station": "JR函館本線 手稲駅 徒歩15分",
+    "select1": "北海道",
+    "select2": "西区・手稲区"
+  },
+  {
+    "＃": 8,
+    "area": "北海道",
+    "shop_id": "s2000048186",
+    "shop_name": "HELLO'S ラソラ札幌",
+    "station": "札幌市営地下鉄東西線 東札幌駅 徒歩5分",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "＃": 9,
+    "area": "北海道",
+    "shop_id": "s2000048185",
+    "shop_name": "HELLO'S カテプリ新さっぽろ店",
+    "station": "札幌市営地下鉄東西線 新さっぽろ駅 徒歩1分",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "＃": 10,
+    "area": "北海道",
+    "shop_id": "s1000048134",
+    "shop_name": "Be-COOL 新札幌店",
+    "station": "札幌市営地下鉄東西線 新さっぽろ駅2番出口 徒歩4分",
+    "select1": "北海道",
+    "select2": "白石区・厚別区・清田区"
+  },
+  {
+    "＃": 11,
+    "area": "北海道",
+    "shop_id": "s8000039463",
+    "shop_name": "fil hair",
+    "station": "函館市電 杉並町駅 徒歩2分",
+    "select1": "北海道",
+    "select2": "函館"
+  },
+  {
+    "＃": 12,
+    "area": "北海道",
+    "shop_id": "s3000052104",
+    "shop_name": "サロンドマリ",
+    "station": "JR釧網本線 網走駅 徒歩8分",
+    "select1": "北海道",
+    "select2": "網走・北見"
+  },
+  {
+    "＃": 13,
+    "area": "宮城県",
+    "shop_id": "s3000051724",
+    "shop_name": "Bulansis Hair",
+    "station": "仙台市地下鉄南北線 広瀬通駅 徒歩7分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "＃": 14,
+    "area": "宮城県",
+    "shop_id": "s3000050237",
+    "shop_name": "LENAHC SOIN",
+    "station": "仙台市地下鉄南北線 勾当台公園駅 徒歩5分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "＃": 15,
+    "area": "宮城県",
+    "shop_id": "s5000016659",
+    "shop_name": "LENAHC ARIA",
+    "station": "JR東北本線 仙台駅 徒歩3分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "＃": 16,
+    "area": "宮城県",
+    "shop_id": "s9000044850",
+    "shop_name": "mani CREARE",
+    "station": "JR東北本線 仙台駅 徒歩1分　仙台駅直結　エスパル3F",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "＃": 17,
+    "area": "宮城県",
+    "shop_id": "s2000048758",
+    "shop_name": "L.E.M by flammeum 仙台店",
+    "station": "仙台市地下鉄東西線 青葉通一番町駅 徒歩2分",
+    "select1": "宮城県",
+    "select2": "仙台駅周辺・一番町"
+  },
+  {
+    "＃": 18,
+    "area": "宮城県",
+    "shop_id": "s2000049881",
+    "shop_name": "KISEI 泉セルバテラス店",
+    "station": "仙台市地下鉄南北線 泉中央駅 徒歩1分",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "＃": 19,
+    "area": "宮城県",
+    "shop_id": "s2000049880",
+    "shop_name": "KISEI 北仙台店",
+    "station": "仙台市地下鉄南北線 北仙台駅 徒歩0分",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "＃": 20,
+    "area": "宮城県",
+    "shop_id": "s1000047511",
+    "shop_name": "L.E.M by flammeum",
+    "station": "仙台市地下鉄南北線 泉中央駅 徒歩3分",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "＃": 21,
+    "area": "宮城県",
+    "shop_id": "s3000052921",
+    "shop_name": "u'i by first北四番丁",
+    "station": "仙台市地下鉄南北線 北四番丁駅 徒歩1分",
+    "select1": "宮城県",
+    "select2": "泉中央・八乙女・北仙台"
+  },
+  {
+    "＃": 22,
+    "area": "宮城県",
+    "shop_id": "s3000052094",
+    "shop_name": "AURA 仙台若林店【オーラ】",
+    "station": "仙台市地下鉄南北線 長町一丁目駅 徒歩15分",
+    "select1": "宮城県",
+    "select2": "長町・南仙台・富沢"
+  },
+  {
+    "＃": 23,
+    "area": "宮城県",
+    "shop_id": "s1000047538",
+    "shop_name": "Hair&Spa Atelier Coa",
+    "station": "仙台市地下鉄南北線 長町南駅 徒歩2分",
+    "select1": "宮城県",
+    "select2": "長町・南仙台・富沢"
+  },
+  {
+    "＃": 24,
+    "area": "宮城県",
+    "shop_id": "s3000051412",
+    "shop_name": "L.E.M by flammeum 長町店",
+    "station": "仙台市地下鉄南北線 長町駅 徒歩1分",
+    "select1": "宮城県",
+    "select2": "長町・南仙台・富沢"
+  },
+  {
+    "＃": 25,
+    "area": "宮城県",
+    "shop_id": "s9000042427",
+    "shop_name": "KISEI卸町店",
+    "station": "仙台市地下鉄東西線 卸町(宮城)駅 徒歩3分",
+    "select1": "宮城県",
+    "select2": "若林区・宮城野区"
+  },
+  {
+    "＃": 26,
+    "area": "宮城県",
+    "shop_id": "s2000049882",
+    "shop_name": "KISEI イオン仙台中山店",
+    "station": "JR仙山線 国見(宮城)駅 徒歩30分（車で9分）",
+    "select1": "宮城県",
+    "select2": "その他青葉区・太白区"
+  },
+  {
+    "＃": 27,
+    "area": "茨城県",
+    "shop_id": "s8000034642",
+    "shop_name": "Vist hair design",
+    "station": "つくばエクスプレス つくば駅 徒歩10分",
+    "select1": "茨城県",
+    "select2": "つくば・土浦・石岡"
+  },
+  {
+    "＃": 28,
+    "area": "茨城県",
+    "shop_id": "s3000052424",
+    "shop_name": "FELICITA RicorsO",
+    "station": "JR東北本線 古河駅 徒歩20分",
+    "select1": "茨城県",
+    "select2": "古河・常総・筑西"
+  },
+  {
+    "＃": 29,
+    "area": "群馬県",
+    "shop_id": "s3000052369",
+    "shop_name": "flammeum 高崎",
+    "station": "JR高崎線 高崎駅 徒歩5分",
+    "select1": "群馬県",
+    "select2": "高崎"
+  },
+  {
+    "＃": 30,
+    "area": "埼玉県",
+    "shop_id": "s7000032859",
+    "shop_name": "COVER HAIR bliss 大宮西口店",
+    "station": "JR各線大宮駅西口徒歩30秒／東武野田線、ニューシャトル大宮駅西口徒歩30秒／アルシェ裏・マルイ横★メンズにも人気★",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 31,
+    "area": "埼玉県",
+    "shop_id": "s1000047509",
+    "shop_name": "Lond partir 大宮西口",
+    "station": "JR埼京線、上野東京ライン 大宮駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 32,
+    "area": "埼玉県",
+    "shop_id": "s0000045785",
+    "shop_name": "Lond fleur 大宮東口",
+    "station": "各線 大宮駅 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 33,
+    "area": "埼玉県",
+    "shop_id": "s3000051465",
+    "shop_name": "Lond enika 大宮",
+    "station": "JR各線 大宮(埼玉)駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 34,
+    "area": "埼玉県",
+    "shop_id": "s3000052406",
+    "shop_name": "True Creation 大宮",
+    "station": "各線 大宮(埼玉)駅東口 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 35,
+    "area": "埼玉県",
+    "shop_id": "s2000048656",
+    "shop_name": "ECLART aile 大宮駅東口店",
+    "station": "JR東日本 大宮(埼玉)駅 徒歩4分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 36,
+    "area": "埼玉県",
+    "shop_id": "s2000048948",
+    "shop_name": "REPLAY by ECLART 大宮駅東口店",
+    "station": "JR京浜東北線 大宮(埼玉)駅 徒歩4分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 37,
+    "area": "埼玉県",
+    "shop_id": "s1000046615",
+    "shop_name": "Noa 大宮店",
+    "station": "各線 大宮駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 38,
+    "area": "埼玉県",
+    "shop_id": "s3000052427",
+    "shop_name": "Les Saisons EX 大宮店",
+    "station": "各線 大宮(埼玉)駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 39,
+    "area": "埼玉県",
+    "shop_id": "s2000049832",
+    "shop_name": "appri by Rien 大宮東口店",
+    "station": "JR大宮駅 東口徒歩3分【/ブリーチ/ハイライト/インナーカラー/ハイトーン/髪質改善】",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 40,
+    "area": "埼玉県",
+    "shop_id": "s3000051042",
+    "shop_name": "limit by Afinar 大宮店",
+    "station": "JR埼京線 大宮(埼玉)駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 41,
+    "area": "埼玉県",
+    "shop_id": "s4010013081",
+    "shop_name": "Ash 大宮店",
+    "station": "JR京浜東北線 大宮(埼玉)駅 徒歩4分",
+    "select1": "埼玉県",
+    "select2": "大宮・与野"
+  },
+  {
+    "＃": 42,
+    "area": "埼玉県",
+    "shop_id": "s5000018486",
+    "shop_name": "mod's hair 越谷【モッズヘア】越谷西口店",
+    "station": "東武伊勢崎線 越谷駅西口すぐ(徒歩20秒♪)駅前ロータリー内分【10%バックDEALあり】【SPU対象】",
+    "select1": "埼玉県",
+    "select2": "越谷"
+  },
+  {
+    "＃": 43,
+    "area": "埼玉県",
+    "shop_id": "s2000049397",
+    "shop_name": "UNIX イオンレイクタウン店",
+    "station": "JR武蔵野線 越谷レイクタウン駅 徒歩15分\\r\\nイオンレイクタウン　ＭＯＲＩ２階。ＨＡＬゾーン。果汁工房カリンさんの後ろ",
+    "select1": "埼玉県",
+    "select2": "越谷"
+  },
+  {
+    "＃": 44,
+    "area": "埼玉県",
+    "shop_id": "s8000035862",
+    "shop_name": "コトナ 越谷店",
+    "station": "東武スカイツリーライン 越谷駅 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "越谷"
+  },
+  {
+    "＃": 45,
+    "area": "埼玉県",
+    "shop_id": "s8000036878",
+    "shop_name": "Ash せんげん台店",
+    "station": "東京スカイツリーライン せんげん台駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "越谷"
+  },
+  {
+    "＃": 46,
+    "area": "埼玉県",
+    "shop_id": "s2000049401",
+    "shop_name": "UNIX ららぽーと新三郷店",
+    "station": "JR武蔵野線 新三郷駅西口 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "草加・三郷・吉川"
+  },
+  {
+    "＃": 47,
+    "area": "埼玉県",
+    "shop_id": "s5010015049",
+    "shop_name": "Ash 草加店",
+    "station": "東武伊勢崎線 草加駅 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "草加・三郷・吉川"
+  },
+  {
+    "＃": 48,
+    "area": "埼玉県",
+    "shop_id": "s6000023656",
+    "shop_name": "HAIR＆MAKE anyhow　川口東口駅前店",
+    "station": "JR川口駅東口１Fを出て、ロータリーに沿って左側に歩いていただきますとライオンのビルの左側の道を進んでいただくと見えてきます",
+    "select1": "埼玉県",
+    "select2": "川口・蕨"
+  },
+  {
+    "＃": 49,
+    "area": "埼玉県",
+    "shop_id": "s6000021491",
+    "shop_name": "COVER HAIR bliss 川口東口駅前店",
+    "station": "JR京浜東北線 川口駅 徒歩20秒※旧SOGO川口デッキ直結【10%バックDEALあり】【SPU対象】",
+    "select1": "埼玉県",
+    "select2": "川口・蕨"
+  },
+  {
+    "＃": 50,
+    "area": "埼玉県",
+    "shop_id": "s3010009525",
+    "shop_name": "JEGOgU",
+    "station": "JR京浜東北蕨駅西口より 徒歩4分 南浦和方面に歩き、ユアースポーツクラブの斜向かいの芝園ハイツのテナントです。",
+    "select1": "埼玉県",
+    "select2": "川口・蕨"
+  },
+  {
+    "＃": 51,
+    "area": "埼玉県",
+    "shop_id": "s2010006959",
+    "shop_name": "Ash 西川口店",
+    "station": "JR京浜東北線 西川口駅 徒歩3分「ドミノピザ」さん隣のビルの１Ｆです",
+    "select1": "埼玉県",
+    "select2": "川口・蕨"
+  },
+  {
+    "＃": 52,
+    "area": "埼玉県",
+    "shop_id": "s5000016707",
+    "shop_name": "Ash 川口店",
+    "station": "JR京浜東北線 川口駅 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "川口・蕨"
+  },
+  {
+    "＃": 53,
+    "area": "埼玉県",
+    "shop_id": "s3000051295",
+    "shop_name": "Elisa 川越駅前店",
+    "station": "JR埼京線 川越駅 徒歩4分【ツイスト/波巻き/ツイスト/ツイストスパイラル/ナチュラルパーマ】",
+    "select1": "埼玉県",
+    "select2": "川越・本川越"
+  },
+  {
+    "＃": 54,
+    "area": "埼玉県",
+    "shop_id": "s0010001417",
+    "shop_name": "Claude MONET 川越店",
+    "station": "JR埼京線 川越駅東口 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "川越・本川越"
+  },
+  {
+    "＃": 55,
+    "area": "埼玉県",
+    "shop_id": "s0000045418",
+    "shop_name": "Ash 川越店",
+    "station": "東武東上線 川越駅西口　徒歩2分",
+    "select1": "埼玉県",
+    "select2": "川越・本川越"
+  },
+  {
+    "＃": 56,
+    "area": "埼玉県",
+    "shop_id": "s2000049126",
+    "shop_name": "THETA ふじみ野",
+    "station": "東武東上線 ふじみ野駅 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "ふじみ野・鶴瀬・上福岡"
+  },
+  {
+    "＃": 57,
+    "area": "埼玉県",
+    "shop_id": "s5000018482",
+    "shop_name": "COVER HAIR & SPA bliss 浦和西口店【ヘッドスパ】",
+    "station": "JR京浜東北線 浦和駅 北口より徒歩2分★結婚式場・ホテルロイヤルパインツまで徒歩30秒★【10%バックDEALあり】【SPU対象】",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "＃": 58,
+    "area": "埼玉県",
+    "shop_id": "s5000018483",
+    "shop_name": "COVER HAIR bliss 北浦和西口店",
+    "station": "JR京浜東北線線 北浦和駅 徒歩0分（西口駅前ファミマ5F）【10%バックDEALあり】【SPU対象】",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "＃": 59,
+    "area": "埼玉県",
+    "shop_id": "s4000053331",
+    "shop_name": "UNIX イオンモール浦和美園店",
+    "station": "埼玉高速鉄道 浦和美園駅　徒歩7分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "＃": 60,
+    "area": "埼玉県",
+    "shop_id": "s8000039516",
+    "shop_name": "ZELE 南浦和",
+    "station": "JR各線 南浦和駅 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "＃": 61,
+    "area": "埼玉県",
+    "shop_id": "s1000046616",
+    "shop_name": "Noa 北浦和店",
+    "station": "JR京浜東北線 北浦和駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "＃": 62,
+    "area": "埼玉県",
+    "shop_id": "s3000052120",
+    "shop_name": "appri by Rien 浦和2号店",
+    "station": "JR各線 浦和駅北口 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "浦和"
+  },
+  {
+    "＃": 63,
+    "area": "埼玉県",
+    "shop_id": "s2010009094",
+    "shop_name": "ミレニアム・ニューヨーク 新所沢店",
+    "station": "西武新宿線 新所沢駅 徒歩5分",
+    "select1": "埼玉県",
+    "select2": "所沢・小手指"
+  },
+  {
+    "＃": 64,
+    "area": "埼玉県",
+    "shop_id": "s8000038991",
+    "shop_name": "chiaro hair beauty",
+    "station": "西武新宿線 新所沢駅 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "所沢・小手指"
+  },
+  {
+    "＃": 65,
+    "area": "埼玉県",
+    "shop_id": "s6000020764",
+    "shop_name": "UNIX イオンモール春日部店",
+    "station": "国道16号沿い。新4号パイパスと交わる庄和IC近く。バスでお越しの場合は春日部駅or南桜井駅から朝日バスをご利用下さい。",
+    "select1": "埼玉県",
+    "select2": "春日部"
+  },
+  {
+    "＃": 66,
+    "area": "埼玉県",
+    "shop_id": "s3000052428",
+    "shop_name": "True Creation 春日部",
+    "station": "東部スカイツリーライン、東部アーバンパークライン 春日部駅 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "春日部"
+  },
+  {
+    "＃": 67,
+    "area": "埼玉県",
+    "shop_id": "s6000023469",
+    "shop_name": "エファッセ鴻巣店",
+    "station": "JR高崎線 鴻巣駅 徒歩8分",
+    "select1": "埼玉県",
+    "select2": "上尾・桶川・鴻巣"
+  },
+  {
+    "＃": 68,
+    "area": "埼玉県",
+    "shop_id": "s3000051592",
+    "shop_name": "efface 鴻巣 2号店",
+    "station": "JR高崎線 鴻巣駅 徒歩15分",
+    "select1": "埼玉県",
+    "select2": "上尾・桶川・鴻巣"
+  },
+  {
+    "＃": 69,
+    "area": "埼玉県",
+    "shop_id": "s5000018487",
+    "shop_name": "mod's hair 上尾【モッズヘア】上尾西口店",
+    "station": "JR高崎線 上尾駅 徒歩2分★マック裏ロータリ-からすぐ 【10%バックDEALあり】【SPU対象】",
+    "select1": "埼玉県",
+    "select2": "上尾・桶川・鴻巣"
+  },
+  {
+    "＃": 70,
+    "area": "埼玉県",
+    "shop_id": "s5010014674",
+    "shop_name": "UNIX アリオ上尾店",
+    "station": "JR高崎線 上尾駅 徒歩35分（東武バスで10分）",
+    "select1": "埼玉県",
+    "select2": "上尾・桶川・鴻巣"
+  },
+  {
+    "＃": 71,
+    "area": "埼玉県",
+    "shop_id": "s2000049917",
+    "shop_name": "hair salon Rien 上尾店",
+    "station": "JR上尾駅 東口徒歩1分）[インナーカラー/ハイライト/ケラスターゼ/ケアブリーチ/ダブルカラー/イノアカラー/髪質改善/バレイヤージュ/韓国]",
+    "select1": "埼玉県",
+    "select2": "上尾・桶川・鴻巣"
+  },
+  {
+    "＃": 72,
+    "area": "埼玉県",
+    "shop_id": "s8000039519",
+    "shop_name": "ZELE上尾",
+    "station": "JR各線 上尾駅東口 徒歩1分",
+    "select1": "埼玉県",
+    "select2": "上尾・桶川・鴻巣"
+  },
+  {
+    "＃": 73,
+    "area": "埼玉県",
+    "shop_id": "s3000051591",
+    "shop_name": "efface 伊奈店",
+    "station": "埼玉新都市交通ニューシャトル 羽貫駅 徒歩2分",
+    "select1": "埼玉県",
+    "select2": "久喜・幸手・蓮田"
+  },
+  {
+    "＃": 74,
+    "area": "埼玉県",
+    "shop_id": "s2000048750",
+    "shop_name": "COVER HAIR bliss志木南口駅前店",
+    "station": "東武東上線志木駅南口徒歩30秒／駅前ロータリー・りそな銀行向かいの赤レンガのビル「埼光ビル」ビル5階【10%バックDEALあり】【SPU対象】【PayPay利用可】★メンズにも人気★",
+    "select1": "埼玉県",
+    "select2": "朝霞・志木・和光"
+  },
+  {
+    "＃": 75,
+    "area": "埼玉県",
+    "shop_id": "s2010006972",
+    "shop_name": "Ash 志木南口店",
+    "station": "東武東上線 志木駅南口より 徒歩3分",
+    "select1": "埼玉県",
+    "select2": "朝霞・志木・和光"
+  },
+  {
+    "＃": 76,
+    "area": "千葉県",
+    "shop_id": "s0010001429",
+    "shop_name": "ビューティサロン silk house 千葉店",
+    "station": "JR総武線 千葉駅 徒歩1分",
+    "select1": "千葉県",
+    "select2": "千葉・千葉中央・西千葉"
+  },
+  {
+    "＃": 77,
+    "area": "千葉県",
+    "shop_id": "s3000052705",
+    "shop_name": "KIRA royal hair salon【キラ ロイヤルヘアサロン】",
+    "station": "京成千原線 千葉中央駅 徒歩1分",
+    "select1": "千葉県",
+    "select2": "千葉・千葉中央・西千葉"
+  },
+  {
+    "＃": 78,
+    "area": "千葉県",
+    "shop_id": "s2000049388",
+    "shop_name": "UNIX イオンモール柏店",
+    "station": "JR常磐線 柏駅 徒歩23分（車で約8分）",
+    "select1": "千葉県",
+    "select2": "柏・南柏"
+  },
+  {
+    "＃": 79,
+    "area": "千葉県",
+    "shop_id": "s2000048742",
+    "shop_name": "Lond generous 柏",
+    "station": "上野東京ライン 柏駅 徒歩4分",
+    "select1": "千葉県",
+    "select2": "柏・南柏"
+  },
+  {
+    "＃": 80,
+    "area": "千葉県",
+    "shop_id": "s3000050661",
+    "shop_name": "FOCUS 柏店",
+    "station": "各線 柏駅 徒歩5分",
+    "select1": "千葉県",
+    "select2": "柏・南柏"
+  },
+  {
+    "＃": 81,
+    "area": "千葉県",
+    "shop_id": "s0010003159",
+    "shop_name": "LA QUALITE 松戸店",
+    "station": "新京成電鉄 松戸駅 徒歩2分",
+    "select1": "千葉県",
+    "select2": "松戸・新松戸・新八柱"
+  },
+  {
+    "＃": 82,
+    "area": "千葉県",
+    "shop_id": "s4010013076",
+    "shop_name": "Ash 西船橋店",
+    "station": "JR武蔵野線 西船橋駅 徒歩6分",
+    "select1": "千葉県",
+    "select2": "船橋・西船橋"
+  },
+  {
+    "＃": 83,
+    "area": "千葉県",
+    "shop_id": "s3000051766",
+    "shop_name": "abie hair 市川店",
+    "station": "JR総武線 市川駅 徒歩1分",
+    "select1": "千葉県",
+    "select2": "市川・本八幡・下総中山"
+  },
+  {
+    "＃": 84,
+    "area": "千葉県",
+    "shop_id": "s8000037327",
+    "shop_name": "Ash 津田沼店",
+    "station": "JR総武線 津田沼駅 徒歩2分",
+    "select1": "千葉県",
+    "select2": "津田沼・京成津田沼"
+  },
+  {
+    "＃": 85,
+    "area": "千葉県",
+    "shop_id": "s3000050079",
+    "shop_name": "KINGS SEDONA 蘇我店",
+    "station": "JR京葉線 蘇我駅 徒歩6分",
+    "select1": "千葉県",
+    "select2": "蘇我・鎌取・土気"
+  },
+  {
+    "＃": 86,
+    "area": "千葉県",
+    "shop_id": "s7000032330",
+    "shop_name": "美容室クラフト 富里店",
+    "station": "京成本線 公津の杜駅 徒歩45分（車で12分）",
+    "select1": "千葉県",
+    "select2": "成田・佐倉・ユーカリが丘"
+  },
+  {
+    "＃": 87,
+    "area": "千葉県",
+    "shop_id": "s7000032332",
+    "shop_name": "美容室クラフト 旭店",
+    "station": "JR総武本線 旭駅から車で7分",
+    "select1": "千葉県",
+    "select2": "銚子・旭"
+  },
+  {
+    "＃": 88,
+    "area": "千葉県",
+    "shop_id": "s2000049398",
+    "shop_name": "UNIX イオンモール幕張新都心店",
+    "station": "JR京葉線 海浜幕張駅 徒歩17分（バスで7分）",
+    "select1": "千葉県",
+    "select2": "幕張本郷・新検見川"
+  },
+  {
+    "＃": 89,
+    "area": "千葉県",
+    "shop_id": "s8000037346",
+    "shop_name": "AVENIR 我孫子店",
+    "station": "常磐線 我孫子駅南口 徒歩1分",
+    "select1": "千葉県",
+    "select2": "我孫子"
+  },
+  {
+    "＃": 90,
+    "area": "東京都",
+    "shop_id": "s3000050559",
+    "shop_name": "ZA/ZA shinjuku",
+    "station": "JR山手線 新宿駅 新南改札　徒歩5分",
+    "select1": "東京都",
+    "select2": "新宿"
+  },
+  {
+    "＃": 91,
+    "area": "東京都",
+    "shop_id": "s3000052362",
+    "shop_name": "ar+ hair salon 新宿三丁目店",
+    "station": "東京メトロ副都心線/東京メトロ丸ノ内線/ 新宿三丁目駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "新宿"
+  },
+  {
+    "＃": 92,
+    "area": "東京都",
+    "shop_id": "s9000043628",
+    "shop_name": "KYARA HALF 池袋東口店",
+    "station": "JR山手線 高田馬場駅 早稲田口 徒歩3分",
+    "select1": "東京都",
+    "select2": "新宿"
+  },
+  {
+    "＃": 93,
+    "area": "東京都",
+    "shop_id": "s0010001414",
+    "shop_name": "Claude MONET 新宿店",
+    "station": "【JR各線　新宿駅　中央東改札　徒歩30秒】【地下鉄東京メトロ各線　新宿駅　東口　徒歩3分】",
+    "select1": "東京都",
+    "select2": "新宿"
+  },
+  {
+    "＃": 94,
+    "area": "東京都",
+    "shop_id": "s3000052903",
+    "shop_name": "ZA/ZA 茗荷谷店",
+    "station": "東京メトロ丸ノ内線 茗荷谷駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "＃": 95,
+    "area": "東京都",
+    "shop_id": "s3000052902",
+    "shop_name": "ZA/ZA 目白店",
+    "station": "JR山手線 目白駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "＃": 96,
+    "area": "東京都",
+    "shop_id": "s2000048739",
+    "shop_name": "Lond ange 池袋",
+    "station": "JR山手線 池袋駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "＃": 97,
+    "area": "東京都",
+    "shop_id": "s2000048740",
+    "shop_name": "Lond aventus 池袋",
+    "station": "JR山手線 池袋駅 徒歩2分",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "＃": 98,
+    "area": "東京都",
+    "shop_id": "s0010001415",
+    "shop_name": "Claude MONET 池袋店",
+    "station": "JR山手線 池袋駅東口 徒歩3分",
+    "select1": "東京都",
+    "select2": "池袋"
+  },
+  {
+    "＃": 99,
+    "area": "東京都",
+    "shop_id": "s2000048732",
+    "shop_name": "Lond 銀座店",
+    "station": "東京メトロ有楽町線 銀座一丁目駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "＃": 100,
+    "area": "東京都",
+    "shop_id": "s2000048733",
+    "shop_name": "Lond fille 銀座店",
+    "station": "東京メトロ銀座線 銀座駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "＃": 101,
+    "area": "東京都",
+    "shop_id": "s2000049204",
+    "shop_name": "LE・WIN ginza",
+    "station": "【銀座駅】銀座Ｂ6出口から出てすぐ右手の銀座並木通りを右に曲がる。銀座並木通り沿い左手の、三笠會館の隣、銀座テーラービルの3Ｆです。",
+    "select1": "東京都",
+    "select2": "銀座・新橋・有楽町"
+  },
+  {
+    "＃": 102,
+    "area": "東京都",
+    "shop_id": "s3000051594",
+    "shop_name": "KAINO 南青山店",
+    "station": "東京メトロ各線 表参道駅 徒歩9分",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "＃": 103,
+    "area": "東京都",
+    "shop_id": "s2000048786",
+    "shop_name": "mod's hair 青山プリヴィレージュ店",
+    "station": "東京メトロ各線 表参道駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "＃": 104,
+    "area": "東京都",
+    "shop_id": "s1000047376",
+    "shop_name": "Louwe 表参道［髪質改善/メンズ/ヘッドスパ/表参道］",
+    "station": "東京メトロ銀座線 表参道駅 徒歩2分",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "＃": 105,
+    "area": "東京都",
+    "shop_id": "s1010005560",
+    "shop_name": "Euphoria 青山【ユーフォリア アオヤマ】",
+    "station": "表参道駅B2出口を出て頂き地上に登り目前のケンタッキーを左手に見て、右手に5軒先のビルの7階（徒歩10秒）となります。1階がジュエリーショップになっております。",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "＃": 106,
+    "area": "東京都",
+    "shop_id": "s2000048737",
+    "shop_name": "Lond omotesando 表参道",
+    "station": "東京メトロ千代田線 明治神宮前駅 徒歩3分全クーポン何度でもご利用可能で表参道原宿で驚きのコスパで安心して通える☆【髪質改善/ショート/ボブ/ショートボブ/酸熱トリートメント】☆",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "＃": 107,
+    "area": "東京都",
+    "shop_id": "s4000054349",
+    "shop_name": "Violet",
+    "station": "東京メトロ各線　表参道駅徒歩3分",
+    "select1": "東京都",
+    "select2": "表参道・青山"
+  },
+  {
+    "＃": 108,
+    "area": "東京都",
+    "shop_id": "s3000052664",
+    "shop_name": "ALLM omotesando",
+    "station": "東京メトロ 副都心線/千代田線『明治神宮前駅 約1分』",
+    "select1": "東京都",
+    "select2": "原宿"
+  },
+  {
+    "＃": 109,
+    "area": "東京都",
+    "shop_id": "s4000053945",
+    "shop_name": "ONE'S MIRROR 原宿【ワンズ ミラー】",
+    "station": "JR山手線 原宿駅 徒歩2分",
+    "select1": "東京都",
+    "select2": "原宿"
+  },
+  {
+    "＃": 110,
+    "area": "東京都",
+    "shop_id": "s0000045571",
+    "shop_name": "ACT harajuku",
+    "station": "東京メトロ千代田線 明治神宮前駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "原宿"
+  },
+  {
+    "＃": 111,
+    "area": "東京都",
+    "shop_id": "s4000053771",
+    "shop_name": "Lond un Maison. 原宿",
+    "station": "東京メトロ 千代田線 明治神宮前駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "原宿"
+  },
+  {
+    "＃": 112,
+    "area": "東京都",
+    "shop_id": "s3000052720",
+    "shop_name": "artifata【アルティファータ】",
+    "station": "東京メトロ副都心線／千代田線 明治神宮前駅(5番出口) 徒歩3分",
+    "select1": "東京都",
+    "select2": "原宿"
+  },
+  {
+    "＃": 113,
+    "area": "東京都",
+    "shop_id": "s2000049862",
+    "shop_name": "N° anfeel 渋谷",
+    "station": "JR各線 渋谷駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "＃": 114,
+    "area": "東京都",
+    "shop_id": "s8010000436",
+    "shop_name": "PREGO",
+    "station": "渋谷駅ハチ公口からスクランブル交差点をTSUTAYA側に渡り、渋谷モディ方面へ。渋谷モディ手前の坂を上がり、勤労福祉会館前交差点の角にある、1Fがエクセルシオールカフェのビルの5Fです",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "＃": 115,
+    "area": "東京都",
+    "shop_id": "s9000042455",
+    "shop_name": "ALLYS shibuya",
+    "station": "JR線・東京メトロ・京王線・東急線 渋谷駅 徒歩8分",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "＃": 116,
+    "area": "東京都",
+    "shop_id": "s2000048743",
+    "shop_name": "Lond vallee 渋谷店",
+    "station": "JR山手線 渋谷駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "＃": 117,
+    "area": "東京都",
+    "shop_id": "s8010000476",
+    "shop_name": "CLAN",
+    "station": "渋谷駅ハチ公口を出て、スクランブル交差点をSEIBUが見える通りへ歩き、MODIを過ぎるとタワーレコードの交差点があります。交差点の郵便局を渡ったところにあるメゾン渋谷ビルの2Fです",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "＃": 118,
+    "area": "東京都",
+    "shop_id": "s3010011043",
+    "shop_name": "SIECLE hair&spa 渋谷店",
+    "station": "東京メトロ副都心線 渋谷駅 徒歩8分",
+    "select1": "東京都",
+    "select2": "渋谷"
+  },
+  {
+    "＃": 119,
+    "area": "東京都",
+    "shop_id": "s3000051905",
+    "shop_name": "Hair&Esthe HIROIN 西麻布本店",
+    "station": "東京メトロ日比谷線 広尾駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "恵比寿・代官山・中目黒"
+  },
+  {
+    "＃": 120,
+    "area": "東京都",
+    "shop_id": "s3000050028",
+    "shop_name": "Door 代官山",
+    "station": "東急東横線 代官山駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "恵比寿・代官山・中目黒"
+  },
+  {
+    "＃": 121,
+    "area": "東京都",
+    "shop_id": "s3000051114",
+    "shop_name": "hair salon M.techo恵比寿",
+    "station": "@\\r\\n",
+    "select1": "東京都",
+    "select2": "恵比寿・代官山・中目黒"
+  },
+  {
+    "＃": 122,
+    "area": "東京都",
+    "shop_id": "s0000045725",
+    "shop_name": "Lond Printemps 恵比寿",
+    "station": "JR恵比寿駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "恵比寿・代官山・中目黒"
+  },
+  {
+    "＃": 123,
+    "area": "東京都",
+    "shop_id": "s8000040673",
+    "shop_name": "Hair Designing comme Matisse",
+    "station": "JR山手線・東京メトロ日比谷線 恵比寿駅 徒歩10分",
+    "select1": "東京都",
+    "select2": "恵比寿・代官山・中目黒"
+  },
+  {
+    "＃": 124,
+    "area": "東京都",
+    "shop_id": "s2000048591",
+    "shop_name": "Fare 自由が丘店",
+    "station": "東急東横線、東急大井町線 自由が丘(東京)駅 徒歩2分",
+    "select1": "東京都",
+    "select2": "自由が丘・学芸大学"
+  },
+  {
+    "＃": 125,
+    "area": "東京都",
+    "shop_id": "s2010006922",
+    "shop_name": "Ash 自由が丘店",
+    "station": "東急東横線/大井町線 自由が丘駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "自由が丘・学芸大学"
+  },
+  {
+    "＃": 126,
+    "area": "東京都",
+    "shop_id": "s8000038824",
+    "shop_name": "Les Saisons （旧MASSATO PARIS）",
+    "station": "東京メトロ日比谷線 六本木駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "六本木・麻布十番"
+  },
+  {
+    "＃": 127,
+    "area": "東京都",
+    "shop_id": "s2000048965",
+    "shop_name": "ECLART CENTRAL 赤坂",
+    "station": "東京メトロ千代田線 赤坂(東京)駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "六本木・麻布十番"
+  },
+  {
+    "＃": 128,
+    "area": "東京都",
+    "shop_id": "s4000053291",
+    "shop_name": "SHINKA 麻布十番【シンカ】",
+    "station": "都営大江戸線 麻布十番駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "六本木・麻布十番"
+  },
+  {
+    "＃": 129,
+    "area": "東京都",
+    "shop_id": "s2000049395",
+    "shop_name": "UNIX アリオ亀有店",
+    "station": "JR常磐線各駅停車 亀有駅南口 徒歩5分",
+    "select1": "東京都",
+    "select2": "北千住・町屋・亀有"
+  },
+  {
+    "＃": 130,
+    "area": "東京都",
+    "shop_id": "s3000050618",
+    "shop_name": "Lond polaire 北千住",
+    "station": "各線 北千住駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "北千住・町屋・亀有"
+  },
+  {
+    "＃": 131,
+    "area": "東京都",
+    "shop_id": "s3000052429",
+    "shop_name": "True Creation 北千住",
+    "station": "東武スカイツリーライン 北千住駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "北千住・町屋・亀有"
+  },
+  {
+    "＃": 132,
+    "area": "東京都",
+    "shop_id": "s4000053793",
+    "shop_name": "CRED GARDEN綾瀬店【クレドガーデン】",
+    "station": "東京メトロ千代田線 綾瀬駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "北千住・町屋・亀有"
+  },
+  {
+    "＃": 133,
+    "area": "東京都",
+    "shop_id": "s4000053129",
+    "shop_name": "maharo by KARERA",
+    "station": "JR常磐線各駅停車 亀有駅 南口徒歩3分",
+    "select1": "東京都",
+    "select2": "北千住・町屋・亀有"
+  },
+  {
+    "＃": 134,
+    "area": "東京都",
+    "shop_id": "s2010006932",
+    "shop_name": "Ash 北千住店",
+    "station": "東京メトロ日比谷線/他各線 北千住駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "北千住・町屋・亀有"
+  },
+  {
+    "＃": 135,
+    "area": "東京都",
+    "shop_id": "s3000052422",
+    "shop_name": "SKY Re-beau",
+    "station": "JR総武線・総武線快速　錦糸町駅　徒歩1分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 136,
+    "area": "東京都",
+    "shop_id": "s4000052992",
+    "shop_name": "in'dex hair 錦糸町店",
+    "station": "各線 錦糸町駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 137,
+    "area": "東京都",
+    "shop_id": "s2000048735",
+    "shop_name": "Lond blanche 錦糸町北口",
+    "station": "JR総武線 錦糸町駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 138,
+    "area": "東京都",
+    "shop_id": "s2000048736",
+    "shop_name": "Lond espoir 錦糸町",
+    "station": "JR総武線 錦糸町駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 139,
+    "area": "東京都",
+    "shop_id": "s7000029070",
+    "shop_name": "インデックスヘアー亀戸店",
+    "station": "JR亀戸駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 140,
+    "area": "東京都",
+    "shop_id": "s8000036163",
+    "shop_name": "Aboutir",
+    "station": "JR総武線・半蔵門線／錦糸町駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 141,
+    "area": "東京都",
+    "shop_id": "s1010003929",
+    "shop_name": "Ash 亀戸店",
+    "station": "JR総武線 亀戸駅 徒歩7分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 142,
+    "area": "東京都",
+    "shop_id": "s2010006970",
+    "shop_name": "Ash 瑞江店",
+    "station": "都営新宿線 瑞江駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 143,
+    "area": "東京都",
+    "shop_id": "s4010013039",
+    "shop_name": "Ash 亀戸東口店",
+    "station": "JR総武線 亀戸駅東口より徒歩1分以内",
+    "select1": "東京都",
+    "select2": "錦糸町・小岩・青砥"
+  },
+  {
+    "＃": 144,
+    "area": "東京都",
+    "shop_id": "s2000049821",
+    "shop_name": "N° deseo 吉祥寺",
+    "station": "吉祥寺駅北口を出て、正面あるサンロード商店街の中を進みます。一つ目信号のある横断歩道を渡るとすぐにABCマートさんがございます、右に曲がると細い入口から入り、奥にエレベーターで5階までお越しください。",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 145,
+    "area": "東京都",
+    "shop_id": "s0000045724",
+    "shop_name": "Lond charme 吉祥寺",
+    "station": "JR吉祥寺駅北口を出て、ロータリーをサンロード側に渡ります。ダイヤ街を抜け、みずほ銀行と東急百貨店の間をさらに直進。藤村女子中学高等学校の右隣のビル二階が当店です。外階段を使いお入りください。",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 146,
+    "area": "東京都",
+    "shop_id": "s3010011045",
+    "shop_name": "MILLENNIUM NEW YORK 西荻窪店",
+    "station": "JR中央線 西荻窪駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 147,
+    "area": "東京都",
+    "shop_id": "s3010011044",
+    "shop_name": "SIECLE hair&spa 吉祥寺パルコ店",
+    "station": "JR中央線 吉祥寺駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 148,
+    "area": "東京都",
+    "shop_id": "s6000025298",
+    "shop_name": "hair make flencia",
+    "station": "★JR中央線 三鷹駅 徒歩3分★",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 149,
+    "area": "東京都",
+    "shop_id": "s0010001998",
+    "shop_name": "Ash 吉祥寺店",
+    "station": "京王井の頭線 吉祥寺駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 150,
+    "area": "東京都",
+    "shop_id": "s4010013062",
+    "shop_name": "Ash 西荻窪店",
+    "station": "JR中央線 西荻窪駅 徒歩6分",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 151,
+    "area": "東京都",
+    "shop_id": "s4010013072",
+    "shop_name": "Ash 武蔵小金井店",
+    "station": "JR中央線 武蔵小金井駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 152,
+    "area": "東京都",
+    "shop_id": "s4010013074",
+    "shop_name": "Ash 武蔵境店",
+    "station": "JR中央線 武蔵境駅 徒歩4分",
+    "select1": "東京都",
+    "select2": "吉祥寺・荻窪・三鷹"
+  },
+  {
+    "＃": 153,
+    "area": "東京都",
+    "shop_id": "s3000050575",
+    "shop_name": "N° jillva 立川",
+    "station": "JR中央本線 立川駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "＃": 154,
+    "area": "東京都",
+    "shop_id": "s7000032221",
+    "shop_name": "TERACE立川北口［髪質改善/メンズ/ヘッドスパ ］",
+    "station": "JR中央線・南武線 立川駅 徒歩3分西国立１３分［髪質改善 メンズ ヘッドスパ 立川 ］",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "＃": 155,
+    "area": "東京都",
+    "shop_id": "s0000045717",
+    "shop_name": "Louwe 立川［髪質改善/メンズ/ヘッドスパ/立川］",
+    "station": "JR中央線・多摩モノレール 立川駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "＃": 156,
+    "area": "東京都",
+    "shop_id": "s0000045723",
+    "shop_name": "Lond leglise 立川",
+    "station": "JR中央線・多摩モノレール 立川駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "＃": 157,
+    "area": "東京都",
+    "shop_id": "s3000051464",
+    "shop_name": "Lond hot lip 立川",
+    "station": "立川駅北口を出て北口通り沿いのビックカメラとフロム中武の間の道を右折。カフェベローチェを通過する左手の小道に入ってください。ネオ大衆スタンド[ポロ]さんが1階に入っているビルの2階です",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "＃": 158,
+    "area": "東京都",
+    "shop_id": "s4010013054",
+    "shop_name": "Ash 立川店",
+    "station": "多摩モノレール 立川南駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "立川・国立・国分寺"
+  },
+  {
+    "＃": 159,
+    "area": "東京都",
+    "shop_id": "s2000048322",
+    "shop_name": "IGREK PARIS 南大沢店",
+    "station": "京王相模原線 南大沢駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "＃": 160,
+    "area": "東京都",
+    "shop_id": "s8000037333",
+    "shop_name": "CRESCENDO",
+    "station": "JR中央線 八王子駅 徒歩6分",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "＃": 161,
+    "area": "東京都",
+    "shop_id": "s2010006903",
+    "shop_name": "Ash 豊田店",
+    "station": "JR中央線 豊田駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "＃": 162,
+    "area": "東京都",
+    "shop_id": "s2010006966",
+    "shop_name": "Ash 日野店",
+    "station": "JR中央線 日野駅すぐ",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "＃": 163,
+    "area": "東京都",
+    "shop_id": "s4010013053",
+    "shop_name": "Ash 高幡不動店",
+    "station": "多摩モノレール 高幡不動駅 徒歩2分",
+    "select1": "東京都",
+    "select2": "八王子・日野・昭島"
+  },
+  {
+    "＃": 164,
+    "area": "東京都",
+    "shop_id": "s1010003995",
+    "shop_name": "Ash 高円寺店",
+    "station": "JR中央線 高円寺駅北口 徒歩1分",
+    "select1": "東京都",
+    "select2": "中野・高円寺・阿佐ヶ谷"
+  },
+  {
+    "＃": 165,
+    "area": "東京都",
+    "shop_id": "s2010006946",
+    "shop_name": "Ash 中野店",
+    "station": "JR中央線 中野駅 徒歩8分",
+    "select1": "東京都",
+    "select2": "中野・高円寺・阿佐ヶ谷"
+  },
+  {
+    "＃": 166,
+    "area": "東京都",
+    "shop_id": "s9000041329",
+    "shop_name": "インスティチュートケラスターゼ byトニータナカステュディオ",
+    "station": "JR線 品川駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "品川・大森・蒲田"
+  },
+  {
+    "＃": 167,
+    "area": "東京都",
+    "shop_id": "s4000053048",
+    "shop_name": "Silk house 日本橋三越店",
+    "station": "東京メトロ銀座線 三越前駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "上野・日本橋・浅草"
+  },
+  {
+    "＃": 168,
+    "area": "東京都",
+    "shop_id": "s4000053051",
+    "shop_name": "Claude MONET 上野の森店",
+    "station": "京成本線 京成上野駅 （池之端口）徒歩1分",
+    "select1": "東京都",
+    "select2": "上野・日本橋・浅草"
+  },
+  {
+    "＃": 169,
+    "area": "東京都",
+    "shop_id": "s5010015072",
+    "shop_name": "イグレックパリ 赤羽店",
+    "station": "JR京浜東北線 赤羽駅 徒歩0分",
+    "select1": "東京都",
+    "select2": "赤羽・十条・王子"
+  },
+  {
+    "＃": 170,
+    "area": "東京都",
+    "shop_id": "s2000049403",
+    "shop_name": "UNIXアーバンドックららぽーと豊洲店",
+    "station": "東京メトロ有楽町線 豊洲駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "葛西・西葛西・門前仲町"
+  },
+  {
+    "＃": 171,
+    "area": "東京都",
+    "shop_id": "s1000046211",
+    "shop_name": "LUFE act.",
+    "station": "小田急小田原線 町田駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "町田"
+  },
+  {
+    "＃": 172,
+    "area": "東京都",
+    "shop_id": "s1010003811",
+    "shop_name": "Produce 成瀬店",
+    "station": "JR横浜線 成瀬駅 徒歩2分　（※左に曲がりロータリーに沿って進みます。相鉄ローゼンの前を通り日高屋の交差点を渡り、目の前のビルの１Fです。）",
+    "select1": "東京都",
+    "select2": "町田"
+  },
+  {
+    "＃": 173,
+    "area": "東京都",
+    "shop_id": "s8000036416",
+    "shop_name": "HAIR&ART LUMINA",
+    "station": "北口階段降りてスグ向かい松屋さんが入ってるビルの２階です。",
+    "select1": "東京都",
+    "select2": "町田"
+  },
+  {
+    "＃": 174,
+    "area": "東京都",
+    "shop_id": "s2000049863",
+    "shop_name": "全席個室サロン N° aria 三軒茶屋",
+    "station": "東急世田谷線 三軒茶屋駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "＃": 175,
+    "area": "東京都",
+    "shop_id": "s2000048785",
+    "shop_name": "mod's hair 二子玉川店",
+    "station": "東急田園都市線・東急大井町線 二子玉川駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "＃": 176,
+    "area": "東京都",
+    "shop_id": "s9000044908",
+    "shop_name": "affetto by flammeum 三軒茶屋",
+    "station": "田園都市線三軒茶屋駅の南A出口を出て、そのまま玉川通りを真っすぐに行きます。右手にファミリーマート、モスバーガーを順番に通りすぎ、日産レンタカーの手前を右に入ります。",
+    "select1": "東京都",
+    "select2": "三軒茶屋・用賀・二子玉川"
+  },
+  {
+    "＃": 177,
+    "area": "東京都",
+    "shop_id": "s4000053489",
+    "shop_name": "IT by ALBUM 下北沢店",
+    "station": "井の頭線・小田急線下北沢駅から徒歩１分",
+    "select1": "東京都",
+    "select2": "下北沢・代々木上原"
+  },
+  {
+    "＃": 178,
+    "area": "東京都",
+    "shop_id": "s9000041772",
+    "shop_name": "edge.下北沢",
+    "station": "下北沢駅中央口の改札を出て真っ直ぐ進み、大圧水産を通過して、一番街商店街の門をくぐり、そのまま真っすぐ進んでいただき、モスバーガーの十字路を右折して、やきとり屋さんの隣のレンガ作りビル２階になります。",
+    "select1": "東京都",
+    "select2": "下北沢・代々木上原"
+  },
+  {
+    "＃": 179,
+    "area": "東京都",
+    "shop_id": "s3000050600",
+    "shop_name": "emma ときわ台店",
+    "station": "東武東上線 ときわ台(東京)駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "板橋・成増・巣鴨"
+  },
+  {
+    "＃": 180,
+    "area": "東京都",
+    "shop_id": "s9000043570",
+    "shop_name": "Ash 成増店",
+    "station": "東武東上線 成増駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "板橋・成増・巣鴨"
+  },
+  {
+    "＃": 181,
+    "area": "東京都",
+    "shop_id": "s0000045514",
+    "shop_name": "mod's hair 目黒店",
+    "station": "各線 目黒駅(西口) から徒歩1分",
+    "select1": "東京都",
+    "select2": "目黒・戸越・武蔵小山"
+  },
+  {
+    "＃": 182,
+    "area": "東京都",
+    "shop_id": "s2000048655",
+    "shop_name": "hair care salon Natural Crown",
+    "station": "西武拝島線 東大和市駅 徒歩15分",
+    "select1": "東京都",
+    "select2": "田無・小平・久米川"
+  },
+  {
+    "＃": 183,
+    "area": "東京都",
+    "shop_id": "s5010015079",
+    "shop_name": "イグレックパリ 練馬店",
+    "station": "西武池袋線 練馬駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "大泉学園・江古田・練馬"
+  },
+  {
+    "＃": 184,
+    "area": "東京都",
+    "shop_id": "s0010001777",
+    "shop_name": "MILLENNIUM NEW YORK 大泉学園店",
+    "station": "西武池袋線 大泉学園駅北口 徒歩1分",
+    "select1": "東京都",
+    "select2": "大泉学園・江古田・練馬"
+  },
+  {
+    "＃": 185,
+    "area": "東京都",
+    "shop_id": "s1010003958",
+    "shop_name": "Ash 石神井公園店",
+    "station": "西武池袋線 石神井公園駅 徒歩2分",
+    "select1": "東京都",
+    "select2": "大泉学園・江古田・練馬"
+  },
+  {
+    "＃": 186,
+    "area": "東京都",
+    "shop_id": "s2010009086",
+    "shop_name": "ミレニアム・ニューヨーク 調布パルコ店",
+    "station": "京王線 調布駅 北口より徒歩1分",
+    "select1": "東京都",
+    "select2": "調布・府中"
+  },
+  {
+    "＃": 187,
+    "area": "東京都",
+    "shop_id": "s2010006947",
+    "shop_name": "Ash 仙川店",
+    "station": "京王線 仙川駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "調布・府中"
+  },
+  {
+    "＃": 188,
+    "area": "東京都",
+    "shop_id": "s9000042781",
+    "shop_name": "DUMBO",
+    "station": "小田急小田原線 千歳船橋駅 徒歩3分",
+    "select1": "東京都",
+    "select2": "経堂・成城学園・狛江"
+  },
+  {
+    "＃": 189,
+    "area": "東京都",
+    "shop_id": "s3000051251",
+    "shop_name": "ZA/ZA 神楽坂",
+    "station": "東京メトロ東西線 神楽坂駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "飯田橋・四谷・御茶ノ水"
+  },
+  {
+    "＃": 190,
+    "area": "東京都",
+    "shop_id": "s2000048404",
+    "shop_name": "Mora 神楽坂",
+    "station": "東京メトロ東西線 神楽坂駅 徒歩1分",
+    "select1": "東京都",
+    "select2": "飯田橋・四谷・御茶ノ水"
+  },
+  {
+    "＃": 191,
+    "area": "東京都",
+    "shop_id": "s3000052440",
+    "shop_name": "Seasons Botanica 千歳烏山",
+    "station": "京王線 千歳烏山駅 徒歩5分",
+    "select1": "東京都",
+    "select2": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "＃": 192,
+    "area": "東京都",
+    "shop_id": "s2010006949",
+    "shop_name": "Ash 千歳烏山店",
+    "station": "京王線 芦花公園駅 徒歩14分",
+    "select1": "東京都",
+    "select2": "笹塚・下高井戸・千歳烏山"
+  },
+  {
+    "＃": 193,
+    "area": "神奈川県",
+    "shop_id": "s1000047924",
+    "shop_name": "flammeum 横浜",
+    "station": "各線 横浜駅 徒歩5分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 194,
+    "area": "神奈川県",
+    "shop_id": "s3000052885",
+    "shop_name": "N° +aero 横浜",
+    "station": "各線 横浜駅 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 195,
+    "area": "神奈川県",
+    "shop_id": "s2000048741",
+    "shop_name": "Lond azur 横浜",
+    "station": "JR横浜線 横浜駅 徒歩6分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 196,
+    "area": "神奈川県",
+    "shop_id": "s3000050862",
+    "shop_name": "Lond ciel 横浜",
+    "station": "各線 横浜駅 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 197,
+    "area": "神奈川県",
+    "shop_id": "s4000054350",
+    "shop_name": "Violet 横浜",
+    "station": "横浜駅西口直結/JR線京急線改札から30秒・東横線相鉄線改札から１分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 198,
+    "area": "神奈川県",
+    "shop_id": "s4010013069",
+    "shop_name": "Ash 横浜西口店",
+    "station": "JR東海道本線 横浜駅 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 199,
+    "area": "神奈川県",
+    "shop_id": "s2010006968",
+    "shop_name": "Bees センター北店",
+    "station": "横浜市営地下鉄 センター北駅 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "横浜"
+  },
+  {
+    "＃": 200,
+    "area": "神奈川県",
+    "shop_id": "s4010013090",
+    "shop_name": "Ash 川崎店",
+    "station": "京急本線 京急川崎駅 徒歩10分",
+    "select1": "神奈川県",
+    "select2": "川崎"
+  },
+  {
+    "＃": 201,
+    "area": "神奈川県",
+    "shop_id": "s4010013080",
+    "shop_name": "Ash 鶴見店",
+    "station": "京急本線 京急鶴見駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "鶴見"
+  },
+  {
+    "＃": 202,
+    "area": "神奈川県",
+    "shop_id": "s2000049400",
+    "shop_name": "UNIX ノクティプラザ溝口店",
+    "station": "東急田園都市線 溝の口駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "溝の口・武蔵溝ノ口・高津"
+  },
+  {
+    "＃": 203,
+    "area": "神奈川県",
+    "shop_id": "s4010013061",
+    "shop_name": "Ash 宮前平店",
+    "station": "東急田園都市線 宮前平駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "溝の口・武蔵溝ノ口・高津"
+  },
+  {
+    "＃": 204,
+    "area": "神奈川県",
+    "shop_id": "s4010013068",
+    "shop_name": "Ash 高津店",
+    "station": "東急田園都市線 高津駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "溝の口・武蔵溝ノ口・高津"
+  },
+  {
+    "＃": 205,
+    "area": "神奈川県",
+    "shop_id": "s3000051041",
+    "shop_name": "Refine by Afinar 本厚木店",
+    "station": "本厚木駅北口を出て右側に進み、厚木なかちょう大通り「吉野家」さんを正面に左隣のビルの5F　当ビルB1「ホンアツ やきとん横丁」さん、２F「刀削麺酒楼」さん、３F「アイフル」さん",
+    "select1": "神奈川県",
+    "select2": "本厚木・海老名・伊勢原"
+  },
+  {
+    "＃": 206,
+    "area": "神奈川県",
+    "shop_id": "s0000045891",
+    "shop_name": "flammeum 本厚木店",
+    "station": "小田急小田原線 本厚木駅 徒歩4分",
+    "select1": "神奈川県",
+    "select2": "本厚木・海老名・伊勢原"
+  },
+  {
+    "＃": 207,
+    "area": "神奈川県",
+    "shop_id": "s9000042788",
+    "shop_name": "CAPA秦野",
+    "station": "小田急電鉄小田原線 秦野駅 徒歩0分",
+    "select1": "神奈川県",
+    "select2": "本厚木・海老名・伊勢原"
+  },
+  {
+    "＃": 208,
+    "area": "神奈川県",
+    "shop_id": "s3000052760",
+    "shop_name": "Vif iris",
+    "station": "横浜市営地下鉄ブルーライン・横浜市営地下鉄グリーンライン センター南駅 徒歩5分",
+    "select1": "神奈川県",
+    "select2": "港北・都筑・青葉台"
+  },
+  {
+    "＃": 209,
+    "area": "神奈川県",
+    "shop_id": "s2000049396",
+    "shop_name": "UNIX モザイクモール港北店",
+    "station": "横浜市営地下鉄ブルーライン・グリーンライン センター北駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "港北・都筑・青葉台"
+  },
+  {
+    "＃": 210,
+    "area": "神奈川県",
+    "shop_id": "s4010013089",
+    "shop_name": "Ash 中山店",
+    "station": "JR横浜線 中山駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "港北・都筑・青葉台"
+  },
+  {
+    "＃": 211,
+    "area": "神奈川県",
+    "shop_id": "s2000048672",
+    "shop_name": "Fare marine＆beauty",
+    "station": "京浜急行本線 汐入駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "横須賀・鎌倉・逗子"
+  },
+  {
+    "＃": 212,
+    "area": "神奈川県",
+    "shop_id": "s9000043210",
+    "shop_name": "flammeum関内店",
+    "station": "JR京浜東北線関内駅 徒歩4分 北口を出て右へ。フレッシュネスバーガーを左手にファミマのT字路を左折し桜通りを真っ直ぐ信号を渡り更に直進してファミマの入口の左に自動ドアがありますので入って3階です",
+    "select1": "神奈川県",
+    "select2": "桜木町・みなとみらい・関内"
+  },
+  {
+    "＃": 213,
+    "area": "神奈川県",
+    "shop_id": "s2000049399",
+    "shop_name": "UNIX MARK IS みなとみらい店",
+    "station": "みなとみらい線 みなとみらい駅 徒歩0分",
+    "select1": "神奈川県",
+    "select2": "桜木町・みなとみらい・関内"
+  },
+  {
+    "＃": 214,
+    "area": "神奈川県",
+    "shop_id": "s4010013091",
+    "shop_name": "Ash 関内店",
+    "station": "JR京浜東北線 関内駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "桜木町・みなとみらい・関内"
+  },
+  {
+    "＃": 215,
+    "area": "神奈川県",
+    "shop_id": "s2000048654",
+    "shop_name": "イグレックパリ 相模原店",
+    "station": "JR横浜線 相模原駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "橋本・相模原・淵野辺"
+  },
+  {
+    "＃": 216,
+    "area": "神奈川県",
+    "shop_id": "s5010015071",
+    "shop_name": "イグレックパリ 橋本店",
+    "station": "京王相模原線 橋本駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "橋本・相模原・淵野辺"
+  },
+  {
+    "＃": 217,
+    "area": "神奈川県",
+    "shop_id": "s3010011287",
+    "shop_name": "GRAPE VINES Ofuna",
+    "station": "JR横須賀線 大船駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "大船・戸塚・保土ヶ谷"
+  },
+  {
+    "＃": 218,
+    "area": "神奈川県",
+    "shop_id": "s9000041247",
+    "shop_name": "Ancheri by flammeum 戸塚店",
+    "station": "東海道線・湘南新宿ライン・横須賀線・横浜市営地下鉄 戸塚駅 徒歩4分",
+    "select1": "神奈川県",
+    "select2": "大船・戸塚・保土ヶ谷"
+  },
+  {
+    "＃": 219,
+    "area": "神奈川県",
+    "shop_id": "s9000045094",
+    "shop_name": "Ancheri by flammeum 大船店",
+    "station": "各線 大船駅 徒歩2分",
+    "select1": "神奈川県",
+    "select2": "大船・戸塚・保土ヶ谷"
+  },
+  {
+    "＃": 220,
+    "area": "神奈川県",
+    "shop_id": "s7000032992",
+    "shop_name": "LuLu by KENJE",
+    "station": "小田急江ノ島線 本鵠沼駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "藤沢・湘南台・江ノ島"
+  },
+  {
+    "＃": 221,
+    "area": "神奈川県",
+    "shop_id": "s4010013045",
+    "shop_name": "Ash 武蔵小杉店",
+    "station": "東急東横線 武蔵小杉駅 南口3番出口　徒歩0分\\r\\n出口を後ろに　右)東急スクエア　左)コアパーク　前)コスギプラザ　\\r\\nコアパークの方に出るとファミリーマートが見えます。そのビルの4階",
+    "select1": "神奈川県",
+    "select2": "武蔵小杉・日吉・綱島"
+  },
+  {
+    "＃": 222,
+    "area": "神奈川県",
+    "shop_id": "s4010013063",
+    "shop_name": "Ash 元住吉店",
+    "station": "東急東横線 元住吉駅 徒歩30秒　エスカレーターを降りてすぐ目の前",
+    "select1": "神奈川県",
+    "select2": "武蔵小杉・日吉・綱島"
+  },
+  {
+    "＃": 223,
+    "area": "神奈川県",
+    "shop_id": "s9000041248",
+    "shop_name": "flammeum相模大野店",
+    "station": "小田急小田原線・小田急江ノ島線 相模大野駅 徒歩3分",
+    "select1": "神奈川県",
+    "select2": "相模大野・小田急相模原"
+  },
+  {
+    "＃": 224,
+    "area": "神奈川県",
+    "shop_id": "s7000033016",
+    "shop_name": "Lia by KENJE",
+    "station": "小田急線北口 中央林間駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "東林間・中央林間・南林間"
+  },
+  {
+    "＃": 225,
+    "area": "神奈川県",
+    "shop_id": "s9000042853",
+    "shop_name": "id.byKENJE",
+    "station": "小田急江ノ島線 鶴間駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "東林間・中央林間・南林間"
+  },
+  {
+    "＃": 226,
+    "area": "神奈川県",
+    "shop_id": "s1010003982",
+    "shop_name": "Ash さがみ野店",
+    "station": "相鉄本線 さがみ野駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "大和・さがみ野・二俣川"
+  },
+  {
+    "＃": 227,
+    "area": "神奈川県",
+    "shop_id": "s4010013077",
+    "shop_name": "Ash 鶴ヶ峰1号店",
+    "station": "相鉄本線 鶴ヶ峰駅 徒歩0分",
+    "select1": "神奈川県",
+    "select2": "大和・さがみ野・二俣川"
+  },
+  {
+    "＃": 228,
+    "area": "神奈川県",
+    "shop_id": "s8000039575",
+    "shop_name": "GRAPE VINES 港南台",
+    "station": "JR京浜東北線 港南台駅 徒歩2分",
+    "select1": "神奈川県",
+    "select2": "上大岡・金沢文庫・港南台"
+  },
+  {
+    "＃": 229,
+    "area": "神奈川県",
+    "shop_id": "s4040013092",
+    "shop_name": "Ash 白楽店",
+    "station": "東急東横線 白楽駅 徒歩7分",
+    "select1": "神奈川県",
+    "select2": "新横浜・菊名・東神奈川"
+  },
+  {
+    "＃": 230,
+    "area": "神奈川県",
+    "shop_id": "s7000032211",
+    "shop_name": "Ash 東神奈川店",
+    "station": "JR横浜線 東神奈川駅 徒歩4分",
+    "select1": "神奈川県",
+    "select2": "新横浜・菊名・東神奈川"
+  },
+  {
+    "＃": 231,
+    "area": "神奈川県",
+    "shop_id": "s9000041411",
+    "shop_name": "GRAPE VINES Tsujido",
+    "station": "JR東海道本線 辻堂駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "平塚・茅ヶ崎・辻堂"
+  },
+  {
+    "＃": 232,
+    "area": "神奈川県",
+    "shop_id": "s9000043211",
+    "shop_name": "flammeum平塚店",
+    "station": "JR東海道線 平塚駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "平塚・茅ヶ崎・辻堂"
+  },
+  {
+    "＃": 233,
+    "area": "神奈川県",
+    "shop_id": "s2000049394",
+    "shop_name": "UNIX ららぽーと湘南平塚店",
+    "station": "JR東海道本線 平塚駅 徒歩15分",
+    "select1": "神奈川県",
+    "select2": "平塚・茅ヶ崎・辻堂"
+  },
+  {
+    "＃": 234,
+    "area": "神奈川県",
+    "shop_id": "s6000024769",
+    "shop_name": "KENJE 平塚LUSCA Smart Salon",
+    "station": "JR東海道本線 平塚駅 徒歩1分",
+    "select1": "神奈川県",
+    "select2": "平塚・茅ヶ崎・辻堂"
+  },
+  {
+    "＃": 235,
+    "area": "神奈川県",
+    "shop_id": "s8000039259",
+    "shop_name": "CAPA茅ヶ崎",
+    "station": "東海道線 茅ヶ崎駅 徒歩2分",
+    "select1": "神奈川県",
+    "select2": "平塚・茅ヶ崎・辻堂"
+  },
+  {
+    "＃": 236,
+    "area": "神奈川県",
+    "shop_id": "s1000047253",
+    "shop_name": "Ash 本牧店",
+    "station": "JR京浜東北線 石川町駅から  横浜市営バス「本牧宮原」下車徒歩１分",
+    "select1": "神奈川県",
+    "select2": "元町・石川町"
+  },
+  {
+    "＃": 237,
+    "area": "新潟県",
+    "shop_id": "s1000047206",
+    "shop_name": "Re charm by anyhow 新保店",
+    "station": "JR信越本線 長岡駅 徒歩20分\\r\\nJR信越本線 北長岡駅 徒歩20分",
+    "select1": "新潟県",
+    "select2": "長岡・柏崎"
+  },
+  {
+    "＃": 238,
+    "area": "富山県",
+    "shop_id": "s8000035856",
+    "shop_name": "ARENA-HAIR",
+    "station": "スターバックス藤の木店→東へ400m",
+    "select1": "富山県",
+    "select2": "富山"
+  },
+  {
+    "＃": 239,
+    "area": "石川県",
+    "shop_id": "s1000046238",
+    "shop_name": "Limi",
+    "station": "JR北陸本線 金沢駅 徒歩3分",
+    "select1": "石川県",
+    "select2": "金沢・野々市"
+  },
+  {
+    "＃": 240,
+    "area": "石川県",
+    "shop_id": "s9000041820",
+    "shop_name": "KAMIO 9",
+    "station": "JR北陸本線 金沢駅 徒歩15分",
+    "select1": "石川県",
+    "select2": "金沢・野々市"
+  },
+  {
+    "＃": 241,
+    "area": "石川県",
+    "shop_id": "s5000016896",
+    "shop_name": "UNITED BEAUTY KANAZAWA",
+    "station": "JR北陸本線 西金沢駅 徒歩19分",
+    "select1": "石川県",
+    "select2": "金沢・野々市"
+  },
+  {
+    "＃": 242,
+    "area": "石川県",
+    "shop_id": "s3000051572",
+    "shop_name": "KAINO イオンモール新小松店",
+    "station": "JR北陸本線 小松駅 徒歩21分",
+    "select1": "石川県",
+    "select2": "白山・小松・加賀"
+  },
+  {
+    "＃": 243,
+    "area": "福井県",
+    "shop_id": "s8000036748",
+    "shop_name": "美容室CREATE Visage店",
+    "station": "えちぜん鉄道三国芦原線 福大前西福井駅 徒歩3分",
+    "select1": "福井県",
+    "select2": "福井・坂井"
+  },
+  {
+    "＃": 244,
+    "area": "岐阜県",
+    "shop_id": "s7000032783",
+    "shop_name": "アルファファーストalfa1st.",
+    "station": "名鉄各務原線 細畑駅 徒歩10分",
+    "select1": "岐阜県",
+    "select2": "岐阜市・大垣・羽島"
+  },
+  {
+    "＃": 245,
+    "area": "静岡県",
+    "shop_id": "s6000021306",
+    "shop_name": "La Mode IWAI　浜松店",
+    "station": "JR東海道本線 浜松駅 徒歩2分",
+    "select1": "静岡県",
+    "select2": "浜松"
+  },
+  {
+    "＃": 246,
+    "area": "静岡県",
+    "shop_id": "s6000021318",
+    "shop_name": "Le Soleil浜松",
+    "station": "JR東海道本線 浜松駅 徒歩1分",
+    "select1": "静岡県",
+    "select2": "浜松"
+  },
+  {
+    "＃": 247,
+    "area": "静岡県",
+    "shop_id": "s3000051029",
+    "shop_name": "CARDIA LUSSO【カルディアルッソ】",
+    "station": "遠州鉄道 遠州病院駅 徒歩4分",
+    "select1": "静岡県",
+    "select2": "浜松"
+  },
+  {
+    "＃": 248,
+    "area": "静岡県",
+    "shop_id": "s8000036252",
+    "shop_name": "SHAPE",
+    "station": "伊豆箱根鉄道駿豆線 修善寺駅 徒歩1分",
+    "select1": "静岡県",
+    "select2": "熱海・三島・伊豆"
+  },
+  {
+    "＃": 249,
+    "area": "愛知県",
+    "shop_id": "s2000048669",
+    "shop_name": "BEAT S",
+    "station": "名城線 矢場町駅 徒歩5分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 250,
+    "area": "愛知県",
+    "shop_id": "s4000053911",
+    "shop_name": "ONE's NAGOYA 栄",
+    "station": "名古屋市営地下鉄各線 栄(名古屋)駅 徒歩1分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 251,
+    "area": "愛知県",
+    "shop_id": "s6000021313",
+    "shop_name": "Le Coeur",
+    "station": "名古屋市営地下鉄名城線 矢場町駅 徒歩2分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 252,
+    "area": "愛知県",
+    "shop_id": "s6000021305",
+    "shop_name": "DESSANGE international",
+    "station": "名古屋市営地下鉄東山線 栄駅 徒歩3分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 253,
+    "area": "愛知県",
+    "shop_id": "s6000021302",
+    "shop_name": "La Mode IWAI INTERNATIONAL",
+    "station": "名古屋市営地下鉄東山線 栄駅 徒歩5分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 254,
+    "area": "愛知県",
+    "shop_id": "s1000046618",
+    "shop_name": "日置美容室本店",
+    "station": "名古屋市営地下鉄東山線・名古屋市営地下鉄名城線 栄駅 徒歩5分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 255,
+    "area": "愛知県",
+    "shop_id": "s5010014467",
+    "shop_name": "MISTEROMA（ミステローマ）",
+    "station": "名古屋市営地下鉄東山線 栄駅 徒歩4分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 256,
+    "area": "愛知県",
+    "shop_id": "s3000052196",
+    "shop_name": "High street Hair",
+    "station": "地下鉄東山線・名城線 栄駅　徒歩3分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 257,
+    "area": "愛知県",
+    "shop_id": "s4000052933",
+    "shop_name": "NOBLESSE-NOIR-(ノブレス ノアール）",
+    "station": "名古屋市営地下鉄名城線 矢場町駅 徒歩5分",
+    "select1": "愛知県",
+    "select2": "栄・矢場町・久屋大通"
+  },
+  {
+    "＃": 258,
+    "area": "愛知県",
+    "shop_id": "s2000048657",
+    "shop_name": "inq",
+    "station": "各線 名古屋駅 徒歩7分",
+    "select1": "愛知県",
+    "select2": "名駅周辺・中村公園・西区"
+  },
+  {
+    "＃": 259,
+    "area": "愛知県",
+    "shop_id": "s2000049898",
+    "shop_name": "N° blao 名古屋栄",
+    "station": "名古屋市営地下鉄東山線 栄(名古屋)駅 徒歩3分",
+    "select1": "愛知県",
+    "select2": "名駅周辺・中村公園・西区"
+  },
+  {
+    "＃": 260,
+    "area": "愛知県",
+    "shop_id": "s2000049913",
+    "shop_name": "N° rico 名駅",
+    "station": "各線 名古屋駅 徒歩8分",
+    "select1": "愛知県",
+    "select2": "名駅周辺・中村公園・西区"
+  },
+  {
+    "＃": 261,
+    "area": "愛知県",
+    "shop_id": "s8000037064",
+    "shop_name": "e.m.a PREMIUM BEAUTY SALON",
+    "station": "名古屋市営地下鉄桜通線 国際センター(愛知)駅 徒歩6分",
+    "select1": "愛知県",
+    "select2": "名駅周辺・中村公園・西区"
+  },
+  {
+    "＃": 262,
+    "area": "愛知県",
+    "shop_id": "s6000021317",
+    "shop_name": "LOOSE",
+    "station": "名古屋市営地下鉄東山線 覚王山駅 徒歩3分",
+    "select1": "愛知県",
+    "select2": "千種・名東・藤が丘"
+  },
+  {
+    "＃": 263,
+    "area": "愛知県",
+    "shop_id": "s9000042254",
+    "shop_name": "MAISON e.m.a",
+    "station": "名古屋市営地下鉄鶴舞線 御器所駅 徒歩5分",
+    "select1": "愛知県",
+    "select2": "御器所・八事・赤池"
+  },
+  {
+    "＃": 264,
+    "area": "愛知県",
+    "shop_id": "s8000037073",
+    "shop_name": "Le huit",
+    "station": "あおなみ線 名古屋競馬場前駅 徒歩20分（市バス幹神宮1 バス停：当知中学校徒歩5分）",
+    "select1": "愛知県",
+    "select2": "南区・港区・中川区"
+  },
+  {
+    "＃": 265,
+    "area": "愛知県",
+    "shop_id": "s4010012058",
+    "shop_name": "ISMS...",
+    "station": "名鉄小牧線 小牧駅 徒歩10分",
+    "select1": "愛知県",
+    "select2": "春日井・小牧・犬山"
+  },
+  {
+    "＃": 266,
+    "area": "愛知県",
+    "shop_id": "s2000048299",
+    "shop_name": "FURUSHO 小牧",
+    "station": "名鉄小牧線 味岡駅 徒歩7分",
+    "select1": "愛知県",
+    "select2": "春日井・小牧・犬山"
+  },
+  {
+    "＃": 267,
+    "area": "愛知県",
+    "shop_id": "s6000021315",
+    "shop_name": "cherfi 長久手",
+    "station": "東部丘陵線(リニモ) 杁ヶ池公園駅 徒歩3分",
+    "select1": "愛知県",
+    "select2": "日進・長久手・みよし"
+  },
+  {
+    "＃": 268,
+    "area": "愛知県",
+    "shop_id": "s6000025336",
+    "shop_name": "Corazon イオンモール長久手店",
+    "station": "東部丘陵線(リニモ) 長久手古戦場駅より直結",
+    "select1": "愛知県",
+    "select2": "日進・長久手・みよし"
+  },
+  {
+    "＃": 269,
+    "area": "愛知県",
+    "shop_id": "s6000021307",
+    "shop_name": "SHOOP 稲沢店",
+    "station": "JR東海道本線 稲沢駅 徒歩20分",
+    "select1": "愛知県",
+    "select2": "一宮・稲沢・清洲"
+  },
+  {
+    "＃": 270,
+    "area": "三重県",
+    "shop_id": "s8000037071",
+    "shop_name": "DESSANGE PARIS",
+    "station": "近鉄名古屋線 桑名駅 徒歩8分",
+    "select1": "三重県",
+    "select2": "桑名"
+  },
+  {
+    "＃": 271,
+    "area": "滋賀県",
+    "shop_id": "s3000051570",
+    "shop_name": "KAINO イオンモール草津店",
+    "station": "JR東海道本線（琵琶湖線） 瀬田(滋賀)駅 徒歩23分",
+    "select1": "滋賀県",
+    "select2": "大津・草津"
+  },
+  {
+    "＃": 272,
+    "area": "京都府",
+    "shop_id": "s2000048666",
+    "shop_name": "independence",
+    "station": "阪急京都本線 烏丸駅 徒歩1分",
+    "select1": "京都府",
+    "select2": "四条烏丸・御池・丸太町"
+  },
+  {
+    "＃": 273,
+    "area": "京都府",
+    "shop_id": "s1000047269",
+    "shop_name": "NYNY 河原町オーパ店",
+    "station": "阪急京都本線 京都河原町駅3番出口 徒歩1分",
+    "select1": "京都府",
+    "select2": "四条河原町・河原町三条"
+  },
+  {
+    "＃": 274,
+    "area": "京都府",
+    "shop_id": "s9000044495",
+    "shop_name": "Jour kyoto",
+    "station": "各線京都駅 徒歩5分",
+    "select1": "京都府",
+    "select2": "京都駅・烏丸五条"
+  },
+  {
+    "＃": 275,
+    "area": "京都府",
+    "shop_id": "s5010013716",
+    "shop_name": "PUREE de FLEURS",
+    "station": "叡山電鉄叡山本線 元田中駅 徒歩11分 市バス北白川徒歩1分。市バス17・203号系統が停車致します。",
+    "select1": "京都府",
+    "select2": "上京区・左京区・北区"
+  },
+  {
+    "＃": 276,
+    "area": "京都府",
+    "shop_id": "s7000029911",
+    "shop_name": "Hair Beauty RICHER",
+    "station": "京都市営地下鉄東西線 御陵駅 徒歩10分",
+    "select1": "京都府",
+    "select2": "山科・東山"
+  },
+  {
+    "＃": 277,
+    "area": "京都府",
+    "shop_id": "s2010006409",
+    "shop_name": "HAIR MAKE BRANCHE",
+    "station": "阪急京都本線 長岡天神駅 徒歩8分",
+    "select1": "京都府",
+    "select2": "長岡京市・向日市・八幡"
+  },
+  {
+    "＃": 278,
+    "area": "京都府",
+    "shop_id": "s9000044493",
+    "shop_name": "Jour faas",
+    "station": "近鉄京都線 新田辺駅 徒歩3分",
+    "select1": "京都府",
+    "select2": "宇治・京田辺・城陽"
+  },
+  {
+    "＃": 279,
+    "area": "京都府",
+    "shop_id": "s9000044492",
+    "shop_name": "Jour finon",
+    "station": "学研都市線 松井山手駅 徒歩10分",
+    "select1": "京都府",
+    "select2": "宇治・京田辺・城陽"
+  },
+  {
+    "＃": 280,
+    "area": "大阪府",
+    "shop_id": "s6000021799",
+    "shop_name": "FURUSHO 西梅田",
+    "station": "Osaka Metro四つ橋線 西梅田駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 281,
+    "area": "大阪府",
+    "shop_id": "s6000021797",
+    "shop_name": "FURUSHO 梅田",
+    "station": "JR大阪環状線 大阪駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 282,
+    "area": "大阪府",
+    "shop_id": "s3000051588",
+    "shop_name": "KAINO 梅田店",
+    "station": "各線 大阪梅田駅 徒歩6分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 283,
+    "area": "大阪府",
+    "shop_id": "s9000042453",
+    "shop_name": "grace by afloat 梅田店",
+    "station": "阪急線／御堂筋線 梅田駅 徒歩2分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 284,
+    "area": "大阪府",
+    "shop_id": "s9000042520",
+    "shop_name": "ALLYS umeda",
+    "station": "Osaka Metro御堂筋線 梅田駅 徒歩6分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 285,
+    "area": "大阪府",
+    "shop_id": "s5010014571",
+    "shop_name": "HIKARIS nakazaki",
+    "station": "大阪市営地下鉄谷町線 中崎町駅4号出口 徒歩2分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 286,
+    "area": "大阪府",
+    "shop_id": "s3000052859",
+    "shop_name": "THINK SHOP 梅田茶屋町【シンクショップ】",
+    "station": "各線 梅田駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 287,
+    "area": "大阪府",
+    "shop_id": "s3010010803",
+    "shop_name": "TERRACE CODE 梅田",
+    "station": "大阪市営地下鉄御堂筋線 梅田駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "梅田・茶屋町"
+  },
+  {
+    "＃": 288,
+    "area": "大阪府",
+    "shop_id": "s9000042521",
+    "shop_name": "hair Mission 心斎橋店",
+    "station": "御堂筋線・長堀鶴見緑地線 心斎橋駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "心斎橋・南船場・アメ村"
+  },
+  {
+    "＃": 289,
+    "area": "大阪府",
+    "shop_id": "s3000050581",
+    "shop_name": "ALPHA.",
+    "station": "大阪メトロ御堂筋線 難波駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "なんば・日本橋"
+  },
+  {
+    "＃": 290,
+    "area": "大阪府",
+    "shop_id": "s4000053523",
+    "shop_name": "Cecil hair なんば店",
+    "station": "JR関西本線 ＪＲ難波駅 徒歩2分",
+    "select1": "大阪府",
+    "select2": "なんば・日本橋"
+  },
+  {
+    "＃": 291,
+    "area": "大阪府",
+    "shop_id": "s3000051581",
+    "shop_name": "KAINO なんばタワー店",
+    "station": "南海本線・大阪メトロ御堂筋線　難波駅 徒歩4分",
+    "select1": "大阪府",
+    "select2": "なんば・日本橋"
+  },
+  {
+    "＃": 292,
+    "area": "大阪府",
+    "shop_id": "s3000051580",
+    "shop_name": "KAINO なんばEKIKAN店",
+    "station": "南海高野線 今宮戎駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "なんば・日本橋"
+  },
+  {
+    "＃": 293,
+    "area": "大阪府",
+    "shop_id": "s3000050008",
+    "shop_name": "【全席個室サロン】NUMBER 天王寺【ナンバー】",
+    "station": "JR各線 天王寺駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "天王寺区・阿倍野区"
+  },
+  {
+    "＃": 294,
+    "area": "大阪府",
+    "shop_id": "s4000054111",
+    "shop_name": "Share天王寺",
+    "station": "JR大阪環状線、JR阪和線 天王寺駅 徒歩2分",
+    "select1": "大阪府",
+    "select2": "天王寺区・阿倍野区"
+  },
+  {
+    "＃": 295,
+    "area": "大阪府",
+    "shop_id": "s4010012867",
+    "shop_name": "HIKARIS 相川",
+    "station": "阪急京都本線 相川駅 徒歩すぐ",
+    "select1": "大阪府",
+    "select2": "淡路・上新庄"
+  },
+  {
+    "＃": 296,
+    "area": "大阪府",
+    "shop_id": "s4010012871",
+    "shop_name": "HIKARIS 東三国店",
+    "station": "JR京都線 東淀川駅 西口改札　徒歩1分",
+    "select1": "大阪府",
+    "select2": "東三国・十三・淀川区"
+  },
+  {
+    "＃": 297,
+    "area": "大阪府",
+    "shop_id": "s4000053522",
+    "shop_name": "ALLEN hair 京橋店",
+    "station": "JR大阪環状線 京橋（大阪）駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "京橋・都島区"
+  },
+  {
+    "＃": 298,
+    "area": "大阪府",
+    "shop_id": "s4010012875",
+    "shop_name": "HIKARIS 吹田店",
+    "station": "JR京都線 吹田駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "吹田・江坂"
+  },
+  {
+    "＃": 299,
+    "area": "大阪府",
+    "shop_id": "s3010010471",
+    "shop_name": "sync 豊中店",
+    "station": "阪急宝塚本線 豊中駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "池田・豊中・箕面"
+  },
+  {
+    "＃": 300,
+    "area": "大阪府",
+    "shop_id": "s3010010470",
+    "shop_name": "sync 曽根店",
+    "station": "阪急宝塚本線 曽根駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "池田・豊中・箕面"
+  },
+  {
+    "＃": 301,
+    "area": "大阪府",
+    "shop_id": "s0000045329",
+    "shop_name": "RICHOUR",
+    "station": "大阪モノレール線 少路駅 徒歩10分",
+    "select1": "大阪府",
+    "select2": "池田・豊中・箕面"
+  },
+  {
+    "＃": 302,
+    "area": "大阪府",
+    "shop_id": "s1000047263",
+    "shop_name": "NYNY Mothersイオン大日店",
+    "station": "Osaka Metro谷町線 大日駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "守口・門真・大東"
+  },
+  {
+    "＃": 303,
+    "area": "大阪府",
+    "shop_id": "s1000047264",
+    "shop_name": "NYNY 守口店",
+    "station": "京阪本線 守口市駅西口 徒歩1分",
+    "select1": "大阪府",
+    "select2": "守口・門真・大東"
+  },
+  {
+    "＃": 304,
+    "area": "大阪府",
+    "shop_id": "s1000047267",
+    "shop_name": "NYNY 京阪百貨店住道店",
+    "station": "学研都市線 住道駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "守口・門真・大東"
+  },
+  {
+    "＃": 305,
+    "area": "大阪府",
+    "shop_id": "s9000044490",
+    "shop_name": "Jour doux",
+    "station": "京阪本線 樟葉駅 徒歩10分",
+    "select1": "大阪府",
+    "select2": "枚方・寝屋川・交野"
+  },
+  {
+    "＃": 306,
+    "area": "大阪府",
+    "shop_id": "s9000044498",
+    "shop_name": "SUNROAD Le'club",
+    "station": "京阪本線 橋本(京都)駅 徒歩23分",
+    "select1": "大阪府",
+    "select2": "枚方・寝屋川・交野"
+  },
+  {
+    "＃": 307,
+    "area": "大阪府",
+    "shop_id": "s9000044494",
+    "shop_name": "Jour くずは駅前",
+    "station": "京阪本線 樟葉駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "枚方・寝屋川・交野"
+  },
+  {
+    "＃": 308,
+    "area": "大阪府",
+    "shop_id": "s9000044499",
+    "shop_name": "SUNROAD vif",
+    "station": "学研都市線 長尾(大阪)駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "枚方・寝屋川・交野"
+  },
+  {
+    "＃": 309,
+    "area": "大阪府",
+    "shop_id": "s9000044491",
+    "shop_name": "Jour ritta",
+    "station": "京阪本線 香里園駅 徒歩2分",
+    "select1": "大阪府",
+    "select2": "枚方・寝屋川・交野"
+  },
+  {
+    "＃": 310,
+    "area": "大阪府",
+    "shop_id": "s9000044500",
+    "shop_name": "EvoLuty",
+    "station": "京阪本線 樟葉駅 徒歩5分",
+    "select1": "大阪府",
+    "select2": "枚方・寝屋川・交野"
+  },
+  {
+    "＃": 311,
+    "area": "大阪府",
+    "shop_id": "s9000044502",
+    "shop_name": "boutique",
+    "station": "阪急京都本線 高槻市駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "高槻・茨木・摂津"
+  },
+  {
+    "＃": 312,
+    "area": "大阪府",
+    "shop_id": "s7000033637",
+    "shop_name": "ビューティ堀出 高槻阪急スクエア店",
+    "station": "JR東海道・山陽本線 高槻駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "高槻・茨木・摂津"
+  },
+  {
+    "＃": 313,
+    "area": "大阪府",
+    "shop_id": "s7000033636",
+    "shop_name": "ビューティ堀出 南松原本店・クルール",
+    "station": "阪急京都本線 高槻市駅 徒歩10分",
+    "select1": "大阪府",
+    "select2": "高槻・茨木・摂津"
+  },
+  {
+    "＃": 314,
+    "area": "大阪府",
+    "shop_id": "s3000051574",
+    "shop_name": "KAINO 深井本店",
+    "station": "泉北高速鉄道 深井駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "堺・中百舌鳥"
+  },
+  {
+    "＃": 315,
+    "area": "大阪府",
+    "shop_id": "s3000051583",
+    "shop_name": "KAINO プラットプラット店",
+    "station": "南海本線 堺駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "堺・中百舌鳥"
+  },
+  {
+    "＃": 316,
+    "area": "大阪府",
+    "shop_id": "s3000051585",
+    "shop_name": "KAINO フレスポしんかな店",
+    "station": "大阪メトロ御堂筋線 新金岡駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "堺・中百舌鳥"
+  },
+  {
+    "＃": 317,
+    "area": "大阪府",
+    "shop_id": "s3000051578",
+    "shop_name": "KAINO 光明池店",
+    "station": "泉北高速鉄道 光明池駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "堺・中百舌鳥"
+  },
+  {
+    "＃": 318,
+    "area": "大阪府",
+    "shop_id": "s3000051584",
+    "shop_name": "KAINO 堺東店",
+    "station": "南海高野線 堺東駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "堺・中百舌鳥"
+  },
+  {
+    "＃": 319,
+    "area": "大阪府",
+    "shop_id": "s3000051577",
+    "shop_name": "KAINO 金剛店",
+    "station": "南海高野線 金剛駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "狭山・河内長野・富田林"
+  },
+  {
+    "＃": 320,
+    "area": "大阪府",
+    "shop_id": "s3000051582",
+    "shop_name": "KAINO ノバティながの店",
+    "station": "南海高野線・近鉄長野線 河内長野駅 徒歩1分",
+    "select1": "大阪府",
+    "select2": "狭山・河内長野・富田林"
+  },
+  {
+    "＃": 321,
+    "area": "大阪府",
+    "shop_id": "s3000051576",
+    "shop_name": "KAINO 岸和田店",
+    "station": "南海本線 岸和田駅 徒歩10分",
+    "select1": "大阪府",
+    "select2": "泉大津・和泉・岸和田"
+  },
+  {
+    "＃": 322,
+    "area": "大阪府",
+    "shop_id": "s3000051575",
+    "shop_name": "KAINO いずみおおつCITY店",
+    "station": "南海本線 泉大津駅 徒歩3分",
+    "select1": "大阪府",
+    "select2": "泉大津・和泉・岸和田"
+  },
+  {
+    "＃": 323,
+    "area": "兵庫県",
+    "shop_id": "s0000046099",
+    "shop_name": "KAINO arms KOBE三宮",
+    "station": "JR神戸線 三ノ宮駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "＃": 324,
+    "area": "兵庫県",
+    "shop_id": "s1000046294",
+    "shop_name": "ELLYLONDON 三宮Part2店",
+    "station": "JR神戸線 三ノ宮駅西口改札から徒歩3分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "＃": 325,
+    "area": "兵庫県",
+    "shop_id": "s0000046044",
+    "shop_name": "NYNY 三宮本店",
+    "station": "JR神戸線 三ノ宮駅 徒歩3分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "＃": 326,
+    "area": "兵庫県",
+    "shop_id": "s3000051907",
+    "shop_name": "PEAR+L",
+    "station": "各線 三宮駅 徒歩7分",
+    "select1": "兵庫県",
+    "select2": "三宮"
+  },
+  {
+    "＃": 327,
+    "area": "兵庫県",
+    "shop_id": "s9000042454",
+    "shop_name": "grace by afloat 伊丹店",
+    "station": "阪急神戸本線 武庫之荘駅より車で10分",
+    "select1": "兵庫県",
+    "select2": "宝塚・川西・伊丹・三田"
+  },
+  {
+    "＃": 328,
+    "area": "兵庫県",
+    "shop_id": "s6000019900",
+    "shop_name": "NYNY エビスタ西宮店",
+    "station": "阪神本線 阪神西宮駅 徒歩1分",
+    "select1": "兵庫県",
+    "select2": "西宮・芦屋"
+  },
+  {
+    "＃": 329,
+    "area": "兵庫県",
+    "shop_id": "s6000021804",
+    "shop_name": "FURUSHO 苦楽園",
+    "station": "阪急甲陽線 苦楽園口駅 徒歩2分",
+    "select1": "兵庫県",
+    "select2": "西宮・芦屋"
+  },
+  {
+    "＃": 330,
+    "area": "兵庫県",
+    "shop_id": "s2000048298",
+    "shop_name": "FURUSHO ASHIYA",
+    "station": "JR神戸線 芦屋(ＪＲ)駅 徒歩1分",
+    "select1": "兵庫県",
+    "select2": "西宮・芦屋"
+  },
+  {
+    "＃": 331,
+    "area": "兵庫県",
+    "shop_id": "s1000046184",
+    "shop_name": "Monalisa",
+    "station": "阪急神戸本線 六甲駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "灘区・東灘区・岡本"
+  },
+  {
+    "＃": 332,
+    "area": "兵庫県",
+    "shop_id": "s2000049510",
+    "shop_name": "HAIR&FACE LA・Pish",
+    "station": "神戸電鉄粟生線 栄(兵庫)駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "須磨区・垂水区・西区"
+  },
+  {
+    "＃": 333,
+    "area": "兵庫県",
+    "shop_id": "s1000047284",
+    "shop_name": "NYNY 大久保店",
+    "station": "JR神戸線 大久保(兵庫)駅 徒歩1分",
+    "select1": "兵庫県",
+    "select2": "明石・加古川・三木"
+  },
+  {
+    "＃": 334,
+    "area": "兵庫県",
+    "shop_id": "s1000047283",
+    "shop_name": "NYNY Mothersパピオス明石店",
+    "station": "JR東海道・山陽本線 明石駅 徒歩3分",
+    "select1": "兵庫県",
+    "select2": "明石・加古川・三木"
+  },
+  {
+    "＃": 335,
+    "area": "兵庫県",
+    "shop_id": "s5010014871",
+    "shop_name": "HAIRS DESIREE",
+    "station": "神戸電鉄粟生線 三木駅下車 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "明石・加古川・三木"
+  },
+  {
+    "＃": 336,
+    "area": "兵庫県",
+    "shop_id": "s1000047280",
+    "shop_name": "NYNY 姫路本店",
+    "station": "JR山陽本線 姫路駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "姫路・播州赤穂"
+  },
+  {
+    "＃": 337,
+    "area": "兵庫県",
+    "shop_id": "s1000047281",
+    "shop_name": "NYNY Mothers姫路南店",
+    "station": "山陽電鉄本線 亀山(兵庫)駅 徒歩5分 ☆当店すぐ前に駐車場完備☆",
+    "select1": "兵庫県",
+    "select2": "姫路・播州赤穂"
+  },
+  {
+    "＃": 338,
+    "area": "兵庫県",
+    "shop_id": "s3000050605",
+    "shop_name": "hair art PALIO 本店",
+    "station": "JR山陽本線 東姫路駅 徒歩5分",
+    "select1": "兵庫県",
+    "select2": "姫路・播州赤穂"
+  },
+  {
+    "＃": 339,
+    "area": "兵庫県",
+    "shop_id": "s3000050603",
+    "shop_name": "hair art PALIO 駅南店",
+    "station": "JR山陽本線 姫路駅 徒歩2分",
+    "select1": "兵庫県",
+    "select2": "姫路・播州赤穂"
+  },
+  {
+    "＃": 340,
+    "area": "兵庫県",
+    "shop_id": "s3000050604",
+    "shop_name": "hair art PALIO 飾磨店",
+    "station": "山陽電鉄網干線 西飾磨駅 徒歩15分",
+    "select1": "兵庫県",
+    "select2": "姫路・播州赤穂"
+  },
+  {
+    "＃": 341,
+    "area": "奈良県",
+    "shop_id": "s3000051589",
+    "shop_name": "KAINO イオンモール大和郡山店",
+    "station": "JR関西本線・JR大和路線 郡山(奈良)駅 イオンモール大和郡山行きバス約5分",
+    "select1": "奈良県",
+    "select2": "大和郡山・天理"
+  },
+  {
+    "＃": 342,
+    "area": "和歌山県",
+    "shop_id": "s3000050097",
+    "shop_name": "vi・a hair",
+    "station": "JR紀勢本線 紀伊田辺駅 徒歩20分",
+    "select1": "和歌山県",
+    "select2": "田辺・白浜"
+  },
+  {
+    "＃": 343,
+    "area": "岡山県",
+    "shop_id": "s3000051571",
+    "shop_name": "KAINO イオンモール岡山店",
+    "station": "JR各線 岡山駅 徒歩5分",
+    "select1": "岡山県",
+    "select2": "岡山・玉野"
+  },
+  {
+    "＃": 344,
+    "area": "岡山県",
+    "shop_id": "s3000051579",
+    "shop_name": "KAINO イオンモール倉敷店",
+    "station": "JR山陽本線 倉敷駅 徒歩24分",
+    "select1": "岡山県",
+    "select2": "倉敷・笠岡・井原"
+  },
+  {
+    "＃": 345,
+    "area": "福岡県",
+    "shop_id": "s4000053329",
+    "shop_name": "福岡 天神 大名 kchiara",
+    "station": "福岡市地下鉄空港線 天神駅(西通り) 徒歩7分",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "＃": 346,
+    "area": "福岡県",
+    "shop_id": "s3000051586",
+    "shop_name": "KAINO 福岡天神店",
+    "station": "福岡市地下鉄空港線・福岡市地下鉄箱崎線　天神駅 徒歩3分",
+    "select1": "福岡県",
+    "select2": "天神・大名・今泉"
+  },
+  {
+    "＃": 347,
+    "area": "福岡県",
+    "shop_id": "s5010014567",
+    "shop_name": "半個室型美容室 Sourire 赤坂店",
+    "station": "福岡市地下鉄空港線 赤坂駅 徒歩30秒",
+    "select1": "福岡県",
+    "select2": "警固・赤坂・大濠"
+  },
+  {
+    "＃": 348,
+    "area": "福岡県",
+    "shop_id": "s1000047103",
+    "shop_name": "ACT JAPAN GRAND CENTRAL",
+    "station": "福岡市地下鉄空港線 中洲川端駅 徒歩1分",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "＃": 349,
+    "area": "福岡県",
+    "shop_id": "s9000041504",
+    "shop_name": "半個室型美容室 Sourire 博多店",
+    "station": "JR 地下鉄 博多駅 徒歩6分",
+    "select1": "福岡県",
+    "select2": "博多・中洲・住吉"
+  },
+  {
+    "＃": 350,
+    "area": "福岡県",
+    "shop_id": "s3000050083",
+    "shop_name": "半個室 rire hair 大野城店",
+    "station": "JR鹿児島本線 大野城駅 徒歩5分/JR大野城駅西口から出てあんどん通りを北に向かって直進して立橋を潜り春日高校前交差点を左折してそのまま直進すると「らーめん六長屋」さんの横になります。\\r\\n",
+    "select1": "福岡県",
+    "select2": "春日・大野城・太宰府・筑紫野"
+  },
+  {
+    "＃": 351,
+    "area": "福岡県",
+    "shop_id": "s8000036223",
+    "shop_name": "mariage 筑紫野",
+    "station": "西鉄天神大牟田線　【朝倉街道駅】　徒歩8分",
+    "select1": "福岡県",
+    "select2": "春日・大野城・太宰府・筑紫野"
+  },
+  {
+    "＃": 352,
+    "area": "福岡県",
+    "shop_id": "s3000051047",
+    "shop_name": "mod's hair 福岡姪浜店",
+    "station": "福岡市地下鉄空港線 姪浜駅 徒歩1分",
+    "select1": "福岡県",
+    "select2": "西新・藤崎・姪浜・九大学研都市"
+  },
+  {
+    "＃": 353,
+    "area": "福岡県",
+    "shop_id": "s8000036224",
+    "shop_name": "mariage 博多",
+    "station": "福岡市地下鉄箱崎線 箱崎宮前駅 徒歩15分",
+    "select1": "福岡県",
+    "select2": "吉塚・箱崎・香椎"
+  },
+  {
+    "＃": 354,
+    "area": "福岡県",
+    "shop_id": "s2000048725",
+    "shop_name": "半個室 rire hair 千早店",
+    "station": "JR千早駅西口から出て千早並木通りを左に進み、千早4丁目交差点を右に曲がる、香椎浜団地入口交差点を右に進みFeel it chihayaという建物の2階までお越しください♪",
+    "select1": "福岡県",
+    "select2": "吉塚・箱崎・香椎"
+  },
+  {
+    "＃": 355,
+    "area": "福岡県",
+    "shop_id": "s8000036225",
+    "shop_name": "MISESU～LIFE COOADINATE THEATER",
+    "station": "西鉄天神大牟田線 西鉄久留米駅 徒歩2分",
+    "select1": "福岡県",
+    "select2": "小郡・久留米・筑後・八女"
+  },
+  {
+    "＃": 356,
+    "area": "福岡県",
+    "shop_id": "s8000036222",
+    "shop_name": "mariage 八女",
+    "station": "JR鹿児島本線 羽犬塚駅から車で約10分",
+    "select1": "福岡県",
+    "select2": "柳川・大川・大牟田"
+  },
+  {
+    "＃": 357,
+    "area": "福岡県",
+    "shop_id": "s3000050122",
+    "shop_name": "SALA KYOGOKU TOKYO",
+    "station": "地域指名率No１【地域限定メニュー】CATGカラー / Softfixストレート/ ヘアカラー&デザインカラーが豊富  / ダメージ特化サロン/JR鹿児島本線 赤間駅徒歩10分/くりえいと宗像",
+    "select1": "福岡県",
+    "select2": "新宮・古賀・福津・宗像"
+  },
+  {
+    "＃": 358,
+    "area": "福岡県",
+    "shop_id": "s3000051573",
+    "shop_name": "KAINO 福岡志免本店",
+    "station": "JR香椎線 酒殿駅 徒歩20分",
+    "select1": "福岡県",
+    "select2": "糟屋郡・飯塚・田川・嘉麻"
+  },
+  {
+    "＃": 359,
+    "area": "福岡県",
+    "shop_id": "s8000034883",
+    "shop_name": "ファブリック・ヘッドクオーター",
+    "station": "JR日田彦山線 田川後藤寺駅 徒歩6分",
+    "select1": "福岡県",
+    "select2": "糟屋郡・飯塚・田川・嘉麻"
+  },
+  {
+    "＃": 360,
+    "area": "福岡県",
+    "shop_id": "s8000034882",
+    "shop_name": "ファブリック・レッド・ドアー",
+    "station": "JR筑豊本線 飯塚駅 徒歩5分",
+    "select1": "福岡県",
+    "select2": "糟屋郡・飯塚・田川・嘉麻"
+  },
+  {
+    "＃": 361,
+    "area": "長崎県",
+    "shop_id": "s3000050653",
+    "shop_name": "美容室ロベリア",
+    "station": "長崎電軌１系統 平和公園駅 徒歩7分",
+    "select1": "長崎県",
+    "select2": "長崎・西海"
+  },
+  {
+    "＃": 362,
+    "area": "長崎県",
+    "shop_id": "s3000050584",
+    "shop_name": "SORA",
+    "station": "長崎電軌１系統 観光通駅 徒歩1分",
+    "select1": "長崎県",
+    "select2": "長崎・西海"
+  },
+  {
+    "＃": 363,
+    "area": "大分県",
+    "shop_id": "s3000052157",
+    "shop_name": "N°number 大分中央町店",
+    "station": "JR日豊本線 大分駅 徒歩6分",
+    "select1": "大分県",
+    "select2": "大分・竹田・臼杵"
+  },
+  {
+    "＃": 364,
+    "area": "鹿児島県",
+    "shop_id": "s3000051593",
+    "shop_name": "KAINO 鹿児島センテラス天文館店",
+    "station": "JR各線 鹿児島中央駅 徒歩22分",
+    "select1": "鹿児島県",
+    "select2": "鹿児島・南さつま"
+  }
+]

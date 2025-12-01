@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "高橋 誉",
+    "id": "stf0191527",
+    "status": "open",
+    "salon": "Louer hairmake",
+    "salonId": "s2000048402",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 2,
+    "name": "門脇　麻由",
+    "id": "stf0204148",
+    "status": "open",
+    "salon": "elm 仙台 錦町",
+    "salonId": "s2000049866",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 3,
+    "name": "八鍬 光春",
+    "id": "stf0171617",
+    "status": "open",
+    "salon": "clover field",
+    "salonId": "s1000046301",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 4,
+    "name": "佐藤 大輔",
+    "id": "stf0206669",
+    "status": "open",
+    "salon": "HAIR MAKE SANCTUARY",
+    "salonId": "s3000050232",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 5,
+    "name": "及川　正人",
+    "id": "stf0204911",
+    "status": "open",
+    "salon": "elm 仙台 錦町",
+    "salonId": "s2000049866",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 6,
+    "name": "山崎 大輔",
+    "id": "stf0055575",
+    "status": "open",
+    "salon": "Tear Drive by Salt",
+    "salonId": "s5000016399",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 7,
+    "name": "相良 悟",
+    "id": "stf0155506",
+    "status": "open",
+    "salon": "mau 仙台店",
+    "salonId": "s9000045068",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 8,
+    "name": "佐藤 博之",
+    "id": "stf0203941",
+    "status": "open",
+    "salon": "barbershop Brothers",
+    "salonId": "s2000049840",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 9,
+    "name": "岩村 晃㐂",
+    "id": "stf0132259",
+    "status": "open",
+    "salon": "Private Hair Salon YoRoKoBi",
+    "salonId": "s8000040925",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  },
+  {
+    "rank": 10,
+    "name": "岩渕 蓮",
+    "id": "stf0160710",
+    "status": "open",
+    "salon": "【全席半個室サロン】Natural 仙台西口店",
+    "salonId": "s0000045393",
+    "salonStatus": "open",
+    "noimage": "off",
+    "interview": ""
+  }
+]
