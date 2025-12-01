@@ -2,24 +2,20 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   root: './',
-  base: './',
-  publicDir: 'public',
+  base: '/',
+  publicDir: false,
   server: {
     port: 3000,
-    open: '/index.html',
+    open: true,
     // すべてのHTMLページへのアクセスを許可
     fs: {
-      strict: false
-    },
-    // MIMEタイプの設定
-    headers: {
-      'Content-Type': 'text/html; charset=utf-8'
+      strict: false,
+      allow: ['.']
     }
   },
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
-    // すべてのHTMLファイルをそのまま出力
     rollupOptions: {
       input: {
         main: './index.html'
